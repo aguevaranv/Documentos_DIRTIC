@@ -1,0 +1,30 @@
+version: '3.3'
+
+services:
+
+  odoo:
+    image: odoo:15.0 #image of the odoo
+    container_name: odoo15-2
+    restart: unless-stopped
+    env_file: .env #environment file(contains odoo environment)
+    depends_on:
+      - postgres
+    ports:
+      - "8000:8069" #port mapping
+    volumes: #mapping directory
+      - data:/var/lib/odoo
+      - ./config:/etc/odoo 
+      - ./extra-addons:/mnt/extra-addons
+  postgres: 
+    image: postgres:13 #postgres image
+    container_name: db13
+    restart: unless-stopped
+    env_file: .env #environment file(contains postgres environment)
+    ports:
+      - "5435:5432"
+    volumes:
+      - db:/var/lib/postgresql/data/pgdata
+     
+volumes:
+  data:
+  db:
