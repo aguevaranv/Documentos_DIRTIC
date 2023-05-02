@@ -1,0 +1,68 @@
+import 'package:flutter/material.dart';
+import 'package:odoo_api/odoo_api.dart';
+
+void main() {
+  runApp(MyApp());
+}
+
+class MyApp extends StatefulWidget {
+  @override
+  _MyAppState createState() => _MyAppState();
+}
+
+class _MyAppState extends State<MyApp> {
+
+  final client = OdooClient("http://10.128.37.67:8000");
+
+  String _result = "";
+
+  @override
+  void initState() {
+    super.initState();
+    _getDataFromOdoo();
+  }
+
+  void _getDataFromOdoo() async {
+    try {
+      final autenticate = await client.authenticate("admin", "12345", "001");
+      if (autenticate != null){
+        print("Autenticadoooooooooooooooooooo");
+      }
+      else {
+        print("Noooooooooooooooooooo");
+      }
+      final response = await client.searchRead('res.users', [['id', '=', 2]], [
+        'id', 'login'
+      ]);
+      setState(() {
+        _result = response.getResult().toString();
+      });
+    } catch (e) {
+      print("Error: $e");
+      setState(() {
+        _result = "Error: $e";
+      });
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: Scaffold(
+        appBar: AppBar(
+          title: Text("Consulta de usuarios en Odoo"),
+        ),
+        body: Center(
+          child: Text(
+            _result,
+            style: TextStyle(
+              fontSize: 20,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+
