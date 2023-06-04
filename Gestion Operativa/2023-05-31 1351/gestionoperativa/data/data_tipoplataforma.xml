@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="0">
+        <record id="data_tipo_plataforma_desde_tierra" model="gestionoperativa.tipoplataforma">
+            <field name="name">DESDE TIERRA</field>
+        </record>
+        <record id="data_tipo_plataforma_embarcado" model="gestionoperativa.tipoplataforma">
+            <field name="name">EMBARCADO</field>
+        </record>
+    </data>
+</odoo>

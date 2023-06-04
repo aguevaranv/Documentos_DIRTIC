@@ -1,0 +1,39 @@
+<odoo>
+  <data>
+    <record model="ir.ui.view" id="tipooperacion_tree">
+      <field name="name">TIPO DE OPERACIÓN</field>
+      <field name="model">gestionoperativa.tipooperacion</field>
+      <field name="arch" type="xml">
+        <tree>
+            <field name="name" />
+        </tree>
+      </field>
+    </record>
+
+    <record model="ir.ui.view" id="tipooperacion_form">
+      <field name="name">gestionoperativa.tipooperacion.form</field>
+      <field name="model">gestionoperativa.tipooperacion</field>
+      <field name="arch" type="xml">
+        <form>
+          <group>
+            <field name="name" />
+          </group>
+          <footer>                
+          </footer>            
+        </form>
+      </field>
+    </record>
+
+    <record model="ir.actions.act_window" id="tipooperacion_action_window">
+      <field name="name">TIPO DE OPERACIÓN</field>
+        <field name="res_model">gestionoperativa.tipooperacion</field>
+        <field name="view_ids" eval="[(5, 0, 0),
+            (0, 0, {'view_mode': 'tree', 'view_id': ref('gestionoperativa.tipooperacion_tree')}),
+            (0, 0, {'view_mode': 'form', 'view_id': ref('gestionoperativa.tipooperacion_form')}),
+            ]"/>
+    </record>
+
+    <menuitem name="TIPO DE OPERACIÓN" id="gestionoperativa_tipooperacion_list" parent="gestionoperativa_otros" action="tipooperacion_action_window"/>
+
+  </data>
+</odoo>

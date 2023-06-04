@@ -1,0 +1,40 @@
+<odoo>
+  <data>
+    <record model="ir.ui.view" id="tipoplataforma_tree">
+      <field name="name">TIPO DE PLATAFORMA</field>
+      <field name="model">gestionoperativa.tipoplataforma</field>
+      <field name="arch" type="xml">
+        <tree>
+        <!-- <tree editable="bottom"> -->
+            <field name="name" />
+        </tree>
+      </field>
+    </record>
+
+    <record model="ir.ui.view" id="tipoplataforma_form">
+      <field name="name">gestionoperativa.tipoplataforma.form</field>
+      <field name="model">gestionoperativa.tipoplataforma</field>
+      <field name="arch" type="xml">
+        <form>
+          <group>
+            <field name="name" />
+          </group>
+          <footer>                
+          </footer>            
+        </form>
+      </field>
+    </record>
+
+    <record model="ir.actions.act_window" id="tipoplataforma_action_window">
+        <field name="name">TIPO DE PLATAFORMA</field>
+        <field name="res_model">gestionoperativa.tipoplataforma</field>
+        <field name="view_ids" eval="[(5, 0, 0),
+            (0, 0, {'view_mode': 'tree', 'view_id': ref('gestionoperativa.tipoplataforma_tree')}),
+            (0, 0, {'view_mode': 'form', 'view_id': ref('gestionoperativa.tipoplataforma_form')}),
+            ]"/>
+    </record>
+
+    <menuitem name="TIPO DE PLATAFORMA" id="gestionoperativa_tipoplataforma_list" parent="gestionoperativa_otros" action="tipoplataforma_action_window"/>
+
+  </data>
+</odoo>

@@ -1,0 +1,40 @@
+<odoo>
+  <data>
+    <record model="ir.ui.view" id="configter_tree">
+      <field name="name">CONFIGURACIÓN TERRESTRE</field>
+      <field name="model">gestionoperativa.configter</field>
+      <field name="arch" type="xml">
+        <tree editable='bottom'>
+            <field name="name" />
+            <field name="visible" widget="boolean_button"/>
+        </tree>
+      </field>
+    </record>
+
+    <record model="ir.ui.view" id="configter_form">
+      <field name="name">gestionoperativa.configter.form</field>
+      <field name="model">gestionoperativa.configter</field>
+      <field name="arch" type="xml">
+        <form>
+          <group>
+            <field name="name" />
+          </group>
+          <footer>                
+          </footer>            
+        </form>
+      </field>
+    </record>
+
+    <record model="ir.actions.act_window" id="configter_action_window2">
+        <field name="name">CONFIGURACIÓN TERRESTRE</field>
+        <field name="res_model">gestionoperativa.configter</field>
+        <field name="view_ids" eval="[(5, 0, 0),
+            (0, 0, {'view_mode': 'tree', 'view_id': ref('gestionoperativa.configter_tree')}),
+            (0, 0, {'view_mode': 'form', 'view_id': ref('gestionoperativa.configter_form')}),
+            ]"/>
+    </record>
+
+    <menuitem name="TERRESTRE" id="gestionoperativa_config_list_ter" parent="gestionoperativa_config" action="configter_action_window2"/>
+
+  </data>
+</odoo>

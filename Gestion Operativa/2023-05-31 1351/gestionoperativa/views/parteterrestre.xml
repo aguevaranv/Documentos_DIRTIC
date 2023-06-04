@@ -1,0 +1,66 @@
+<odoo>
+  <data>
+    <record model="ir.ui.view" id="parteopeter_tree">
+      <field name="name">Parte Operativo Terrestre</field>
+      <field name="model">gestionoperativa.parteopeter</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="create_date" />
+          <field name="create_uid" />
+          <field name="gestionoperativater_ids"/>
+        </tree>
+      </field>
+    </record>
+
+    <record model="ir.ui.view" id="parteopeter_form">
+      <field name="name">gestionoperativa.parteopeter.form</field>
+      <field name="model">gestionoperativa.parteopeter</field>
+      <field name="arch" type="xml">
+        <form>
+          <group>
+            <group>
+              <field name="create_date" />
+            </group>
+            <group>
+              <field name="create_uid" string='Parte operativo creado por:'/>
+            </group>
+
+            <!-- <group attrs="{'class': 'grupo-estilo'}">
+                <div class="grupo-titulo">Parte operativo creado por:</div>
+            </group> -->
+
+          </group>
+          <group>
+            <field name="gestionoperativater_ids">
+              <tree editable="bottom">
+                <field name="unidad_id_domain" invisible="1" />
+                <field name="unidad_id" string="Programa:" domain="unidad_id_domain" options="{'no_open':True,'no_create_edit':True,'no_create':True,'no_quick_create':True}"/>
+                <field name="fecha_desde"/>
+                <field name="fecha_hasta"/>
+                <field name="posicion_actual"/>
+                <field name="cond_operativa"/>
+                <field name="observacion"/>
+                <field name="latitude" />
+                <field name="longitude" />
+              </tree>
+            </field>
+          </group>
+          <footer>
+          </footer>
+        </form>
+      </field>
+    </record>
+
+    <record model="ir.actions.act_window" id="parteopeter_action_window2">
+      <field name="name">Gestion Operativa Terrestre</field>
+      <field name="res_model">gestionoperativa.parteopeter</field>
+      <field name="view_ids" eval="[(5, 0, 0),
+            (0, 0, {'view_mode': 'tree', 'view_id': ref('gestionoperativa.parteopeter_tree')}),
+            (0, 0, {'view_mode': 'form', 'view_id': ref('gestionoperativa.parteopeter_form')}),
+            ]"/>
+    </record>
+
+    <menuitem name="Ingresos/Consulta Terrestre" id="parteopeter_menu_4_list" parent="gestionoperativa_menu_2" action="parteopeter_action_window2"/>
+
+  </data>
+</odoo>

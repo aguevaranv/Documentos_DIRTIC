@@ -1,0 +1,81 @@
+<odoo>
+  <data>
+    <record model="ir.ui.view" id="resultadosobtenidos_tree">
+      <field name="name">RESULTADOS OBTENIDOS</field>
+      <field name="model">gestionoperativa.resultadosobtenidos</field>
+      <field name="arch" type="xml">
+        <tree create="0">
+          <field name="lineaparteavi_id" readonly="1"/>
+          <field name="tiporesultado_id" />
+          <field name="cantidad" />
+          <field name="latitude" />
+          <field name="longitude" />
+          <field name="attachment_ids" widget="many2many_tags" string="Adjuntar"/>
+          <field name="observacion" />
+        </tree>
+      </field>
+    </record>
+
+    <record model="ir.ui.view" id="resultadosobtenidos_form">
+      <field name="name">gestionoperativa.resultadosobtenidos.form</field>
+      <field name="model">gestionoperativa.resultadosobtenidos</field>
+      <field name="arch" type="xml">
+        <form create="1">
+          <header>
+            <field name="lineaparteavi_id" force_save="1" readonly="1"/>
+          </header>
+
+          <table>
+            <tr>
+              <td colspan="2">
+                <group>
+                  <field name="tiporesultado_id" />
+                </group>
+              </td>
+              <td>
+                <group>
+                  <field name="latitude" />
+                </group>
+
+              </td>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <group>
+                  <field name="cantidad" />
+                </group>
+              </td>
+              <td>
+                <group>
+                  <field name="longitude" />
+                </group>
+              </td>
+            </tr>
+          </table>
+
+          <separator/>
+          <group colspan="2">
+          <field name="attachment_ids" widget="many2many_binary"/>
+          </group>
+
+          <separator/>
+          <group colspan="2">
+            <field name="observacion" />
+          </group>
+        </form>
+      </field>
+    </record>
+
+    <record model="ir.actions.act_window" id="resultadosobtenidos_action_window">
+      <field name="name">RESULTADOS OBTENIDOS</field>
+      <field name="res_model">gestionoperativa.resultadosobtenidos</field>
+      <field name="view_ids" eval="[(5, 0, 0),
+            (0, 0, {'view_mode': 'tree', 'view_id': ref('gestionoperativa.resultadosobtenidos_tree')}),
+            (0, 0, {'view_mode': 'form', 'view_id': ref('gestionoperativa.resultadosobtenidos_form')}),
+            ]"/>
+    </record>
+
+    <menuitem name="RESULTADOS OBTENIDOS" id="gestionoperativa_resultadosobtenidos_list" parent="gestionoperativa_otros" action="resultadosobtenidos_action_window"/>
+
+  </data>
+</odoo>

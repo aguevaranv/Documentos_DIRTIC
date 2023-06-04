@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <record id="data_tipo_operacion_exploracion_aeromaritima" model="gestionoperativa.tipooperacion">
+            <field name="name">EXPLORACIÓN AEROMÁRITIMA</field>
+        </record>
+        <record id="data_tipo_operacion_medevac_tsa" model="gestionoperativa.tipooperacion">
+            <field name="name">MEDEVAC-TSA</field>
+        </record>
+        <record id="data_tipo_operacion_sar" model="gestionoperativa.tipooperacion">
+            <field name="name">SAR</field>
+        </record>
+        <record id="data_tipo_operacion_apoyo_instituciones" model="gestionoperativa.tipooperacion">
+            <field name="name">APOYO A OTRAS INSTITUCIONES DEL ESTADO</field>
+        </record>
+        <record id="data_tipo_operacion_seguridad_y_proteccion" model="gestionoperativa.tipooperacion">
+            <field name="name">SEGURIDAD Y PROTECCIÓN</field>
+        </record>
+        <record id="data_tipo_operacion_entrenamiento_defensa_externa" model="gestionoperativa.tipooperacion">
+            <field name="name">ENTRENAMIENTO DEFENSA EXTERNA</field>
+        </record>
+        <record id="data_tipo_operacion_ejercicio_multifuncional" model="gestionoperativa.tipooperacion">
+            <field name="name">EJERCICIO MULTINACIONAL</field>
+        </record>
+    </data>
+</odoo>

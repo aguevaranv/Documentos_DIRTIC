@@ -1,0 +1,40 @@
+<odoo>
+  <data>
+    <record model="ir.ui.view" id="areasoperacion_tree">
+      <field name="name">AREAS DE OPERACIÓN</field>
+      <field name="model">gestionoperativa.areasoperacion</field>
+      <field name="arch" type="xml">
+        <tree>
+        <!-- <tree editable="bottom"> -->
+            <field name="name" />
+        </tree>
+      </field>
+    </record>
+
+    <record model="ir.ui.view" id="areasoperacion_form">
+      <field name="name">gestionoperativa.areasoperacion.form</field>
+      <field name="model">gestionoperativa.areasoperacion</field>
+      <field name="arch" type="xml">
+        <form>
+          <group>
+            <field name="name" />
+          </group>
+          <footer>                
+          </footer>            
+        </form>
+      </field>
+    </record>
+
+    <record model="ir.actions.act_window" id="areasoperacion_action_window">
+        <field name="name">AREAS DE OPERACIÓN</field>
+        <field name="res_model">gestionoperativa.areasoperacion</field>
+        <field name="view_ids" eval="[(5, 0, 0),
+            (0, 0, {'view_mode': 'tree', 'view_id': ref('gestionoperativa.areasoperacion_tree')}),
+            (0, 0, {'view_mode': 'form', 'view_id': ref('gestionoperativa.areasoperacion_form')}),
+            ]"/>
+    </record>
+
+    <menuitem name="AREAS DE OPERACIÓN" id="gestionoperativa_areasoperacion_list" parent="gestionoperativa_otros" action="areasoperacion_action_window"/>
+
+  </data>
+</odoo>

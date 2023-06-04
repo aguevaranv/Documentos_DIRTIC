@@ -1,0 +1,44 @@
+<odoo>
+  <data>
+    <record model="ir.ui.view" id="configmar_tree">
+      <field name="name">CONFIGURACIÓN MARÍTIMA</field>
+      <field name="model">gestionoperativa.configmar</field>
+      <field name="arch" type="xml">
+        <tree editable='bottom'>
+            <field name="name" />
+            <field name="reparto_ids" widget="many2many_tags" options="{'no_open':True,'no_create_edit':True,'no_create':True,'no_quick_create':True}"/>
+            <field name="visible" widget="boolean_button"/>
+        </tree>
+      </field>
+    </record>
+
+    <record model="ir.ui.view" id="configmar_form">
+      <field name="name">gestionoperativa.configmar.form</field>
+      <field name="model">gestionoperativa.configmar</field>
+      <field name="arch" type="xml">
+        <form>
+          <group>
+            <field name="name" />
+            <field name="reparto_ids" widget="many2many_tags"  options="{'no_open':True,'no_create_edit':True,'no_create':True,'no_quick_create':True}"/>
+          </group>
+          <footer>                
+          </footer>            
+        </form>
+      </field>
+    </record>
+
+    <record model="ir.actions.act_window" id="configmar_action_window2">
+        <field name="name">CONFIGURACIÓN MARÍTIMA</field>
+        <field name="res_model">gestionoperativa.configmar</field>
+        <field name="view_ids" eval="[(5, 0, 0),
+            (0, 0, {'view_mode': 'tree', 'view_id': ref('gestionoperativa.configmar_tree')}),
+            (0, 0, {'view_mode': 'form', 'view_id': ref('gestionoperativa.configmar_form')}),
+            ]"/>
+    </record>
+
+    <menuitem name="CONFIGURACIÓN" id="gestionoperativa_config" parent="gestionoperativa_menu_root"/>
+    <menuitem name="CATÁLOGO" id="gestionoperativa_otros" parent="gestionoperativa_menu_root"/>
+    <menuitem name="MARÍTIMA" id="gestionoperativa_config_list" parent="gestionoperativa_config" action="configmar_action_window2"/>
+
+  </data>
+</odoo>

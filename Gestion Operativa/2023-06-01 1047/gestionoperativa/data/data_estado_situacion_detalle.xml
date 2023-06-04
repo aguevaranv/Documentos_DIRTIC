@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+    <!-- DATA OPERATIVO -->
+        <record id="data_situacion_tipoperacion1" model="gestionoperativa.configaviestadodetalle">
+            <field name="situacion_id" ref="gestionoperativa.data_situacion_operacion"/>
+            <field name="tipo_operacion_ids" eval="[(6, 0, [ ref('data_tipo_operacion_exploracion_aeromaritima'), 
+                                                        ref('data_tipo_operacion_medevac_tsa'),
+                                                        ref('data_tipo_operacion_sar'),
+                                                                ])]"/>
+        </record>
+         <record id="data_situacion_tipoperacion2" model="gestionoperativa.configaviestadodetalle">
+            <field name="situacion_id" ref="gestionoperativa.data_situacion_enbase"/>
+        </record>
+        
+        <record id="data_estado_operativo" model="gestionoperativa.configaviestado">
+            <field name="estado">OPERATIVO</field>
+            <field name="configaviestadodetalle_ids" eval="[(6, 0, [ ref('data_situacion_tipoperacion1'), 
+                                                                        ref('data_situacion_tipoperacion2'), 
+                                                        
+                                                                ])]"/>
+        </record>
+
+    <!-- DATA NO OPERATIVO -->
+        <record id="data_situacion_tipoperacion3" model="gestionoperativa.configaviestadodetalle">
+            <field name="situacion_id" ref="gestionoperativa.data_situacion_enmantenimiento"/>
+        </record>
+        <record id="data_situacion_tipoperacion4" model="gestionoperativa.configaviestadodetalle">
+            <field name="situacion_id" ref="gestionoperativa.data_situacion_enreparacion"/>
+        </record>
+        <record id="data_situacion_tipoperacion5" model="gestionoperativa.configaviestadodetalle">
+            <field name="situacion_id" ref="gestionoperativa.data_situacion_enproyecto"/>
+        </record>
+         <record id="data_situacion_tipoperacion6" model="gestionoperativa.configaviestadodetalle">
+            <field name="situacion_id" ref="gestionoperativa.data_situacion_sinpresupuesto"/>
+        </record>
+      
+        <record id="data_estado_no_operativo" model="gestionoperativa.configaviestado">
+            <field name="estado">NO OPERATIVO</field>
+            <field name="configaviestadodetalle_ids" eval="[(6, 0, [ ref('data_situacion_tipoperacion3'), 
+                                                        ref('data_situacion_tipoperacion4'),
+                                                        ref('data_situacion_tipoperacion5'),
+                                                        ref('data_situacion_tipoperacion6'),
+                                                                ])]"/>
+        </record>
+    </data>
+</odoo>
+
+

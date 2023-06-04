@@ -1,0 +1,84 @@
+<odoo>
+  <data>
+    <!-- <record model="ir.ui.view" id="configaviestado_tree">
+      <field name="name">CONFIGURACIÓN AÉREA</field>
+      <field name="model">gestionoperativa.configaviestado</field>
+      <field name="arch" type="xml">
+        <tree  editable="bottom" >
+            <field name="estado" />
+            <field name="configaviestadodetalle_ids" widget="many2many_tags"  options="{'no_open':True,'no_create_edit':True,'no_create':True,'no_quick_create':True}"/>
+        </tree>
+      </field>
+    </record>
+
+    <record model="ir.ui.view" id="configaviestado_form">
+      <field name="name">gestionoperativa.configaviestado.form</field>
+      <field name="model">gestionoperativa.configaviestado</field>
+      <field name="arch" type="xml">
+        <form>
+          <group>
+            <field name="estado" />  
+            <field name="configaviestadodetalle_ids" widget="many2many_tags" options="{'no_open':True,'no_create_edit':True,'no_create':True,'no_quick_create':True}">
+            
+            </field>
+          </group>
+          <footer>                
+          </footer>            
+        </form>
+      </field>
+    </record>
+
+    <record model="ir.actions.act_window" id="configaviestado_action_window">
+        <field name="name">CONFIGURACIÓN AÉREA</field>
+        <field name="res_model">gestionoperativa.configaviestado</field>
+        <field name="view_ids" eval="[(5, 0, 0),
+            (0, 0, {'view_mode': 'tree', 'view_id': ref('gestionoperativa.configaviestado_tree')}),
+            (0, 0, {'view_mode': 'form', 'view_id': ref('gestionoperativa.configaviestado_form')}),
+            ]"/>
+    </record>
+
+    <menuitem name="CONFIGURACION AÉREA" id="gestionoperativa_configarea_list" parent="gestionoperativa_config" action="configaviestado_action_window"/> -->
+
+    <record model="ir.ui.view" id="configpreaviestado_tree">
+      <field name="name">CONFIGURACIÓN AÉREA</field>
+      <field name="model">gestionoperativa.configaviestado</field>
+      <field name="arch" type="xml">
+        <tree>
+            <field name="estado" />
+            <field name="configaviestadodetalle_ids" widget="many2many_tags"  options="{'no_open':True,'no_create_edit':True,'no_create':True,'no_quick_create':True}"/>
+        </tree>
+      </field>
+    </record>
+
+    <record model="ir.ui.view" id="configpreaviestado_form">
+      <field name="name">gestionoperativa.configaviestado.form</field>
+      <field name="model">gestionoperativa.configaviestado</field>
+      <field name="arch" type="xml">
+        <form>
+          <group>
+            <field name="estado" />  
+            <field name="configaviestadodetalle_ids" options="{'no_open':True,'no_create_edit':True,'no_create':True,'no_quick_create':True}">
+              <tree editable="bottom">
+                <field name="situacion_id" options="{'no_open':True,'no_create_edit':True,'no_create':True,'no_quick_create':True}"/>
+                <field name="tipo_operacion_ids" widget="many2many_tags"  options="{'no_open':True,'no_create_edit':True,'no_create':True,'no_quick_create':True}"/>
+              </tree>
+            </field>
+          </group>
+          <footer>                
+          </footer>            
+        </form>
+      </field>
+    </record>
+
+    <record model="ir.actions.act_window" id="configpreaviestado_action_window">
+        <field name="name">CONFIGURACIÓN AÉREA</field>
+        <field name="res_model">gestionoperativa.configaviestado</field>
+        <field name="view_ids" eval="[(5, 0, 0),
+            (0, 0, {'view_mode': 'tree', 'view_id': ref('gestionoperativa.configpreaviestado_tree')}),
+            (0, 0, {'view_mode': 'form', 'view_id': ref('gestionoperativa.configpreaviestado_form')}),
+            ]"/>
+    </record>
+
+    <menuitem name="AÉREA" id="gestionoperativa_configprearea_list" parent="gestionoperativa_config" action="configpreaviestado_action_window"/>
+  </data>
+</odoo>

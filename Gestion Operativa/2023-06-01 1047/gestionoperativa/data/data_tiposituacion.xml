@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <record id="data_situacion_enbase" model="gestionoperativa.tiposituacion">
+            <field name="name">EN BASE</field>
+        </record>
+        <record id="data_situacion_operacion" model="gestionoperativa.tiposituacion">
+            <field name="name">EN OPERACIÓN</field>
+        </record>
+        <record id="data_situacion_enmantenimiento" model="gestionoperativa.tiposituacion">
+            <field name="name">EN MANTENIMIENTO</field>
+        </record>
+        <record id="data_situacion_enreparacion" model="gestionoperativa.tiposituacion">
+            <field name="name">EN REPARACIÓN</field>
+        </record>
+        <record id="data_situacion_enproyecto" model="gestionoperativa.tiposituacion">
+            <field name="name">EN PROYECTO</field>
+        </record>
+        <record id="data_situacion_sinpresupuesto" model="gestionoperativa.tiposituacion">
+            <field name="name">SIN PRESUPESTO</field>
+        </record>
+
+    </data>
+</odoo>

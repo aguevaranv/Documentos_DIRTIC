@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+
+        <record id="data_parte_aereo_detalle_an_202" model="gestionoperativa.parteopeavidetalle">
+            <field name="matricula_id" ref="vuelo_base.aeronave_an_202"/>
+            <field name="horas_dispo">146.2</field>
+            <field name="condicionIOV">NO</field>
+            <field name="estado" ref="gestionoperativa.data_estado_operativo"/>
+            <field name="en_operacion">TRUE</field>
+            <field name="ruta_inicio_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="ruta_fin_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="fecha_solu">2023-05-25</field>
+            <field name="observacion">Línea de Vuelo</field>
+            <field name="latitude">0</field>
+            <field name="longitude">0</field>
+        </record>
+
+        <record id="data_parte_aereo_detalle_an_204" model="gestionoperativa.parteopeavidetalle">
+            <field name="matricula_id" ref="vuelo_base.aeronave_an_204"/>
+            <field name="horas_dispo">146.2</field>
+            <field name="condicionIOV">NO</field>
+            <field name="estado" ref="gestionoperativa.data_estado_no_operativo"/>
+            <field name="en_operacion">FALSE</field>
+            <field name="ruta_inicio_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="ruta_fin_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="fecha_solu">2023-05-25</field>
+            <field name="observacion">Línea de Vuelo</field>
+            <field name="latitude">0</field>
+            <field name="longitude">0</field>
+        </record>
+
+        <record id="data_parte_aereo_detalle_an_211" model="gestionoperativa.parteopeavidetalle">
+            <field name="matricula_id" ref="vuelo_base.aeronave_an_211"/>
+            <field name="horas_dispo">146.2</field>
+            <field name="condicionIOV">NO</field>
+            <field name="estado" ref="gestionoperativa.data_estado_no_operativo"/>
+            <field name="en_operacion">FALSE</field>
+            <field name="ruta_inicio_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="ruta_fin_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="fecha_solu">2023-05-25</field>
+            <field name="observacion">Línea de Vuelo</field>
+            <field name="latitude">0</field>
+            <field name="longitude">0</field>
+        </record>
+
+        <record id="data_parte_aereo_detalle_an_214" model="gestionoperativa.parteopeavidetalle">
+            <field name="matricula_id" ref="vuelo_base.aeronave_an_214"/>
+            <field name="horas_dispo">146.2</field>
+            <field name="condicionIOV">NO</field>
+            <field name="estado" ref="gestionoperativa.data_estado_no_operativo"/>
+            <field name="en_operacion">FALSE</field>
+            <field name="ruta_inicio_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="ruta_fin_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="fecha_solu">2023-05-25</field>
+            <field name="observacion">Línea de Vuelo</field>
+            <field name="latitude">0</field>
+            <field name="longitude">0</field>
+        </record>
+
+        <record id="data_parte_aereo_detalle_an_232" model="gestionoperativa.parteopeavidetalle">
+            <field name="matricula_id" ref="vuelo_base.aeronave_an_232"/>
+            <field name="horas_dispo">146.2</field>
+            <field name="condicionIOV">NO</field>
+            <field name="estado" ref="gestionoperativa.data_estado_no_operativo"/>
+            <field name="en_operacion">FALSE</field>
+            <field name="ruta_inicio_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="ruta_fin_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="fecha_solu">2023-05-25</field>
+            <field name="observacion">Línea de Vuelo</field>
+            <field name="latitude">0</field>
+            <field name="longitude">0</field>
+        </record>
+
+        <record id="data_parte_aereo_detalle_an_233" model="gestionoperativa.parteopeavidetalle">
+            <field name="matricula_id" ref="vuelo_base.aeronave_an_233"/>
+            <field name="horas_dispo">146.2</field>
+            <field name="condicionIOV">NO</field>
+            <field name="estado" ref="gestionoperativa.data_estado_no_operativo"/>
+            <field name="en_operacion">FALSE</field>
+            <field name="ruta_inicio_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="ruta_fin_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="fecha_solu">2023-05-25</field>
+            <field name="observacion">Línea de Vuelo</field>
+            <field name="latitude">0</field>
+            <field name="longitude">0</field>
+        </record>
+
+        <record id="data_parte_aereo_detalle_an_235" model="gestionoperativa.parteopeavidetalle">
+            <field name="matricula_id" ref="vuelo_base.aeronave_an_235"/>
+            <field name="horas_dispo">146.2</field>
+            <field name="condicionIOV">NO</field>
+            <field name="estado" ref="gestionoperativa.data_estado_no_operativo"/>
+            <field name="en_operacion">FALSE</field>
+            <field name="ruta_inicio_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="ruta_fin_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="fecha_solu">2023-05-25</field>
+            <field name="observacion">Línea de Vuelo</field>
+            <field name="latitude">0</field>
+            <field name="longitude">0</field>
+        </record>
+
+        <record id="data_parte_aereo_detalle_an_236" model="gestionoperativa.parteopeavidetalle">
+            <field name="matricula_id" ref="vuelo_base.aeronave_an_236"/>
+            <field name="horas_dispo">146.2</field>
+            <field name="condicionIOV">NO</field>
+            <field name="estado" ref="gestionoperativa.data_estado_operativo"/>
+            <field name="en_operacion">TRUE</field>
+            <field name="ruta_inicio_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="ruta_fin_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="fecha_solu">2023-05-25</field>
+            <field name="observacion">Línea de Vuelo</field>
+            <field name="latitude">0</field>
+            <field name="longitude">0</field>
+        </record>
+<!-- 
+        <record id="data_parte_aereo_detalle_an_237" model="gestionoperativa.parteopeavidetalle">
+            <field name="matricula_id" ref="vuelo_base.aeronave_an_237"/>
+            <field name="horas_dispo">146.2</field>
+            <field name="condicionIOV">NO</field>
+            <field name="estado" ref="gestionoperativa.data_estado_operativo"/>
+            <field name="en_operacion">TRUE</field>
+            <field name="ruta_inicio_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="ruta_fin_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="fecha_solu">2023-05-25</field>
+            <field name="observacion">Línea de Vuelo</field>
+            <field name="latitude">0</field>
+            <field name="longitude">0</field>
+        </record> -->
+
+        <record id="data_parte_aereo_detalle_an_241" model="gestionoperativa.parteopeavidetalle">
+            <field name="matricula_id" ref="vuelo_base.aeronave_an_241"/>
+            <field name="horas_dispo">146.2</field>
+            <field name="condicionIOV">NO</field>
+            <field name="estado" ref="gestionoperativa.data_estado_operativo"/>
+            <field name="en_operacion">TRUE</field>
+            <field name="ruta_inicio_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="ruta_fin_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="fecha_solu">2023-05-25</field>
+            <field name="observacion">Línea de Vuelo</field>
+            <field name="latitude">0</field>
+            <field name="longitude">0</field>
+        </record>
+
+        <record id="data_parte_aereo_detalle_an_242" model="gestionoperativa.parteopeavidetalle">
+            <field name="matricula_id" ref="vuelo_base.aeronave_an_242"/>
+            <field name="horas_dispo">146.2</field>
+            <field name="condicionIOV">NO</field>
+            <field name="estado" ref="gestionoperativa.data_estado_operativo"/>
+            <field name="en_operacion">TRUE</field>
+            <field name="ruta_inicio_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="ruta_fin_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="fecha_solu">2023-05-25</field>
+            <field name="observacion">Línea de Vuelo</field>
+            <field name="latitude">0</field>
+            <field name="longitude">0</field>
+        </record>
+
+        <!-- <record id="data_parte_aereo_detalle_hn_351" model="gestionoperativa.parteopeavidetalle">
+            <field name="matricula_id" ref="vuelo_base.aeronave_hn_351"/>
+            <field name="horas_dispo">146.2</field>
+            <field name="condicionIOV">NO</field>
+            <field name="estado" ref="gestionoperativa.data_estado_operativo"/>
+            <field name="en_operacion">TRUE</field>
+            <field name="ruta_inicio_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="ruta_fin_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="fecha_solu">2023-05-25</field>
+            <field name="observacion">Línea de Vuelo</field>
+            <field name="latitude">0</field>
+            <field name="longitude">0</field>
+        </record> -->
+
+        <record id="data_parte_aereo_detalle_an_253" model="gestionoperativa.parteopeavidetalle">
+            <field name="matricula_id" ref="vuelo_base.aeronave_an_253"/>
+            <field name="horas_dispo">146.2</field>
+            <field name="condicionIOV">NO</field>
+            <field name="estado" ref="gestionoperativa.data_estado_no_operativo"/>
+            <field name="en_operacion">FALSE</field>
+            <field name="ruta_inicio_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="ruta_fin_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="fecha_solu">2023-05-25</field>
+            <field name="observacion">Línea de Vuelo</field>
+            <field name="latitude">0</field>
+            <field name="longitude">0</field>
+        </record>
+
+        <record id="data_parte_aereo_detalle_an_254" model="gestionoperativa.parteopeavidetalle">
+            <field name="matricula_id" ref="vuelo_base.aeronave_an_254"/>
+            <field name="horas_dispo">146.2</field>
+            <field name="condicionIOV">NO</field>
+            <field name="estado" ref="gestionoperativa.data_estado_no_operativo"/>
+            <field name="en_operacion">FALSE</field>
+            <field name="ruta_inicio_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="ruta_fin_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="fecha_solu">2023-05-25</field>
+            <field name="observacion">Línea de Vuelo</field>
+            <field name="latitude">0</field>
+            <field name="longitude">0</field>
+        </record>
+
+        <record id="data_parte_aereo_detalle_an_262" model="gestionoperativa.parteopeavidetalle">
+            <field name="matricula_id" ref="vuelo_base.aeronave_an_262"/>
+            <field name="horas_dispo">146.2</field>
+            <field name="condicionIOV">NO</field>
+            <field name="estado" ref="gestionoperativa.data_estado_operativo"/>
+            <field name="en_operacion">TRUE</field>
+            <field name="ruta_inicio_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="ruta_fin_id" ref="vuelo_base.ciudad_manta"/>
+            <field name="fecha_solu">2023-05-25</field>
+            <field name="observacion">Línea de Vuelo</field>
+            <field name="latitude">0</field>
+            <field name="longitude">0</field>
+        </record>
+
+        <record id="data_parte_aereo_cabecera" model="gestionoperativa.parteopeavicabecera">
+            <field name="create_date">2018-12-31 13:54:54</field>
+            <field name="gestionoperativa_ids" eval="[(6, 0, [ ref('data_parte_aereo_detalle_an_202'), 
+                                                                ref('data_parte_aereo_detalle_an_204'), 
+                                                                ref('data_parte_aereo_detalle_an_211'), 
+                                                                ref('data_parte_aereo_detalle_an_214'), 
+                                                                ref('data_parte_aereo_detalle_an_232'), 
+                                                                ref('data_parte_aereo_detalle_an_233'), 
+                                                                ref('data_parte_aereo_detalle_an_235'), 
+                                                                ref('data_parte_aereo_detalle_an_236'), 
+                                                                ref('data_parte_aereo_detalle_an_241'), 
+                                                                ref('data_parte_aereo_detalle_an_242'), 
+                                                                ref('data_parte_aereo_detalle_an_253'), 
+                                                                ref('data_parte_aereo_detalle_an_254'), 
+                                                                ref('data_parte_aereo_detalle_an_262'), 
+                                                                ])]"/>
+        </record>
+
+
+            <!-- <field name="equipo_navegacion_ids" eval="[(6, 0, [ ref('equip_navegacion_3'), ref('equip_navegacion_2')])]"/>
+            <field name="equipo_comunicacion_ids" eval="[(6, 0, [ ref('equip_comunicacion_1'), ref('equip_comunicacion_2')])]"/>
+            <field name="equipo_deteccion_ids" eval="[(6, 0, [ ref('equip_deteccion_1'), ref('equip_deteccion_2')])]"/>
+            <field name="mision_plan_vuelo_ids" eval="[(6, 0, [ ref('mision01'), ref('mision02')])]"/> -->
+
+        
+        <!-- <record id="aeronave_an_262" model="vuelo_base.aircraft">
+            <field name="name">AN-262</field>
+            <field name="tipo_aeronave_id" ref="items_avion"/>
+            <field name="modelo_id" ref="items_cessna"/>
+            
+            <field name="anio_fabricacion">2018/12/31</field>
+            <field name="tipo_turbina_id" ref="items_turbina_1"/>
+            <field name="potencia">2</field>
+            <field name="tipo_motor_id" ref="tipo_motor_1"/>
+            <field name="velocidad_maniobra">2</field>
+            <field name="longitud">2</field>
+            <field name="altura">2</field>
+            <field name="velocidad_economica">2</field>
+            <field name="crucero_rapido">2</field>
+            <field name="crucero_lento">2</field>     
+            <field name="altura_maxima">2</field>
+
+            <field name="num_maximo_pasajeros">2</field>
+            <field name="peso_max_pasajero">2</field>
+            <field name="peso_tot_combustible">2</field>
+            <field name="peso_max_despegue">200</field>
+            <field name="cambio_radiograma">SIN NOVEDAD</field>
+            <field name="escuadron_id2" ref="th_gestion_organico.are_reparto_94"/>         
+            <field name="tipo_seguro_id" ref="items_sin_seguro"/>
+            <field name="cambio_radiograma">COAVNA-OPE-001-O</field>
+            <field name="observacion_seguro">MANTENIMIENTO DE AEORNAVE</field>                      
+        </record> -->
+    </data>
+</odoo>

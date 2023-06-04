@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="0">
+        <record id="data_situacion_enbase" model="gestionoperativa.tiposituacion">
+            <field name="name">EN BASE</field>
+        </record>
+        <record id="data_situacion_operacion" model="gestionoperativa.tiposituacion">
+            <field name="name">EN OPERACIÓN</field>
+        </record>
+        <record id="data_situacion_enmantenimiento" model="gestionoperativa.tiposituacion">
+            <field name="name">EN MANTENIMIENTO</field>
+        </record>
+        <record id="data_situacion_enreparacion" model="gestionoperativa.tiposituacion">
+            <field name="name">EN REPARACIÓN</field>
+        </record>
+        <record id="data_situacion_enproyecto" model="gestionoperativa.tiposituacion">
+            <field name="name">EN PROYECTO</field>
+        </record>
+        <record id="data_situacion_sinpresupuesto" model="gestionoperativa.tiposituacion">
+            <field name="name">SIN PRESUPESTO</field>
+        </record>
+
+
+        <record id="data_estado_operativo" model="gestionoperativa.configaviestado">
+            <field name="estado">OPERATIVO</field>
+            <field name="subestado_ids" eval="[(6, 0, [ ref('data_situacion_enbase'), 
+                                                        ref('data_situacion_operacion'),
+                                                                ])]"/>
+        </record>
+        <record id="data_estado_no_operativo" model="gestionoperativa.configaviestado">
+            <field name="estado">NO OPERATIVO</field>
+            <field name="subestado_ids" eval="[(6, 0, [ ref('data_situacion_enmantenimiento'), 
+                                                        ref('data_situacion_enreparacion'),
+                                                        ref('data_situacion_enproyecto'),
+                                                        ref('data_situacion_sinpresupuesto'),
+                                                                ])]"/>
+        </record>
+
+
+
+    </data>
+</odoo>

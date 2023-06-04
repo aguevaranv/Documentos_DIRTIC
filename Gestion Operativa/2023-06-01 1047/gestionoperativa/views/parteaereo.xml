@@ -1,0 +1,162 @@
+<odoo>
+  <data>
+    <record model="ir.ui.view" id="parteopeavicabecera_tree">
+      <field name="name">Parte Operativo Aviacion</field>
+      <field name="model">gestionoperativa.parteopeavicabecera</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="create_date" />
+          <field name="create_uid" />
+          <field name="gestionoperativa_ids" />
+          <field name="mes" />
+        </tree>
+      </field>
+    </record>
+
+    <record model="ir.ui.view" id="parteopeavicabecera_form">
+      <field name="name">gestionoperativa.parteopeavicabecera.form</field>
+      <field name="model">gestionoperativa.parteopeavicabecera</field>
+      <field name="arch" type="xml">
+        <form>
+          <group>
+            <group>
+              <field name="create_date" />
+              <field name="create_uid" />
+            </group>
+            <field name="gestionoperativa_ids">
+              <!-- <tree editable="bottom"> -->
+              <!-- decoration-info="estado=='NO OEPRATIVO' and horas_de_vuelo!=0.0" -->
+              <!-- decoration-bf="band_volo==False and observaciones==False and horas_de_vuelo==0.0" -->
+               <!-- create="0" force_save="1" editable="True" -->
+               <!-- decoration-success="estado=='OPERATIVO' and situacion_id==2"  -->
+              <tree editable="bottom" decoration-success="estado==1 and situacion_id==1"  decoration-danger="estado==2" decoration-info="estado==1 and situacion_id==2" >
+                <field name="modelo_id" />
+                <field name="matricula_id_domain" invisible="1" />
+                <field name="matricula_id" domain="matricula_id_domain" options="{'no_open':True,'no_create_edit':True,'no_create':True,'no_quick_create':True}" />
+                <field name="estado" />
+                <field name="situacion_id" domain="situacion_id_domain" options="{'no_open':True,'no_create_edit':True,'no_create':True,'no_quick_create':True}" optional="hide"/>
+                <field name="situacion_id_domain" invisible="1"/>
+                <field name="tipo_operacion_id" domain="tipo_operacion_id_domain" attrs="{'readonly': [('situacion_id', '==', False)]}" options="{'no_open':True,'no_create_edit':True,'no_create':True,'no_quick_create':True}" optional="hide"/>
+                <field name="tipo_operacion_id_domain" invisible="1"/>
+                <field name="tipo_plataforma_id" options="{'no_open':True,'no_create_edit':True,'no_create':True,'no_quick_create':True}" optional="hide"/>
+                <field name="fecha_inicio" optional="hide"/>
+                <field name="fecha_fin" optional="hide"/>
+                <field name="ruta_inicio_id" options="{'no_open':True,'no_create_edit':True,'no_create':True,'no_quick_create':True}" optional="hide"/>
+                <field name="ruta_fin_id" options="{'no_open':True,'no_create_edit':True,'no_create':True,'no_quick_create':True}" optional="hide"/>
+                <field name="observacion" optional="hide"/>
+                <field name="resultados_obtenidos_ids" optional="hide" widget="many2many_tags" readonly="1" options="{'no_open':True,'no_create_edit':True,'no_create':True,'no_quick_create':True}"/>
+                <button name="action_insertar_resultados_obtenidos" string="" icon="fa-plus-square-o" icon_color="blue" icon_size="32" type="object"/>
+                <button name="action_ver_resultados_obtenidos" string="" icon_size="32" icon_color="green" icon="fa-search" type="object"/>
+
+               <!-- borrar 
+                <field name="en_operacion" widget="boolean_toggle" invisible="1" />
+
+                <field name="horas_dispo" invisible="1" />
+                <field name="fecha_solu" />
+                <field name="condicionIOV" />
+                <field name="latitude" />
+                <field name="longitude" />
+              -->
+              </tree>
+            </field>
+            <group>
+              <group>
+                <field name="total_operativos" attrs="{'invisible': [('total_operativos', '=', 0)]}"/>
+                <field name="total_no_operativos" attrs="{'invisible': [('total_no_operativos', '=', 0)]}"/>
+                <field name="total_prueba" attrs="{'invisible': [('total_prueba', '=', 0)]}"/>
+                <field name="total" attrs="{'invisible': [('total', '=', 0)]}"/>
+              </group>
+              <group>
+                <field name="total_en_operacion" attrs="{'invisible': [('total_en_operacion', '=', 0)]}"/>
+              </group>
+            </group>
+          </group>
+          <footer>
+          </footer>
+        </form>
+      </field>
+    </record>
+
+    <!-- <record id="gestionoperativa_parteopeavidetalle_search_view" model="ir.ui.view">
+      <field name="name">gestionoperativa.parteopeavicabecera</field>
+      <field name="model">gestionoperativa.parteopeavicabecera</field>
+      <field name="arch" type="xml">
+        <search string="Busqueda registro">
+          <field name="modelo_id" />
+          <field name="matricula_id" />
+          <field name="fecha_solu" />
+          <field name="observacion" />
+          <separator />
+          <group expand="0" string="Group By">
+            <filter name="modelo" string="Modelo" context="{'group_by': 'modelo_id'}" />
+            <filter name="matricula" string="Matricula" context="{'group_by': 'matricula_id'}" />
+            <filter name="fecha" string="Fecha" context="{'group_by': 'fecha_solu'}" />
+          </group>
+        </search>
+      </field>
+    </record> -->
+
+    <!-- <record model="ir.actions.act_window" id="parteopeavicabecera_action_window">
+        <field name="name">Gestion operativa</field>
+        <field name="res_model">gestionoperativa.parteopeavicabecera</field>
+        <field name="view_ids" eval="[(5, 0, 0),
+            (0, 0, {'view_mode': 'form', 'view_id': ref('gestionoperativa.parteopeavicabecera_form')}),
+            ]"/>
+    </record>
+     -->
+
+
+      <record id="parteopeavicabecera_search" model="ir.ui.view">
+          <field name="name">gestionoperativa.parteopeavicabecera</field>
+          <field name="model">gestionoperativa.parteopeavicabecera</field>
+          <field name="arch" type="xml">
+              <search string="Search Historico">
+                  <field name="year"/>
+                  <field name="mes"/>
+                  <field name="day"/>
+                  <!-- <field name="ruta_inicio_hist"/>
+                  <field name="ruta_fin_hist"/>
+                  <field name="aeronave_id_hist"/>
+                  <field name="tripulante_id_hist"/>
+                  <field name="habilitacion_id_hist"/>
+                  <field name="modelo_id_hist"/>
+                  <field name="horas_de_vuelo_hist"/>
+                  <field name="dias_compu"/>
+                  <field name="mes_compu"/>
+                  <field name="anio_compu"/> -->
+                  <separator/>
+                  <group expand="0" string="Group By">
+                      <filter name="search_year" string="AÑO" context="{'group_by': 'year'}" />
+                      <filter name="search_mes" string="MES" context="{'group_by': 'mes'}" />
+                      <filter name="search_day" string="DÍA" context="{'group_by': 'day'}" />
+                      <!-- <filter name="search_ruta_inicio_hist" string="Ruta de Inicio" context="{'group_by': 'ruta_inicio_hist'}" />
+                      <filter name="search_ruta_fin_hist" string="Ruta de Fin" context="{'group_by': 'ruta_fin_hist'}" />
+                      <filter name="search_aeronave_id_hist" string="Aeronave" context="{'group_by': 'aeronave_id_hist'}" />
+                      <filter name="search_tripulante_id_hist" string="Dotación" context="{'group_by': 'tripulante_id_hist'}" />
+                      <filter name="search_habilitacion_id_hist" string="Habilitación" context="{'group_by': 'habilitacion_id_hist'}" />
+                      <filter name="search_modelo_id_hist" string="Modelo" context="{'group_by': 'modelo_id_hist'}" />
+                      <filter name="search_horas_de_vuelo_hist" string="Horas de Vuelo" context="{'group_by': 'horas_de_vuelo_hist'}" />
+                      <filter name="search_dias_compu" string="DÍA" context="{'group_by': 'dias_compu'}" />
+                      <filter name="search_mes_compu" string="MES" context="{'group_by': 'mes_compu'}" />
+                      <filter name="search_anio_compu" string="AÑO" context="{'group_by': 'anio_compu'}" /> -->
+                  </group>
+              </search>
+          </field>
+      </record>
+      
+    <record model="ir.actions.act_window" id="parteopeavicabecera_action_window2">
+      <field name="name">Gestion Operativa Aerea</field>
+      <field name="res_model">gestionoperativa.parteopeavicabecera</field>
+      <field name="view_ids" eval="[(5, 0, 0),
+            (0, 0, {'view_mode': 'tree', 'view_id': ref('gestionoperativa.parteopeavicabecera_tree')}),
+            (0, 0, {'view_mode': 'form', 'view_id': ref('gestionoperativa.parteopeavicabecera_form')}),
+            ]" />
+      <field name="search_view" ref="parteopeavicabecera_search"/>
+      <field name="context" eval="{'search_default_search_year':1,'search_default_search_mes':1,'search_default_search_day':1}"></field>
+    </record>
+
+    <menuitem name="PARTE OPERATIVO" id="gestionoperativa_menu_2" parent="gestionoperativa_menu_root" />
+    <menuitem name="Ingresos/Consulta Aereo" id="parteopeavicabecera_menu_3_list" parent="gestionoperativa_menu_2" action="parteopeavicabecera_action_window2" />
+
+  </data>
+</odoo>

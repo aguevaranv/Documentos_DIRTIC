@@ -1,0 +1,39 @@
+<odoo>
+  <data>
+    <record model="ir.ui.view" id="tiposituacion_tree">
+      <field name="name">TIPO DE SITUACIÓN</field>
+      <field name="model">gestionoperativa.tiposituacion</field>
+      <field name="arch" type="xml">
+        <tree>
+            <field name="name" />
+        </tree>
+      </field>
+    </record>
+
+    <record model="ir.ui.view" id="tiposituacion_form">
+      <field name="name">gestionoperativa.tiposituacion.form</field>
+      <field name="model">gestionoperativa.tiposituacion</field>
+      <field name="arch" type="xml">
+        <form>
+          <group>
+            <field name="name" />
+          </group>
+          <footer>                
+          </footer>            
+        </form>
+      </field>
+    </record>
+
+    <record model="ir.actions.act_window" id="tiposituacion_action_window">
+        <field name="name">TIPO DE SITUACIÓN</field>
+        <field name="res_model">gestionoperativa.tiposituacion</field>
+        <field name="view_ids" eval="[(5, 0, 0),
+            (0, 0, {'view_mode': 'tree', 'view_id': ref('gestionoperativa.tiposituacion_tree')}),
+            (0, 0, {'view_mode': 'form', 'view_id': ref('gestionoperativa.tiposituacion_form')}),
+            ]"/>
+    </record>
+
+    <menuitem name="TIPO DE SITUACIÓN" id="gestionoperativa_configavisube_list" parent="gestionoperativa_otros" action="tiposituacion_action_window"/>
+
+  </data>
+</odoo>
