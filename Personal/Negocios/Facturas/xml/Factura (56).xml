@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1702202301179198775600120030010000924050074547416</numeroAutorizacion>
+<fechaAutorizacion>2023-02-22T10:43:01-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.0.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>CERAMIC CENTER CIA LTDA</razonSocial>
+<nombreComercial>CERAMIC CENTER CIA LTDA</nombreComercial>
+<ruc>1791987756001</ruc>
+<claveAcceso>1702202301179198775600120030010000924050074547416</claveAcceso>
+<codDoc>01</codDoc>
+<estab>003</estab>
+<ptoEmi>001</ptoEmi>
+<secuencial>000092405</secuencial>
+<dirMatriz>AV.MARISCAL SUCRE S25-145 Y TAISHA</dirMatriz>
+<agenteRetencion>1</agenteRetencion>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>17/02/2023</fechaEmision>
+<dirEstablecimiento>AV.MARISCAL SUCRE S25-145 Y TAISHA</dirEstablecimiento>
+<contribuyenteEspecial>487E</contribuyenteEspecial>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<guiaRemision>003-001-000745474</guiaRemision>
+<razonSocialComprador>GUEVARA ANGEL</razonSocialComprador>
+<identificacionComprador>1706479373001</identificacionComprador>
+<direccionComprador>direccion del cliente</direccionComprador>
+<totalSinImpuestos>44.64</totalSinImpuestos>
+<totalDescuento>0.16</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<baseImponible>44.64</baseImponible>
+<valor>5.36</valor>
+</totalImpuesto>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>0.00</baseImponible>
+<valor>0.00</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>50.00</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+ <pago>
+  <formaPago>01</formaPago>
+  <total>50.00</total>
+  <plazo>0</plazo>
+  <unidadTiempo>dias</unidadTiempo>
+ </pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>05415</codigoPrincipal>
+<descripcion>CNF.1030 MANCHESTER</descripcion>
+<cantidad>20.00</cantidad>
+<precioUnitario>2.24</precioUnitario>
+<descuento>0.16</descuento>
+<precioTotalSinImpuesto>44.64</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>44.64</baseImponible>
+<valor>5.36</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature937022">
+<ds:SignedInfo Id="Signature-SignedInfo665760">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID877721" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature937022-SignedProperties1029283">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>RPLicj9FXlAof+Ifl9XkjWz33TU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11019248">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>5kd6SQQCvo5RqgcDH2toWqE9Fz0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-857361" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>iewxZje5bYK3rQJ8ATMrL5ijIw0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue2378">
+IVR/Y13vtyo+W9RxlEa1/wX55HrW9vphKOhtgxtogHT/7IuRAYoY8iL+Mv7plXSUuMheo3y68fBW
+1HR7Q6noGzivWMlWjeQIdUgLVR3gc0VIHiZVBB2ffQ6STNWRWAYTRpHJh6dQLvVCYOWUVNiVNSf5
+0t432HSLa3QFwfPHL5vVTTFMx0jJ1qw9FupvvsRkQhC+HNEJjhYjTPJmgcZSYs4pVsstBX6xTiM2
+9OZTIR0cURn0jBdFp0Vb2HHbSepBANZHsFJDLRkCGZqYdkkvg2V60kOb/kjn+1Z0/h9T9Y5vbIDJ
+3ZM2x/9FkR2QAXXtGJ7a/1zHCCmO9+dVLGFi0A==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11019248">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ/DCCB+SgAwIBAgIEW2gK9zANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIxMDMwMzE5MDExN1oXDTIzMDMwMzE5MzEx
+N1owgbkxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE9MBEGA1UEBRMKMDAwMDYxNTA3MDAoBgNVBAMTIVdBU0hJR1RPTiBCT0xJ
+VkFSIFRSVUpJTExPIEZMT1JFUzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALPtVAaf
+EUxIxxR3b5zvMsB5oUkwJZaaTlMw6GHY7B7Rv3sgv2SA+AA+p8swtJK4ViBpKBhHKBbidxPRG12u
+PCrEj7VRv0sAV4RnViCP5r77a3gsnyffr6G0mMIDR2G7Bljav6Tut6/3rzoQKFqlwKuRGKGjlCkN
+owyNs6dbIsf+XaBkyht9RDVbhIcMY/s8E/GfiVH+H4kW0/+8Or8usk2MSq/TrbbxSO6aeUPd9IrQ
+DLn9euhCi+gsui8D8XlOtXRZs65F9EuFuUeS55wc5OrNgCeP6NbqxvPkxkZFQj7iTa3HM+/7t5XH
+TIMYTnZRt97BlU8dIsX3jSg0WDE4I8UCAwEAAaOCBSAwggUcMAsGA1UdDwQEAwIHgDBnBgNVHSAE
+YDBeMFwGCysGAQQBgqg7AgIBME0wSwYIKwYBBQUHAgEWP2h0dHA6Ly93d3cuZWNpLmJjZS5lYy9w
+b2xpdGljYS1jZXJ0aWZpY2Fkby9wZXJzb25hLWp1cmlkaWNhLnBkZjCBkQYIKwYBBQUHAQEEgYQw
+gYEwPgYIKwYBBQUHMAGGMmh0dHA6Ly9vY3NwLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0
+YXR1cy9vY3NwMD8GCCsGAQUFBzABhjNodHRwOi8vb2NzcDEuZWNpLmJjZS5lYy9lamJjYS9wdWJs
+aWN3ZWIvc3RhdHVzL29jc3AwJgYKKwYBBAGCqDsDCgQYExZDRVJBTUlDQ0VOVEVSIENJQSBMVERB
+MB0GCisGAQQBgqg7AwsEDxMNMTc5MTk4Nzc1NjAwMTAaBgorBgEEAYKoOwMBBAwTCjE3MDc4MTYw
+NTIwIQYKKwYBBAGCqDsDAgQTExFXQVNISUdUT04gQk9MSVZBUjAYBgorBgEEAYKoOwMDBAoTCFRS
+VUpJTExPMBYGCisGAQQBgqg7AwQECBMGRkxPUkVTMB8GCisGAQQBgqg7AwUEERMPR0VSRU5URSBH
+RU5FUkFMMCgGCisGAQQBgqg7AwcEGhMYQVYgTUFSSVNDQUwgU1VDUkUgUzI1MTQ1MBkGCisGAQQB
+gqg7AwgECxMJMDIyNjMxMjQ4MBUGCisGAQQBgqg7AwkEBxMFUXVpdG8wFwYKKwYBBAGCqDsDDAQJ
+EwdFQ1VBRE9SMCAGCisGAQQBgqg7AzMEEhMQU09GVFdBUkUtQVJDSElWTzAoBgNVHREEITAfgR1j
+b250YWJpbGlkYWRAY2VyYW1pY2NlbnRlci5lYzCCAeEGA1UdHwSCAdgwggHUMIIB0KCCAcygggHI
+hoHWbGRhcDovL2JjZXFsZGFwc3VicDEuYmNlLmVjL2NuPUNSTDEyMTIsY249QUMlMjBCQU5DTyUy
+MENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGw9UVVJVE8sb3U9RU5USURBRCUyMERFJTIwQ0VSVElG
+SUNBQ0lPTiUyMERFJTIwSU5GT1JNQUNJT04tRUNJQkNFLG89QkFOQ08lMjBDRU5UUkFMJTIwREVM
+JTIwRUNVQURPUixjPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZYY0aHR0cDovL3d3
+dy5lY2kuYmNlLmVjL0NSTC9lY2lfYmNlX2VjX2NybGZpbGVjb21iLmNybKSBtjCBszELMAkGA1UE
+BhMCRUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRP
+MSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMRAwDgYDVQQDEwdDUkwxMjEy
+MCsGA1UdEAQkMCKADzIwMjEwMzAzMTkwMTE3WoEPMjAyMzAzMDMxOTMxMTdaMB8GA1UdIwQYMBaA
+FEii3yMfHfgsUXqMA81JMqUJwZSrMB0GA1UdDgQWBBSHWOJKqVEOijbFyI4Ntxh4a6tJQzAJBgNV
+HRMEAjAAMBkGCSqGSIb2fQdBAAQMMAobBFY4LjEDAgSwMA0GCSqGSIb3DQEBCwUAA4ICAQBq4l/0
+gpIFIhPzLhViKOtuyJV+aUINq7KDWuR9qNSi7YF2plQAesyP+USl9Osa5prRs04/lczwmyX7D+VE
+olCqoK5THLn9nRrcLPLAyLHyYVp3QnZDR3BzAlldni7B5oD8PVV6z7wbgCDG6OfN0oCvdI7ursQ/
+y6oXQreAG+zbaTpLDj9waBih/GorswYV29+Rh2ocMqPvxGe2QpZ8HsYZ7nrOiiVLtB6EPX8/qPHm
+kG2zaR+Fj/vspGiEEamFEI0wlTqDrYa6Psvp4fVJu+FEcqO+gBLmYoApswafiLJvwozRR7OVU76h
+R+iOgOy9LhewoxILw4rlZ8ErX0sFZwJ30psZT9m8aSfEL2izQk26YpgT+eITLw7Egu0+LRhSMV78
+t13+1Drd+Tty3b/MB+2gOlYJAkblWmpSe83scwH/DU10WUDQ4owCi3fYGpKPndQAT8+CYaxm5YrB
+rjKWNGtIDGzbHHpjbQqLNdmCjpA+7zcQtYReTSyfnXbpw2HjyI7AmOzMuGbfRx87t/jaNSpqJyg9
+iAkDllD7Luqi/ZlfJdGdcIFmxYGk/i9/J0fUi2b3glZbklZW9lQWQrZsoqM3ZAm+wtlcV5Cv9Uow
+hw+9iCmHTPQ4PSUTgaFFcm50tG9ybQLAvRDaV+z0f5XrUSDdIUNRF3BCD+h/24CcBVlisQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+s+1UBp8RTEjHFHdvnO8ywHmhSTAllppOUzDoYdjsHtG/eyC/ZID4AD6nyzC0krhWIGkoGEcoFuJ3
+E9EbXa48KsSPtVG/SwBXhGdWII/mvvtreCyfJ9+vobSYwgNHYbsGWNq/pO63r/evOhAoWqXAq5EY
+oaOUKQ2jDI2zp1six/5doGTKG31ENVuEhwxj+zwT8Z+JUf4fiRbT/7w6vy6yTYxKr9OttvFI7pp5
+Q930itAMuf166EKL6Cy6LwPxeU61dFmzrkX0S4W5R5LnnBzk6s2AJ4/o1urG8+TGRkVCPuJNrccz
+7/u3lcdMgxhOdlG33sGVTx0ixfeNKDRYMTgjxQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature937022-Object657245"><etsi:QualifyingProperties Target="#Signature937022"><etsi:SignedProperties Id="Signature937022-SignedProperties1029283"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-02-22T10:42:59-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>eJk3WQ/GxVyOylOYyKDbLX2bKlY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533545207</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-857361"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

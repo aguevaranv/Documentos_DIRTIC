@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2205202304060312191400120010100000003674016039714</numeroAutorizacion>
+<fechaAutorizacion>2023-06-01T17:44:45-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><notaCredito id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>SANCHEZ SANI NELSON MEDARDO</razonSocial>
+    <nombreComercial>Ferreteria Integral</nombreComercial>
+    <ruc>0603121914001</ruc>
+    <claveAcceso>2205202304060312191400120010100000003674016039714</claveAcceso>
+    <codDoc>04</codDoc>
+    <estab>001</estab>
+    <ptoEmi>010</ptoEmi>
+    <secuencial>000000367</secuencial>
+    <dirMatriz>Sangolqui: Avenida General Rumiñahui s/n y Atahualpa</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+    <contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe>
+  </infoTributaria>
+  <infoNotaCredito>
+    <fechaEmision>22/05/2023</fechaEmision>
+    <dirEstablecimiento>Sangolqui: Avenida General Rumiñahui s/n y Atahualpa</dirEstablecimiento>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>ANGEL GUEVARA</razonSocialComprador>
+    <identificacionComprador>1706479373</identificacionComprador>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <codDocModificado>01</codDocModificado>
+    <numDocModificado>001-010-000014772</numDocModificado>
+    <fechaEmisionDocSustento>22/05/2023</fechaEmisionDocSustento>
+    <totalSinImpuestos>125.10</totalSinImpuestos>
+    <valorModificacion>139.75</valorModificacion>
+    <moneda>DOLAR</moneda>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>122.10</baseImponible>
+        <valor>14.65</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <motivo>DEVOLUCION EN VENTA</motivo>
+  </infoNotaCredito>
+  <detalles>
+    <detalle>
+      <codigoInterno>C001</codigoInterno>
+      <codigoAdicional>-</codigoAdicional>
+      <descripcion>CEMENTO CHIMBORAZO TIPO GU (50KG)</descripcion>
+      <cantidad>5.00</cantidad>
+      <precioUnitario>7.23</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>36.16</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="ETIQUETAS" valor="UND"/>
+        <detAdicional nombre="VALORES" valor="UND"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>36.16</baseImponible>
+          <valor>4.34</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoInterno>RV.T.02</codigoInterno>
+      <codigoAdicional>-</codigoAdicional>
+      <descripcion>TUBO RIVAL DESAGUE 110mm X 3m</descripcion>
+      <cantidad>6.00</cantidad>
+      <precioUnitario>9.62</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>57.70</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="ETIQUETAS" valor="UND"/>
+        <detAdicional nombre="VALORES" valor="UND"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>57.70</baseImponible>
+          <valor>6.92</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoInterno>7861141820048</codigoInterno>
+      <codigoAdicional>-</codigoAdicional>
+      <descripcion>CODO RIVAL DESAGUE 110mm X 45°</descripcion>
+      <cantidad>6.00</cantidad>
+      <precioUnitario>3.83</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>22.98</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="ETIQUETAS" valor="UND"/>
+        <detAdicional nombre="VALORES" valor="UND"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>22.98</baseImponible>
+          <valor>2.76</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoInterno>7861157903247</codigoInterno>
+      <codigoAdicional>-</codigoAdicional>
+      <descripcion>KALIPEGA PG 250cc</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>5.26</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.26</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="ETIQUETAS" valor="UND"/>
+        <detAdicional nombre="VALORES" valor="UND"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>5.26</baseImponible>
+          <valor>0.63</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoInterno>310</codigoInterno>
+      <codigoAdicional>-</codigoAdicional>
+      <descripcion>SERVICIO DE ENTREGA</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>3.00</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.00</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="ETIQUETAS" valor="UND"/>
+        <detAdicional nombre="VALORES" valor="UND"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>3.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="ETIQUETAS">MAIL|TIPO_DOC_ERP|SECUENCIAL_ERP|DIR_CLIENTE|CIUDAD|TELEFONO|F_VENCIMIENTO|SUBTOTAL|SU_TIPO|SU_NUMERO|NRO_SPR|MARCA_CORREO|TIPO_FACTURA</campoAdicional>
+    <campoAdicional nombre="VALORES">auguevarav@hotmail.com|DE|367|SANGOLQUI AV ATAHUALPA|-|022334468| |130.36|FT|14772|N| |3</campoAdicional>
+    <campoAdicional nombre="OBSERVACIONES">CONTRIBUYENTE REGIMEN RIMPE</campoAdicional>
+    <campoAdicional nombre="OBSERVACIONES2">...</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature38869">
+<ds:SignedInfo Id="Signature-SignedInfo189102">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID361525" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature38869-SignedProperties847628">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>4LTbQv8y2CpvT2MdrL9dZxgaXaU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1173771">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>tfWuR4Ah1e4AS3RvUzRmS+9cIwo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1020891" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>2Is9aRVIBCdXFsIWQ3Von/5b1tw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue903965">
+WvffdYufoe0haDo9FlQ66tlu3urh69/aLgOqGwkrdPHct8JEdaOKfRFrmt4Ob4umdA1u82jnhLRI
+a+xNW0UWptFAyAZ+v+lqkWlMNgcO+x1bxXlzY6XPAqfoCac0SMB2a6yndAJYx4O36Gp6ZHL+c3xQ
+njbnCcop4ePRvqzEGFtbamhGHHKuCjLFtXVbDEyvR5UspmRZfkOZd4G2798HpEaXF24WOZFR86ZM
+w6HzhrZQMPnmtyG+YR7Lhep/dx61T7vkryh1/6zFsLvpJsx7ikqyQw7FscCgIPxKiKjqVuSLPjnb
+qBEzoh6zFMz1QyOv0yH4nO/uVhc1IwF+f4SwdA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1173771">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJHjCCBwagAwIBAgIIfwhMlQWSaXcwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMDEwNjE2MTAwMFoXDTI1MDEwNTE2MTAwMFowgZwxCzAJBgNVBAYTAkVDMRUwEwYDVQQEDAxT
+QU5DSEVaIFNBTkkxFzAVBgNVBCoMDk5FTFNPTiBNRURBUkRPMRkwFwYDVQQFExBJRENFQy0wNjAz
+MTIxOTE0MSQwIgYDVQQDDBtORUxTT04gTUVEQVJETyBTQU5DSEVaIFNBTkkxHDAaBgNVBGEME1RJ
+TkVDLTA2MDMxMjE5MTQwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCByGTt2Adh
+dS5BMfVpfl1KcM8ioeeZ9S9q8fzS5Rjt0AIyTYIbBXbVNwuQXN2BifChUy4bdCXxys4hAqB5gHh5
+FwVPgdulD8M28yK4gkJUaLERgwn87/Go209TX8XzJzYC1VUaHq6CFX1xAPsg9+1yNVADwUUCO6F7
+dfNlKZZsOLdO2PCvkuU3lhndbS94jjRL1zTr/Xn7y/bmDIQPtsKvCBj/wkhh+Kqsl2VXN1s+ysHB
+d8s3RPvzFs1EzytTz5pcLOrpiE5sguFwAas/bplvq1J4UrCjXEHvJMB2kbKMxh2YMWp7wKhQZxmJ
+v1mxedLbva9jNY9DugSrhv8dibDHAgMBAAGjggREMIIEQDAbBgsrBgEEAYLxNmYDAQQMDAowNjAz
+MTIxOTE0MB4GCysGAQQBgvE2ZgMLBA8MDTA2MDMxMjE5MTQwMDEwgdcGCCsGAQUFBwEBBIHKMIHH
+MFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNw
+X2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51
+YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQU1wsFfOFFYv/kZn5UERlT8jK+
+y64wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCBmQYDVR0g
+BIGRMIGOMIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cudWFuYXRh
+Y2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEFBQcCAjA0DDJDRVJUSUZJQ0FETyBERSBQ
+RVJTT05BIE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpo
+dHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3Js
+MECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3Jk
+aW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQw
+ggF6BgNVHREEggFxMIIBbYEeaW50ZWdyYWxmZXJyZXRlcjE5NzZAZ21haWwuY29toBsGCysGAQQB
+gvE2ZgMBoAwMCjA2MDMxMjE5MTSgHwYLKwYBBAGC8TZmAwKgEAwOTkVMU09OIE1FREFSRE+gGAYL
+KwYBBAGC8TZmAwOgCQwHU0FOQ0hFWqAVBgsrBgEEAYLxNmYDBKAGDARTQU5JoCQGCysGAQQBgvE2
+ZgMHoBUME1BBUlJPUVVJQSAgUlVNSUFIVUmgHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5OTEzNTI4
+MjCgGwYLKwYBBAGC8TZmAwmgDAwKU0FOR09MUVXDjaAeBgsrBgEEAYLxNmYDC6APDA0wNjAzMTIx
+OTE0MDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCkGCysGAQQBgvE2ZgMyoBoMGFBFUlNPTkEgTkFU
+VVJBTCBPIEZJU0lDQaAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4IC
+AQBT2F7cYxl9CP0esqirWYCsgk1bg6EoSPCbbaJ6+rfFyX7RbyqVlqyXWJrslJzl/Z5mT78ZjL1H
+d1dpVq/G2r+EpOuR7FqBM31JC2pWMtg5+yE5GED9QT2RDYxufQpHZD9zYplOXplUgyNJlC4+m6/l
+R67gCYbrj5/a68IqTvww53Z3f2DU0lSUGwYmmWCzIPrP0ibqJa3Ul6D1NyOygRr8PDT1U22Q/nhj
+D6e5xKl6zzHyOVCLHDelLzX00UtTil/ZXFNGMzsO50hsDLijUov2XYernnMkHlD3s8eodtDJbIRY
+aO5pxLU8AiREP71xkjiUbhiHesDhQopvfSyo6stZ802xutabCXTYi1SM9qO0FszPg3MgB0kq45jd
+FqyNyVZegJJEbGTxn/HHaryYti08u9su3w3ZPgqv/1bUUNrLtlYlGFpgRrPMxUXCaFexK79l7S72
+JQG4Nwk54Vz3CaCZjOivCbEfU2N8azwgr4QVdyKM0L2CUlVfLmEs+9ozTSpuz1eB0Hit/TdlTLbV
+0g+0RjRIU8q/uyV94BjDO9A+OxHcsk/AS6iP5U4gCcnoIcv4zjJu69uvror38vm+8Gdjwx3yQ+41
+GKSZFxdWZS3m7AhKt77A6iZ3LU61/SQtaUgZU5U+O34FLIJlGvA58CP/j7Z1HBzXyqIvOXY7AJdF
+7w==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+gchk7dgHYXUuQTH1aX5dSnDPIqHnmfUvavH80uUY7dACMk2CGwV21TcLkFzdgYnwoVMuG3Ql8crO
+IQKgeYB4eRcFT4HbpQ/DNvMiuIJCVGixEYMJ/O/xqNtPU1/F8yc2AtVVGh6ughV9cQD7IPftcjVQ
+A8FFAjuhe3XzZSmWbDi3Ttjwr5LlN5YZ3W0veI40S9c06/15+8v25gyED7bCrwgY/8JIYfiqrJdl
+VzdbPsrBwXfLN0T78xbNRM8rU8+aXCzq6YhObILhcAGrP26Zb6tSeFKwo1xB7yTAdpGyjMYdmDFq
+e8CoUGcZib9ZsXnS272vYzWPQ7oEq4b/HYmwxw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature38869-Object269590"><etsi:QualifyingProperties Target="#Signature38869"><etsi:SignedProperties Id="Signature38869-SignedProperties847628"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-06-01T17:44:42-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>SAcRVTZM1J+OqxC2AVwvVnHLEPw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>9153650445557852535</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1020891"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></notaCredito>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

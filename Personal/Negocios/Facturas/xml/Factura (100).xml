@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2303202301171025616300120010020000116101706479310</numeroAutorizacion>
+<fechaAutorizacion>2023-03-31T09:01:31-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>SARMIENTO RODAS JUAN PABLO</razonSocial>
+<nombreComercial>SARMIENTO RODAS JUAN PABLO</nombreComercial>
+<ruc>1710256163001</ruc>
+<claveAcceso>2303202301171025616300120010020000116101706479310</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>002</ptoEmi>
+<secuencial>000011610</secuencial>
+<dirMatriz>Av. Abdon Calderon SN  y Espania</dirMatriz>
+<agenteRetencion>1</agenteRetencion>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>23/03/2023</fechaEmision>
+<dirEstablecimiento>Av. Abdon Calderon S/N y España</dirEstablecimiento>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>GUEVARA VALDIVIEZO ANGEL UBALDO</razonSocialComprador>
+<identificacionComprador>1706479373001</identificacionComprador>
+<direccionComprador>CUMBAYA</direccionComprador>
+<totalSinImpuestos>48.99</totalSinImpuestos>
+<totalDescuento>1.47</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<baseImponible>48.99</baseImponible>
+<valor>5.88</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>54.87</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>54.87</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>FVE214-BL</codigoPrincipal>
+<descripcion>LAVABO ROMA DE PARED BLANCO</descripcion>
+<unidadMedida>U</unidadMedida>
+<cantidad>1.0000</cantidad>
+<precioUnitario>12.1300</precioUnitario>
+<descuento>0.61</descuento>
+<precioTotalSinImpuesto>11.52</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>11.52</baseImponible>
+<valor>1.38</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>E579.15-BL</codigoPrincipal>
+<descripcion>JUEGO ACCESORIO COMPLETO BLANCO DURFIX</descripcion>
+<unidadMedida>U</unidadMedida>
+<cantidad>1.0000</cantidad>
+<precioUnitario>14.6200</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>14.62</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>14.62</baseImponible>
+<valor>1.75</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>E220.01/27L CR</codigoPrincipal>
+<descripcion>LLAVE LAVABO FIORI  LEVER</descripcion>
+<unidadMedida>U</unidadMedida>
+<cantidad>1.0000</cantidad>
+<precioUnitario>17.1400</precioUnitario>
+<descuento>0.86</descuento>
+<precioTotalSinImpuesto>16.28</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>16.28</baseImponible>
+<valor>1.95</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>E2460.02U RA DH</codigoPrincipal>
+<descripcion>CONJUNTO DESAGUE CON REJILLA 11/4" Y SIFON EXTENDIBLE</descripcion>
+<unidadMedida>U</unidadMedida>
+<cantidad>1.0000</cantidad>
+<precioUnitario>6.5700</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>6.57</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>6.57</baseImponible>
+<valor>0.79</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="DATOS">Telefono 2333559 / Correo    acabadosdelvalle@hotmail.com</campoAdicional>
+<campoAdicional nombre="clidireccion">CUMBAYA</campoAdicional>
+<campoAdicional nombre="cliMail">auguevarav@hotmail.com</campoAdicional>
+<campoAdicional nombre="cliTelefono">3566461</campoAdicional>
+<campoAdicional nombre="cliCiudad">SANGOLQUI</campoAdicional>
+</infoAdicional>
+<ds:Signature Id="Signature7857" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo944738">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID283831" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature7857-SignedProperties593946">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>N84I/ACfahsHpriaf5sKIXDobzk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1511240">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>0jWeYK0ZzN8RNtxsncl32r/26SE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1016913" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>BMyBxm9Dh7Wfo7/pZCynrSPNRJk=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1041306">
+WlU8l2QgiLKXS0mjyGbIq740zF05nNUyUtMAWeB14MBCKGhxTH1Vu42yzcsQ5WIdTMmfBdorDLsj
+ffbNQ3aPUCJG7y/TWN7z3VHlzmv1TvCrkaX2chPxKvkCNJ6dwwLxT6NkpxGhnTbVJZHXHbf86noT
+09cBWi8GCu9CGyXpS37ORbW969RXL+6DRhZ7Le4RqNOgFaN0FnEyYc2uJPYk5KsXAulw4+6ws/JQ
+TAGGAj7AlSeTNriDA0WmZcQzQLInhmHbcfCvVYJxSPWy6eXA/TiE5AnOINXZjizRYCu9txuqK320
+wHNYiKcn7l0IipKDumPHBGkWMSWaig7L8xLQ6g==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1511240">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMaDCCClCgAwIBAgIMAzdrIHCr3aBrXurpMA0GCSqGSIb3DQEBCwUAMIG5MRYwFAYDVQQFEw0x
+NzkyNjAxMjE1MDAxMQswCQYDVQQGEwJFQzE2MDQGA1UEChMtQU5GQUMgQVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gRUNVQURPUiBDLkEuMSUwIwYDVQQLExxBTkYgQXV0b3JpZGFkIGludGVybWVk
+aWEgIEVDMTMwMQYDVQQDEypBTkYgSGlnaCBBc3N1cmFuY2UgRWN1YWRvciBJbnRlcm1lZGlhdGUg
+Q0EwHhcNMjExMjEwMTYwMDM0WhcNMjQxMjA5MTYwMDM0WjCCAhAxGjAYBgorBgEEAYKkQgoEDAox
+NzEwMjU2MTYzMSMwIQYDVQQKDBpTQVJNSUVOVE8gUk9EQVMgSlVBTiBQQUJMTzFKMEgGA1UECwxB
+Q2VydGlmaWNhZG8gZGUgUmVwcmVzZW50YW50ZSBMZWdhbCBkZSBQZXJzb25hIEp1cmlkaWNhIEVD
+IChGSVJNQSkxEzARBgNVBCoMCkpVQU4gUEFCTE8xFjAUBgNVBGETDTE3MTAyNTYxNjMwMDExCzAJ
+BgNVBAYTAkVDMRMwEQYDVQQFEwoxNzEwMjU2MTYzMRgwFgYDVQQEDA9TQVJNSUVOVE8gUk9EQVMx
+LjAsBgNVBAMMJTE3MTAyNTYxNjMgSlVBTiBQQUJMTyBTQVJNSUVOVE8gUk9EQVMxJDAiBgkqhkiG
+9w0BCQEWFWZlcmNoaV9hZ0Bob3RtYWlsLmNvbTEcMBoGA1UEDAwTUkVQUkVTRU5UQU5URSBMRUdB
+TDF8MHoGA1UEDQxzUmVnLiBQdWIuOkEgSW5zY3JpcGNpw7NuOiBBLCBUb21vIEEsIExpYnJvIDEs
+IEZvbGlvIEEsIEhvamEgQSBDYXJnbzpSRVBSRVNFTlRBTlRFIExFR0FMIE5vdGFyaW86QSBOw7pt
+LiBQcm90b2NvbG86QTESMBAGA1UECAwJUGljaGluY2hhMRIwEAYDVQQHDAlTYW5nb2xxdWkwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCySEQ04ZrFe/znDl510lZ0NqPiSv425MLmuuux
+uHeGXB2B+dfMhBjOCzxjUfaqi0PbtkYgqPCiXKKj31frdXZ3lDPb072Gf3gjDMJ0+iymb54wfnnl
+NsjCJtz5vozUztnlorzYwYZWqqjUI8HlIwHOJW0zDLhsMWxKnqJdFwJ6xdLrxGZLJ/z5j7wZeIp9
+Nx99u0tKzSm5KKeJj+9T5nzDeDyalIRD4AUXTPbbgZ2428b1pLGIJL0NfNXuICjEO9vch9weKOtD
+NC4GOpDz9b1Rqa0UhC7LFZ4l5ZP8SbEkUFJLcipE80aNDUDIeim8Lx5Ro/qSHFQtim6qjyS87GAh
+AgMBAAGjggYUMIIGEDAfBgNVHSMEGDAWgBSSrtTLgrSZxtF7EWxl6sVNaCH5rDAdBgNVHQ4EFgQU
+lGkk+t/94bvkDckIOwGKjSSkaLwwgfIGA1UdEQSB6jCB54EVZmVyY2hpX2FnQGhvdG1haWwuY29t
+pIHNMIHKMRowGAYKKwYBBAGCpEIKAQwKSlVBTiBQQUJMTzEZMBcGCisGAQQBgqRCCgIMCVNBUk1J
+RU5UTzEVMBMGCisGAQQBgqRCCgMMBVJPREFTMRowGAYKKwYBBAGCpEIKBAwKMTcxMDI1NjE2MzEZ
+MBcGCSsGAQQBg71uAQwKQS0wOTEyMjAyMTEuMCwGA1UEAwwlMTcxMDI1NjE2MyBKVUFOIFBBQkxP
+IFNBUk1JRU5UTyBST0RBUzETMBEGA1UEBQwKMTcxMDI1NjE2MzAOBgNVHQ8BAf8EBAMCBsAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIGZBgNVHR8EgZEwgY4wRaBDoEGGP2h0dHA6Ly93
+d3cuYW5mLmVzL2NybC9BTkZIaWdoQXNzdXJhbmNlRWN1YWRvckludGVybWVkaWF0ZUNBLmNybDBF
+oEOgQYY/aHR0cDovL2NybC5hbmYuZXMvY3JsL0FORkhpZ2hBc3N1cmFuY2VFY3VhZG9ySW50ZXJt
+ZWRpYXRlQ0EuY3JsMIIBAwYDVR0gBIH7MIH4MIHfBgwrBgEEAYKkQgIFAQMwgc4wKAYIKwYBBQUH
+AgEWHGh0dHA6Ly93d3cuYW5mLmVzL2RvY3VtZW50b3MwgaEGCCsGAQUFBwICMIGUDIGRQ2VydGlm
+aWNhZG8gY29uZm9ybWUgYSBsYSBsZWdpc2xhY2nDs24gZGUgZmlybWEgZWxlY3Ryw7NuaWNhLiBB
+bnRlcyBkZSBhY2VwdGFybG8gY29tcHJ1ZWJlIGludGVncmlkYWQsIGxpbWl0YWNpb25lcywgdmln
+ZW5jaWEgeSB1c29zIGF1dG9yaXphZG9zLjAJBgcEAIvsQAEBMAkGB2CFVAEDBQgwgZsGCCsGAQUF
+BwEBBIGOMIGLMCcGCCsGAQUFBzABhhtodHRwOi8vb2NzcC5hbmYuZXMvc3BhaW4vQVYwYAYIKwYB
+BQUHMAKGVGh0dHA6Ly93d3cuYW5mLmVzL2VzL2NlcnRpZmljYXRlcy1kb3dubG9hZC9BTkZIaWdo
+QXNzdXJhbmNlRWN1YWRvckludGVybWVkaWF0ZUNBLmNlcjAMBgNVHRMBAf8EAjAAMCgGCSsGAQQB
+gY8cEwQbDBk1MzE4NjExMjg1OTQtNDg2NDYwMjk5OTcxMBUGCisGAQQBgY8cEwIEBwwFMzc0NDIw
+KAYKKwYBBAGCpEITAQQaDBg1MDcyMi01MDE2MTE5MTM0MjIzNzc1MzYwGgYKKwYBBAGCpEIDAQQM
+DAoxNzEwMjU2MTYzMCoGCisGAQQBgqRCAwoEHAwaU0FSTUlFTlRPIFJPREFTIEpVQU4gUEFCTE8w
+HQYKKwYBBAGCpEIDCwQPDA0xNzEwMjU2MTYzMDAxMBIGCisGAQQBgqRCAwwEBAwCRUMwGgYKKwYB
+BAGCpEIDAgQMDApKVUFOIFBBQkxPMB8GCisGAQQBgqRCAwMEEQwPU0FSTUlFTlRPIFJPREFTMCMG
+CisGAQQBgqRCAwUEFQwTUkVQUkVTRU5UQU5URSBMRUdBTDAZBgorBgEEAYKkQgMJBAsMCVNhbmdv
+bHF1aTAXBgorBgEEAYKkQioBBAkMB1VJTy0wMTkwFAYKKwYBBAGCpEIuAQQGDAQxMDk1MFAGCisG
+AQQBgqRCLwEEQgxAODY5ODgxOWEwOTY5YTg1ODIwZjE2ZWFmYmZhOTgxZmZjZDJiYzFhNDdlMDJk
+MzI1ZjJhYWMzYTZlMjg0OWJmOTB3BggrBgEFBQcBAwRrMGkwCAYGBACORgEBMAsGBgQAjkYBAwIB
+ADAkBgYEAI5GAQUwGjAYFhJodHRwczovL2FuZi5lcy9lbi8TAmVuMBMGBgQAjkYBBjAJBgcEAI5G
+AQYBMAkGBwQAi+xJAQEwCgYIKwYBBQUHCwIwDQYJKoZIhvcNAQELBQADggIBAA3rJ7cbGaCGw4vB
+j+Zgp9IoTU85hnuM2QTfi7dDEcuJ+r2MzpCaYFzY4OZDD1mdc6QG1/ccm0sJDU4dFlvjrphCy+Ya
+mubm5b2sf9+oW74+TyWPeIixS5luH8UCqVQxcpTE1t2KsvG7DCUkkuCUka5azlMb7p4vs1rn7wCB
+urGc472evwnlwBqQB1ZI992KwDiMHqaq4BBca06erYUoBtqWQDoLBZOzC2vb1IYqVhhIO8HNMjGp
+qPQs1bvsND49hBnPu5MuCkyV/AuVOLQQ2crsjnbmQQx1D10hTurtRHhDndbQ0gWr8+GZVhFWhGCG
+jbD+5muwJvtx+DYvNpqwtky1a3jgo/ss/pxk53AyYWFS6XM7bQliMtyh6V8wEN/YRPvhfjg0D5Ft
+xUjqp2xNmbl8aANDQgjQj2+PlCdhRMEZ+q4rDlgSiovdMwRodxx39fsn1Zyhuz19Fl4GWuWPvhJN
+edpzbGQQuGL19E3Ut4h8z1LShamZJOd+mZiW1yHSVsWWeH1fUSLRqFmJZUzGpLCOVs2Ad4bbek8e
+r/N6nVwnxM5sjexOp56O/rHjpmgho3Y3dOAhDOTwDKEejRbURD/JCh0voOUAswVUyeTINCTJRdmB
+T00xI+6O9z+KmIO1p3JPbvuKds6CNQa/FcvaaPmxxgZbbnUTv3+zollr7uug
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+skhENOGaxXv85w5eddJWdDaj4kr+NuTC5rrrsbh3hlwdgfnXzIQYzgs8Y1H2qotD27ZGIKjwolyi
+o99X63V2d5Qz29O9hn94IwzCdPospm+eMH555TbIwibc+b6M1M7Z5aK82MGGVqqo1CPB5SMBziVt
+Mwy4bDFsSp6iXRcCesXS68RmSyf8+Y+8GXiKfTcffbtLSs0puSiniY/vU+Z8w3g8mpSEQ+AFF0z2
+24GduNvG9aSxiCS9DXzV7iAoxDvb3IfcHijrQzQuBjqQ8/W9UamtFIQuyxWeJeWT/EmxJFBSS3Iq
+RPNGjQ1AyHopvC8eUaP6khxULYpuqo8kvOxgIQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature7857-Object353774"><etsi:QualifyingProperties Target="#Signature7857"><etsi:SignedProperties Id="Signature7857-SignedProperties593946"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-03-31T09:01:29-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>+PdPsg0hUebFKhnGTp/ShqYBfDo=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA,OU=ANF Autoridad intermedia  EC,O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A.,C=EC,2.5.4.5=#130d31373932363031323135303031</ds:X509IssuerName><ds:X509SerialNumber>995451841171143655858039529</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1016913"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

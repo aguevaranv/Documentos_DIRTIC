@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2003202301092136246300120020020000034661234567818</numeroAutorizacion>
+<fechaAutorizacion>2023-03-20T18:42:43-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>CASTRO PICO ISRAEL EMILIO</razonSocial><nombreComercial>MEGA ELECTRONICA</nombreComercial><ruc>0921362463001</ruc><claveAcceso>2003202301092136246300120020020000034661234567818</claveAcceso><codDoc>01</codDoc><estab>002</estab><ptoEmi>002</ptoEmi><secuencial>000003466</secuencial><dirMatriz>VENEZUELA Y GARCIA MORENO LOCAL 4</dirMatriz><contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe></infoTributaria><infoFactura><fechaEmision>20/03/2023</fechaEmision><dirEstablecimiento>VENEZUELA Y GARCIA MORENO LOCAL 4</dirEstablecimiento><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>ANGEL GUEVARA</razonSocialComprador><identificacionComprador>1706479373001</identificacionComprador><totalSinImpuestos>22.90</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>22.90</baseImponible><tarifa>12.00</tarifa><valor>2.75</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>25.65</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>25.65</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>GENIUS1000X</codigoPrincipal><descripcion>CAMARA WEB GENIUS 1000X NEGRA HD 720P MIC INTEGRADO USB V2</descripcion><cantidad>1.000</cantidad><precioUnitario>19.11</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>19.11</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>19.11</baseImponible><valor>2.29</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>E10023</codigoPrincipal><descripcion>ESTAÑO P/SOLDAR 50GR 40/60 AZUL 40SN60PB E10023</descripcion><cantidad>1.000</cantidad><precioUnitario>3.35</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>3.35</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>3.35</baseImponible><valor>0.40</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>ESTAÑO/1MM-METRO</codigoPrincipal><descripcion>ESTAÑO POR METRO</descripcion><cantidad>1.000</cantidad><precioUnitario>0.45</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.45</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>0.45</baseImponible><valor>0.05</valor></impuesto></impuestos></detalle></detalles><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature156697">
+<ds:SignedInfo Id="Signature-SignedInfo97064">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID864576" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature156697-SignedProperties416264">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>6ehvLFOyClyycCiExZvQiHqxmxg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1958522">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>jaVtxdtUEMOvUAe/9I4ZjjHygCs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-114443" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ZBYUpjaisAeMnwCp8Oai6SGiHNk=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue303663">
+FtJV8Qt3Yc7AiFxXR6gyt54ZLWrJoZqex2O+6gjUeM3WofVokp8DzvKYuvuoOYJdfSKneuohg46/
+UxFxTpnJE8bCgZ42JDfFkPXLHhpoItCqtkSF7QZUe1v07rUicmP380Cm154OpjmfJ+1JvgwItbFr
+lCun8R5kdwL6NRA++ivMFd39ffiDt4WOkr9Z6RWWkPd7No4D96ZMRGF+KkwGJueNTQNyO5Kr0oRf
+tpgbj+xDGHgRXNZJ2mdF9bsxWUrj/2oY+j5bfcjRJnD60GBTr4WK5LyKG15ajoO4uK6s9MX3Zy4q
+3rgbIUGFH9oE/X6ZZ8RpufUoGHNtIFbeECB4ow==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1958522">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJLTCCBxWgAwIBAgIIdT3D8JiAtYEwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIyMTAxMzIxMTQwMFoXDTI0MTAxMjIxMTQwMFowgZgxCzAJBgNVBAYTAkVDMRQwEgYDVQQEDAtD
+QVNUUk8gUElDTzEWMBQGA1UEKgwNSVNSQUVMIEVNSUxJTzEZMBcGA1UEBRMQSURDRUMtMDkyMTM2
+MjQ2MzEiMCAGA1UEAwwZSVNSQUVMIEVNSUxJTyBDQVNUUk8gUElDTzEcMBoGA1UEYQwTVElORUMt
+MDkyMTM2MjQ2MzAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALkeafF45rYayMg7
+8NI1kiYNFPElIU78YNZ8sJOIR/JZH6hwCbzS5fWzcO7QEXplUpas69yc03QhZKWdbrdTDEfQ2heY
+IQae9TSgNfTnQkKl0weHzHlp5lv8MSod0lXk5gvD3gvLnsYPdR003m8DujnHh0zkTOAfosca4IER
+l7rx7eCl8rLULnzlHXvMCfidvDjEXZdeV7aDiMsWrEFJkSuCnYBPO/tVrjne6xiIcDZhYafVCdZC
+8YyPj70pcJ8I75Graoc/Tx8ha4fcovkcneWrdrThhTLBCE4umf9ps1hDwmx4TWaNwjxtk55Ift+X
+ESlhRj+tQrTFUuA+X1i3So0CAwEAAaOCBFcwggRTMIHXBggrBgEFBQcBAQSByjCBxzBVBggrBgEF
+BQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2FkL3RzcF9jZXJ0aWZp
+Y2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AxLnVhbmF0YWNh
+LmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDIudWFuYXRhY2Eu
+Y29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFFg8Z31Wb3HnMGAPkbBy4wJK/jzUMAwGA1Ud
+EwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgZkGA1UdIASBkTCBjjCB
+iwYMKwYBBAGC8TZmAgEBMHswNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVhbmF0YWNhLmNvbS9w
+dWJsaWMvcGtpL2RwYy1lYy8wQAYIKwYBBQUHAgIwNAwyQ0VSVElGSUNBRE8gREUgUEVSU09OQSBO
+QVRVUkFMIE8gRklTSUNBIEVOIEFSQ0hJVk8wgY8GA1UdHwSBhzCBhDBAoD6gPIY6aHR0cDovL2Ny
+bDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDBAoD6gPIY6
+aHR0cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNy
+bDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIIBygYDVR0R
+BIIBwTCCAb2BHW1lZ2FlbGVjdHJvbmljYWVjQGhvdG1haWwuY29toBsGCysGAQQBgvE2ZgMBoAwM
+CjA5MjEzNjI0NjOgHgYLKwYBBAGC8TZmAwKgDwwNSVNSQUVMIEVNSUxJT6AXBgsrBgEEAYLxNmYD
+A6AIDAZDQVNUUk+gFQYLKwYBBAGC8TZmAwSgBgwEUElDT6B4BgsrBgEEAYLxNmYDB6BpDGdDQUxM
+RTogVkVORVpVRUxBIE7Dmk1FUk86IFNPTEFSIDExIElOVEVSU0VDQ0nDk046IEdBUkNJQSBNT1JF
+Tk8gTsOaTUVSTyBERSBPRklDSU5BOiBMT0NBTCA0IE1BTlpBTkE6IDc5oB8GCysGAQQBgvE2ZgMI
+oBAMDjAwNTkzOTkyMzAzNDY0oBoGCysGAQQBgvE2ZgMJoAsMCUdVQVlBUVVJTKAeBgsrBgEEAYLx
+NmYDC6APDA0wOTIxMzYyNDYzMDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCkGCysGAQQBgvE2ZgMy
+oBoMGFBFUlNPTkEgTkFUVVJBTCBPIEZJU0lDQaAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0G
+CSqGSIb3DQEBCwUAA4ICAQCq5aPFgeYltDQJwDpJLDd8i6swpZRkvFqL2IAMDI9WoiTwZcWQ5kVc
+vZf+Mz1fsi4TA/NVKfZPwIf+fT4ZZBhme3wsk4GNDcnPjcJCoz5dVLBmLWkm4EYcjKTTU1rd7zWQ
+ivcyb3HlHkQYaV1CDfMIymU/gCLfapb0rvip3O5hDDsPxid3izPAR+ozsvhuvVBM7J8f77qJyXIe
+erIhOMXSXDZVIlPsw5Ik9bVwu+VY0V21cUNFcLw6pbsZDe3xNrXRjbNEsUXudzIl4+AU517Tutmy
+rficHKM/8e52oFDNk4dlWyuk7TSR+tHbc65OEhY2T1iF85XPwI8rABAgz/xyvtodf/bdGdkDK/2o
+NIoiAAOVZN4pzRFMj3lnyihPsTnMVtjGgHPG99pHjaSwVdx5euQHYa6AoAACZ+tS/zDeAQcPJlpj
+U2KplcUWcR9B0GuQ6ccJyoftAkYuB9sICWMK8CdVRHjlR/FMf10R4omJY+9Eomf1pyPhZJ+vxc7Z
+J6QZaLy+8hqHwllEknhdTy39BO5PQUQLO+qGqnraIM87dvEBlzGs74C0cSo+E2q1x63LSJbvAFrX
+CvU9VgLcugKHpRtuejGfi/5uxzxFUw1rkMn5hDoeMZrCraG+9ScQTAjzZxfKCLNTUIhmUQqjpenu
+EnMS3zI0N7iSEQ+Z3Mv8Yg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+uR5p8XjmthrIyDvw0jWSJg0U8SUhTvxg1nywk4hH8lkfqHAJvNLl9bNw7tARemVSlqzr3JzTdCFk
+pZ1ut1MMR9DaF5ghBp71NKA19OdCQqXTB4fMeWnmW/wxKh3SVeTmC8PeC8uexg91HTTebwO6OceH
+TORM4B+ixxrggRGXuvHt4KXystQufOUde8wJ+J28OMRdl15XtoOIyxasQUmRK4KdgE87+1WuOd7r
+GIhwNmFhp9UJ1kLxjI+PvSlwnwjvkatqhz9PHyFrh9yi+Ryd5at2tOGFMsEITi6Z/2mzWEPCbHhN
+Zo3CPG2Tnkh+35cRKWFGP61CtMVS4D5fWLdKjQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature156697-Object32024"><etsi:QualifyingProperties Target="#Signature156697"><etsi:SignedProperties Id="Signature156697-SignedProperties416264"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-03-20T23:42:42+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>9tCj7D1EiEwxmL49rdTFH1Zm32I=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>8448123914135057793</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-114443"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

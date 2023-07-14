@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0601202307179282328500120010010000050151234567813</numeroAutorizacion>
+<fechaAutorizacion>2023-01-11T16:34:34-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<comprobanteRetencion id="comprobante" version="2.0.0">
+<infoTributaria>
+   <ambiente>2</ambiente>
+   <tipoEmision>1</tipoEmision>
+   <razonSocial>POLLOS KENNEDY</razonSocial>
+   <nombreComercial>POLLOS KENNEDY</nombreComercial>
+   <ruc>1792823285001</ruc>
+   <claveAcceso>0601202307179282328500120010010000050151234567813</claveAcceso>
+   <codDoc>07</codDoc>
+   <estab>001</estab>
+   <ptoEmi>001</ptoEmi>
+   <secuencial>000005015</secuencial>
+   <dirMatriz>PICHINCHA &#x002F; QUITO &#x002F; CONOCOTO &#x002F; AV GRAL RUMI&#x00D1;AHUI 465 Y ISLA SAN CRISTOBAL</dirMatriz>
+   <agenteRetencion>1</agenteRetencion>
+</infoTributaria>
+<infoCompRetencion>
+   <fechaEmision>06/01/2023</fechaEmision>
+   <dirEstablecimiento>PICHINCHA &#x002F; QUITO &#x002F; CONOCOTO &#x002F; AV GRAL RUMI&#x00D1;AHUI 465 Y ISLA SAN CRISTOBAL</dirEstablecimiento>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionSujetoRetenido>04</tipoIdentificacionSujetoRetenido>
+<parteRel>NO</parteRel>
+<razonSocialSujetoRetenido>GUEVARA VALDIVIEZAO ANGEL UVALDO</razonSocialSujetoRetenido>
+<identificacionSujetoRetenido>1706479373001</identificacionSujetoRetenido>
+<periodoFiscal>01/2023</periodoFiscal>
+</infoCompRetencion>
+<docsSustento>
+<docSustento>
+<codSustento>01</codSustento>
+      <codDocSustento>01</codDocSustento>
+      <numDocSustento>001001000010126</numDocSustento>
+      <fechaEmisionDocSustento>06/01/2023</fechaEmisionDocSustento>
+  <numAutDocSustento>1129620194</numAutDocSustento>
+<pagoLocExt>01</pagoLocExt>
+   <totalSinImpuestos>20.00</totalSinImpuestos>
+   <importeTotal>20.00</importeTotal>
+<impuestosDocSustento>
+   <impuestoDocSustento>
+      <codImpuestoDocSustento>2</codImpuestoDocSustento>
+      <codigoPorcentaje>0</codigoPorcentaje>
+      <baseImponible>20.00</baseImponible>
+      <tarifa>0.00</tarifa>
+      <valorImpuesto>0.00</valorImpuesto>
+   </impuestoDocSustento>
+</impuestosDocSustento>
+<retenciones>
+<retencion>
+      <codigo>1</codigo>
+      <codigoRetencion>332</codigoRetencion>
+      <baseImponible>20.00</baseImponible>
+      <porcentajeRetener>0.00</porcentajeRetener>
+      <valorRetenido>0.00</valorRetenido>
+</retencion>
+</retenciones>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>20.00</total>
+</pago>
+</pagos>
+</docSustento>
+</docsSustento>
+<infoAdicional>
+<campoAdicional nombre="DIRECCION">AV.GENERAL ENRIQUEZ 331 Y SUCRE</campoAdicional>
+<campoAdicional nombre="TELEFONO">2334468</campoAdicional>
+<campoAdicional nombre="EMAIL">facturacion@groupkennedy.com</campoAdicional>
+</infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-1568890578"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference Id="ReferenciaComprobante" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>pquZm1D4RLzD2HzUmdHJu5uae7g=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenciaCertificado" URI="#Certificado"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>mfr8k92Xw7DT0KleV0rAPDHhQSs=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-316886145"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>gTRzAnebhtB/9/9Yk1KnrE8eEqM=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>Kvbvqou4+vkVTWYpWUm0ciRNUQiDN2rCorNixn4mfnUQ50QZD1xCdEVYoYgyYhIe29SXWu9bIWx9nCDo2b91rFs4e++HPZPytL52Hl1Qx6KaVNEmATUb0HCwg6mdPeP+vGxACG68TepvSJMr155dVIoVVMLxIYn9H/ZRyYUEs5C9bw7/Xs9u2evfZEzJd58L5EPGauUZLJbAh51r4mTDzF8fvMCFdEA8OSSN4U7CPMVtVUHKP7g1rKUKLxruiN/dWtJS7D9OQy+def/HDeV3UN3M8rP5MyRtoTgzAv/L3pnlJW2tuo9arbTxspOie+sYje242gZjCaEe7hN1ANN6lw==</ds:SignatureValue><ds:KeyInfo Id="Certificado"><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>zVkSskSc4FxwXVGlA2cODhC4icxVBM1KuM5cRF5+MI1ObvR+X4gVNquRoQ1kwtSDa9Lc+9zNDunnfHa5aDDY5FztdO80L/NMLh8FvQpqXN1rvVO9Es5RmZFpdZ0Q59l+LBEKcp3/EQABqEFGQY5+ikONOgTDCcBghJbJoXX043SIjYCx6eh6YeoHAsQ5se7BqK2uAKiqI/wT7Ukziy98K8YfHOz4y+OMwY6tGzRr8Po3JoDRqr5dTDpCcn1zzGdfjP2LL1gMd2W5iV1+pFFUOsNGj0OoLl20fJJ4OOaHsUJYE+bWN9wfjPKHGe3TQQGTUR+96rhFBTjMpOcGZJBXVw==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR, L=QUITO, OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE, O=BANCO CENTRAL DEL ECUADOR, C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533543483</ds:X509SerialNumber></ds:X509IssuerSerial><ds:X509SubjectName>CN=CYNTHIA VIVIANA SORIA LARCO, 2.5.4.5=0000615036, L=QUITO, OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE, O=BANCO CENTRAL DEL ECUADOR, C=EC</ds:X509SubjectName><ds:X509Certificate>MIIJ6TCCB9GgAwIBAgIEW2gEOzANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIxMDMwMjE3MDk0MFoXDTIzMDMwMjE3Mzk0MFowgbMxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzE3MBEGA1UEBRMKMDAwMDYxNTAzNjAiBgNVBAMTG0NZTlRISUEgVklWSUFOQSBTT1JJQSBMQVJDTzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAM1ZErJEnOBccF1RpQNnDg4QuInMVQTNSrjOXERefjCNTm70fl+IFTarkaENZMLUg2vS3PvczQ7p53x2uWgw2ORc7XTvNC/zTC4fBb0Kalzda71TvRLOUZmRaXWdEOfZfiwRCnKd/xEAAahBRkGOfopDjToEwwnAYISWyaF19ON0iI2AsenoemHqBwLEObHuwaitrgCoqiP8E+1JM4svfCvGHxzs+MvjjMGOrRs0a/D6NyaA0aq+XUw6QnJ9c8xnX4z9iy9YDHdluYldfqRRVDrDRo9DqC5dtHySeDjmh7FCWBPm1jfcH4zyhxnt00EBk1Efveq4RQU4zKTnBmSQV1cCAwEAAaOCBRMwggUPMAsGA1UdDwQEAwIHgDBnBgNVHSAEYDBeMFwGCysGAQQBgqg7AgIBME0wSwYIKwYBBQUHAgEWP2h0dHA6Ly93d3cuZWNpLmJjZS5lYy9wb2xpdGljYS1jZXJ0aWZpY2Fkby9wZXJzb25hLWp1cmlkaWNhLnBkZjCBkQYIKwYBBQUHAQEEgYQwgYEwPgYIKwYBBQUHMAGGMmh0dHA6Ly9vY3NwLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMD8GCCsGAQUFBzABhjNodHRwOi8vb2NzcDEuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwHgYKKwYBBAGCqDsDCgQQEw5QT0xMT1MgS0VOTkVEWTAdBgorBgEEAYKoOwMLBA8TDTE3OTI4MjMyODUwMDEwGgYKKwYBBAGCqDsDAQQMEwoxNzE4MzYxNDI5MB8GCisGAQQBgqg7AwIEERMPQ1lOVEhJQSBWSVZJQU5BMBUGCisGAQQBgqg7AwMEBxMFU09SSUEwFQYKKwYBBAGCqDsDBAQHEwVMQVJDTzAjBgorBgEEAYKoOwMFBBUTE1JFUFJFU0VOVEFOVEUgTEVHQUwwKQYKKwYBBAGCqDsDBwQbExlSRUFMIEFVRElFTkNJQSBZIE1VUklBTERPMBkGCisGAQQBgqg7AwgECxMJMDIyODEyMTEyMBUGCisGAQQBgqg7AwkEBxMFUXVpdG8wFwYKKwYBBAGCqDsDDAQJEwdFQ1VBRE9SMCAGCisGAQQBgqg7AzMEEhMQU09GVFdBUkUtQVJDSElWTzAkBgNVHREEHTAbgRljb250YWRvckBncm91cGtlbm5lZHkuY29tMIIB4QYDVR0fBIIB2DCCAdQwggHQoIIBzKCCAciGgdZsZGFwOi8vYmNlcWxkYXBzdWJwMS5iY2UuZWMvY249Q1JMMTIxMSxjbj1BQyUyMEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsbD1RVUlUTyxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lPTi1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRodHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9iY2VfZWNfY3JsZmlsZWNvbWIuY3JspIG2MIGzMQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjE3MDUGA1UECxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxEDAOBgNVBAMTB0NSTDEyMTEwKwYDVR0QBCQwIoAPMjAyMTAzMDIxNzA5NDBagQ8yMDIzMDMwMjE3Mzk0MFowHwYDVR0jBBgwFoAUSKLfIx8d+CxReowDzUkypQnBlKswHQYDVR0OBBYEFBroYYAK5OzJa0e58r9qMb/MNR1RMAkGA1UdEwQCMAAwGQYJKoZIhvZ9B0EABAwwChsEVjguMQMCBLAwDQYJKoZIhvcNAQELBQADggIBAG4k6irZOgf6G6J31iNBCnNfRL4gAwj9VWgyJO+X9JFsbcVj+Rn4zDl034uAZ+IfyK8Hw7uMLAvwz9kcm9SVsHFkkNQjqjhGZ36qwLOe6TO3lcOwejFLyexArOPtWl57yryvv3eST+xYSyIFPF0ZNkISGf/TjpaKzfA0eaDdFqVCUU+c4mZTmGu87Ohb5mYIcGnmrs/IapUEfdNxh8dPnBQKQje/hWDp0YJQxL0oK0jAzapt4PihGFJJhfjimYkNROoaOAkdcIAzZ5+yE8simStU2xbtxtYXhtCcDp8wcQbgRdBz4dGT7vpHid+7hF8eg3ZzyeaLHMyKxGkx+YwhV64ii2ae/MLps6tjRBZm7gOk66YfsCI6SxiUUMTOvuIDBkMsCnaIfeiS3Zk1QAkIZTw1nXz+gDA5MXBCp8SrYAZ9Lh9uFAh7ftOExELxz1WsNnOT+v97U6xnPi3Rg0e1nW7nkItqSRlWOp7h+CqH19kdN6NFG86VukJ3Ksc2soIdps/Kw3dvtC8DhgQg5Mz9JfhHzcMCQEtIKJE/ZgtcqOkENdReBPC9glBKcLwROwkEMO14SM/mFAGbeMEUGq5yrfGPXcDb/uvVBgBlF80owwXqvL/komt9TVb6gNygFzVmJLZIUs/melshbsJWe1awIa31Hbgl2+K70Y67BGSEZdtk</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><QualifyingProperties xmlns="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature-1568890578"><SignedProperties Id="SignedProperties-316886145"><SignedSignatureProperties><SigningTime>2023-01-11T20:33:57.983Z</SigningTime><SigningCertificate><Cert><CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>FlpAsTxvQ9Fk/yWv933AFkXF+rM=</ds:DigestValue></CertDigest><IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR, L=QUITO, OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE, O=BANCO CENTRAL DEL ECUADOR, C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533543483</ds:X509SerialNumber></IssuerSerial></Cert></SigningCertificate></SignedSignatureProperties></SignedProperties></QualifyingProperties></ds:Object></ds:Signature>
+</comprobanteRetencion>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

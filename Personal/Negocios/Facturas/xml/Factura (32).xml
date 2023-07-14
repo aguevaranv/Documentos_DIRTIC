@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>3101202301175136494200120011000000001951234567018</numeroAutorizacion>
+<fechaAutorizacion>2023-01-31T10:37:40-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>PIARPUEZAN NORIEGA MARCELA DENISSE</razonSocial>
+    <nombreComercial>PIARPUEZAN NORIEGA MARCELA DENISSE</nombreComercial>
+    <ruc>1751364942001</ruc>
+    <claveAcceso>3101202301175136494200120011000000001951234567018</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>100</ptoEmi>
+    <secuencial>000000195</secuencial>
+    <dirMatriz>VENEZUELA N8-31 Y MANABI</dirMatriz>
+    <contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>31/01/2023</fechaEmision>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>GUEVARA VALDIVIEZO ANGEL UVALDO</razonSocialComprador>
+    <identificacionComprador>1706479373001</identificacionComprador>
+    <direccionComprador>SANGOLQUI / AV. GENERAL ENRIQUEZ 331 Y SUCRE RUMINAHUI PICHINCHA</direccionComprador>
+    <totalSinImpuestos>31.47</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>31.47</baseImponible>
+        <tarifa>12</tarifa>
+        <valor>3.78</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>35.25</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>35.25</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>MALLE010</codigoPrincipal>
+      <descripcion>Malla Esponjada Negra   </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>3.21</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>3.21</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>3.21</baseImponible>
+          <valor>0.39</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>REATC002</codigoPrincipal>
+      <descripcion>Reata Camping Negro 25mm 50mt rollo   </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>7.14</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>7.14</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>7.14</baseImponible>
+          <valor>0.86</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>REATQ001</codigoPrincipal>
+      <descripcion>Reata 1580 Negro de 40mm 50mt  rollo    </descripcion>
+      <cantidad>5</cantidad>
+      <precioUnitario>0.45</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>2.25</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>2.25</baseImponible>
+          <valor>0.27</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>BUCLP004</codigoPrincipal>
+      <descripcion>Bucle Peruano 4cm Negro   </descripcion>
+      <cantidad>12</cantidad>
+      <precioUnitario>0.34</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>4.08</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>4.08</baseImponible>
+          <valor>0.49</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>BUCLI005</codigoPrincipal>
+      <descripcion>Bucle Importado Sapito Negro 25cm   </descripcion>
+      <cantidad>12</cantidad>
+      <precioUnitario>0.15</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.80</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>1.80</baseImponible>
+          <valor>0.22</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>BUCLI004</codigoPrincipal>
+      <descripcion>Bucle Importado Plano Negro 2cm   </descripcion>
+      <cantidad>12</cantidad>
+      <precioUnitario>0.13</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.56</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>1.56</baseImponible>
+          <valor>0.19</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ESCAP003</codigoPrincipal>
+      <descripcion>Escalera Peruano de 2cm Negro   </descripcion>
+      <cantidad>12</cantidad>
+      <precioUnitario>0.04</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.48</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.48</baseImponible>
+          <valor>0.06</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>TRABI001</codigoPrincipal>
+      <descripcion>Trabillas   </descripcion>
+      <cantidad>12</cantidad>
+      <precioUnitario>0.07</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.84</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.84</baseImponible>
+          <valor>0.10</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>MECY51N</codigoPrincipal>
+      <descripcion>Media Luna Metalica CY51 Niquel   </descripcion>
+      <cantidad>12</cantidad>
+      <precioUnitario>0.04</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.48</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.48</baseImponible>
+          <valor>0.06</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>POLY004</codigoPrincipal>
+      <descripcion>Polyexpanded Colombia 10mm  1M mts    </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>1.79</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.79</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>1.79</baseImponible>
+          <valor>0.21</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>LONPI001</codigoPrincipal>
+      <descripcion>Lona Pixelada   </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>3.66</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>3.66</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>3.66</baseImponible>
+          <valor>0.44</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>LLAR043</codigoPrincipal>
+      <descripcion>Llave Rio  8 Verde Militar   </descripcion>
+      <cantidad>12</cantidad>
+      <precioUnitario>0.07</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.84</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.84</baseImponible>
+          <valor>0.10</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>CIERO004</codigoPrincipal>
+      <descripcion>Cierre N8 Verde Militar 200mt rollo   </descripcion>
+      <cantidad>3</cantidad>
+      <precioUnitario>0.22</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.66</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.66</baseImponible>
+          <valor>0.08</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>LIMP001</codigoPrincipal>
+      <descripcion>Limpiador I222  250cc  peque o   </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>2.68</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>2.68</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>2.68</baseImponible>
+          <valor>0.32</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Direccion">SANGOLQUI / AV. GENERAL ENRIQUEZ 331 Y SUCRE RUMINAHUI PICHINCHA</campoAdicional>
+    <campoAdicional nombre="Email">AUGUEVARAV@HOTMAIL.COM</campoAdicional>
+    <campoAdicional nombre="Vendedor">SIN VENDEDOR</campoAdicional>
+    <campoAdicional nombre="Fechavencimiento">31/01/2023</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature369661">
+<ds:SignedInfo Id="Signature-SignedInfo1043003">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID299287" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature369661-SignedProperties697463">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>5Fwp9YKXu0xdAXLtdplUzErJHck=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1269052">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>jcadCgBHX2EqKVtg8Is3qn4J/40=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-738521" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>PNp+csfLAgVrkGRcDa0cfksDQTo=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue47442">
+VXKjdc5hqZn/2VjeGQBM/hy8FpnVfNTVLHQ/MDpfepNRedAsd37hFb2E6poctTW+okALIM/yutb6
+FQkTGeJB0T35d97cV7/1/+jYd/pSVNXfwCIajF07b/R+28nmm7qv3EnJjXEqmZdZ7TzrDnp8lWhU
+UnhFSjTOAhjv4OMxmdW7QruHC2xR+x+9hagmbyxKXl+Sac4TPEiXFAAVBA7KL/C5UxGG3T7XT2tR
+d6r2GFXMJVj33xHURHb0n4Zf1mXDsX4kZRbQtIXIaDTPqGM5ZjC0D2b9+d5Ffu6QxYM4CM6IYnuJ
+d+xGaLumqO/gBQyit+ca8ErBawFFkkiJup7tmA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1269052">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL0jCCCbqgAwIBAgIEZl5s5jANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjEyMDUxNzE2NDhaFw0yNDEyMDQxNzE2NDhaMIGiMSsw
+KQYDVQQDDCJNQVJDRUxBIERFTklTU0UgUElBUlBVRVpBTiBOT1JJRUdBMRUwEwYDVQQFEwwwNTEy
+MjIxMjI2MzExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lP
+TjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4S5ZtjTq9nYlOsVeDdRPM7+gOKtzCdogxbG++LsFGminLCsi
+6C8GIhzozpB1pjss4I4nnPaQxcF3Y/N0OnvSJQFXiSvnP5NJs3BPxV18GLo9N1jWCQZxDua7xMs7
+Y3QAdZK0viX0CutfVw2iqX6yEN2rChOQadbKZoIauhzWP0UQ9RMwhUz5RYJzg6FWv0iHlN0LN5SN
+/FsoYDbUmb+DhwfUTtRG3GgLLBd9P9lIqblI9OB17fXC9jOyydwXFTFXGQec0UOrPcol6aY2vpzT
+WjyVOooSmRAKq4B7wn0wHZqmbyuNjHuRl2LCLc25hTGpToWxJ6YUwOAsfATdbV0zrQIDAQABo4IH
+FTCCBxEwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggr
+BgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5l
+Yy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxk
+YXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRp
+b25MaXN0P2Jhc2UwIgYDVR0RBBswGYEXbXBpYXJwdWV6YW4wOUBnbWFpbC5jb20wggEGBgNVHSAE
+gf4wgfswWgYKKwYBBAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkAZgBpAGMAYQBk
+AG8AIABkAGUAIABQAGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDCBnAYKKwYBBAGCpnICATCB
+jTCBigYIKwYBBQUHAgEWfmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVu
+dC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2Vy
+dGlmaWNhZG8gUGVyc29uYSBOYXR1cmFsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9aHR0
+cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2Nz
+cKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBT
+RUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JN
+QUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CBxKCB
+wYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0aWZp
+Y2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRv
+cjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9j
+bWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VS
+SVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VD
+VVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUzZsukafFb6FDl/7K/BXx/dnJiiowKwYD
+VR0QBCQwIoAPMjAyMjEyMDUxNzE2NDhagQ8yMDI0MTIwNDE3MTY0OFowCwYDVR0PBAQDAgXgMBoG
+CisGAQQBgqZyAwEEDAwKMTc1MTM2NDk0MjAVBgorBgEEAYKmcgMJBAcMBVFVSVRPMBEGCisGAQQB
+gqZyAyIEAwwBLjAnBgorBgEEAYKmcgMHBBkMF1ZFTkVaVUVMQSBOODMxIFkgTUFOQUJJMB8GCisG
+AQQBgqZyAwIEEQwPTUFSQ0VMQSBERU5JU1NFMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwNTA5
+ODc5MBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMM
+BAkMB0VDVUFET1IwGgYKKwYBBAGCpnIDAwQMDApQSUFSUFVFWkFOMBEGCisGAQQBgqZyAx4EAwwB
+LjAdBgorBgEEAYKmcgMLBA8MDTE3NTEzNjQ5NDIwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBcGCisG
+AQQBgqZyAwQECQwHTk9SSUVHQTAaBgorBgEEAYKmcgMIBAwMCjA5ODQzNzkyNTQwDQYJKoZIhvcN
+AQELBQADggIBAL4rDbWfYdghl+oyjBg+SR2gftcnBKqr/5c2VXg0c4n1bMY7UztOPmlSqifFWoJ0
+Cev3pZYm+SY4IgRntuyNRtj/vAKruF2PJ/e5UQtFbwWNMOmLaB68ipRAvtszTtUHPtFhPJ42qN+z
+A8RPG6Ow4OcucpQdtycwdOc/9vBcTxuzqYMC0qa9bdTI9ORNxdd9wXlgpmOfCVEwivlO4vOI82wF
+3svB7HN2dAxQ3Wp1zOgg0uqeCbNRuWgR/4/QnlE+XrvHZkXktfAlatU+uXwbB7yf+ASyrx5FAhAr
+lWh2nyjQbOxnlmdYgDFIDkBWL25dwo+l2/+9FVwMR2oeOMiEGgUZ2dhGp/pc2AGsbMZTnjazOfRN
+C2IUmHdwKPc0v0JEvK8PRQCZEB1399EEgG8rc23bt4y9KBzyKA4gmIG6xY4DgStTm4L2Wl0lG9JY
+3dkIPnjWeGORJ4OV7R0YUlm/eefkKvyQHMjKborcqnSJkPtepUjHtQZ/13D0ITrwqnUZ5+21U3zC
+Ke6GWqKweyzePfHrdc80IZQUVCHp9OvbhnghCnYZV1o9zbFXXSDb0jsglPty3FxmywRpQOynb4Of
+E8x51eRaz22KU51z81aIqdfjzbReAFZS/Wso+vLsrGCsCPpG71biVDSuVsBb65VuDRGRvBkRjsno
+Op+lC4P1hUas
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+4S5ZtjTq9nYlOsVeDdRPM7+gOKtzCdogxbG++LsFGminLCsi6C8GIhzozpB1pjss4I4nnPaQxcF3
+Y/N0OnvSJQFXiSvnP5NJs3BPxV18GLo9N1jWCQZxDua7xMs7Y3QAdZK0viX0CutfVw2iqX6yEN2r
+ChOQadbKZoIauhzWP0UQ9RMwhUz5RYJzg6FWv0iHlN0LN5SN/FsoYDbUmb+DhwfUTtRG3GgLLBd9
+P9lIqblI9OB17fXC9jOyydwXFTFXGQec0UOrPcol6aY2vpzTWjyVOooSmRAKq4B7wn0wHZqmbyuN
+jHuRl2LCLc25hTGpToWxJ6YUwOAsfATdbV0zrQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature369661-Object831875"><etsi:QualifyingProperties Target="#Signature369661"><etsi:SignedProperties Id="Signature369661-SignedProperties697463"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-01-31T10:35:04-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>z8v+b0EmS+vG0fYa0nHwzqm8ZOU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1717464294</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-738521"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

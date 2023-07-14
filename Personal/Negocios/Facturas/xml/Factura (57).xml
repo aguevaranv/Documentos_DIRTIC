@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2202202301019012227100120255010000090247846333312</numeroAutorizacion>
+<fechaAutorizacion>2023-02-22T14:34:00-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ds="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="2.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>GRAIMAN CIA. LTDA.</razonSocial>
+        <nombreComercial>GRAIMAN CIA. LTDA.</nombreComercial>
+        <ruc>0190122271001</ruc>
+        <claveAcceso>2202202301019012227100120255010000090247846333312</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>025</estab>
+        <ptoEmi>501</ptoEmi>
+        <secuencial>000009024</secuencial>
+        <dirMatriz>PANAMERICANA NORTE KM 4.5</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>22/02/2023</fechaEmision>
+        <dirEstablecimiento>AV Luis Vargas Torres N11-14 y Galapagos   PICHINCHA QUITO EC</dirEstablecimiento>
+        <contribuyenteEspecial>3257</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>GUEVARA VALDIVIEZO ANGEL UVALDO</razonSocialComprador>
+        <identificacionComprador>1706479373001</identificacionComprador>
+        <direccionComprador>RUMIÑAHUI / SANGOLQUI / AV. GENERAL ENRIQUEZ PB Y SUCRE, PICHINCHA, QUITO, Ecuador</direccionComprador>
+        <totalSinImpuestos>194.38</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>2</codigoPorcentaje>
+                <baseImponible>194.38</baseImponible>
+                <valor>23.33</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <importeTotal>217.71</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>217.71</total>
+                <plazo>0</plazo>
+                <unidadTiempo>DIAS</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>E266.02 DH CR</codigoPrincipal>
+            <codigoAuxiliar>E266.02 DH CR</codigoAuxiliar>
+            <descripcion>LLAVE ANGULAR CON MANGUERA FLEXIBLE DE 12PLG P-INODO</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>11.250000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>11.25</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Adicionales1" valor="Uni. Med:UN;"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>11.25</baseImponible>
+                    <valor>1.35</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>E2460.01 RA DH BLC</codigoPrincipal>
+            <codigoAuxiliar>E2460.01 RA DH BLC</codigoAuxiliar>
+            <descripcion>CONJUNTO DESAGUE CON REJILLA Y SIFON P-LAVABO</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>6.450000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>6.45</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Adicionales1" valor="Uni. Med:UN;"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>6.45</baseImponible>
+                    <valor>0.77</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>E220.01-27L CR</codigoPrincipal>
+            <codigoAuxiliar>E220.01-27L CR</codigoAuxiliar>
+            <descripcion>LLAVE P LAVABO-FIORI LEVER FIORI LEVER-CROMO</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>16.310000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>16.31</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Adicionales1" valor="Uni. Med:UN;"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>16.31</baseImponible>
+                    <valor>1.96</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>AC.1</codigoPrincipal>
+            <codigoAuxiliar>AC.1</codigoAuxiliar>
+            <descripcion>ANILLO DE CERA ANTIHONGOS</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>2.860000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>2.86</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Adicionales1" valor="Uni. Med:UN;"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>2.86</baseImponible>
+                    <valor>0.34</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>SI130022</codigoPrincipal>
+            <codigoAuxiliar>SI130022</codigoAuxiliar>
+            <descripcion>PAR DE PERNOS DE ANC. A. INOX INODORO BONE</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>4.650000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>4.65</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Adicionales1" valor="Uni. Med:UN;"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>4.65</baseImponible>
+                    <valor>0.56</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>SI24UV22</codigoPrincipal>
+            <codigoAuxiliar>SI24UV22</codigoAuxiliar>
+            <descripcion>OPIECE BUZIUS BONE CON ASIENTO VALLARTA CAIDA LENTA</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>140.980000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>140.98</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Adicionales1" valor="Uni. Med:UN;"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>140.98</baseImponible>
+                    <valor>16.92</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>E262.05 DH CR</codigoPrincipal>
+            <codigoAuxiliar>E262.05 DH CR</codigoAuxiliar>
+            <descripcion>LLAVE ANGULAR CON MANGUERA FLEXIBLE DE 16PLG P-LAVAB</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>11.880000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>11.88</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Adicionales1" valor="Uni. Med:UN;"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>11.88</baseImponible>
+                    <valor>1.43</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="ID_FACTURA">5732474</campoAdicional>
+        <campoAdicional nombre="FECHA_VENCIMIENTO">22/02/23</campoAdicional>
+        <campoAdicional nombre="CONDICION_PAGO">CONTADO</campoAdicional>
+        <campoAdicional nombre="MONEDA">USD</campoAdicional>
+        <campoAdicional nombre="REFERENCIA">3862128</campoAdicional>
+        <campoAdicional nombre="PESO_NETO">46.6 KG</campoAdicional>
+        <campoAdicional nombre="PESO_BRUTO">46.6 KG</campoAdicional>
+        <campoAdicional nombre="NRO_PEDIDO">CPQ-369400</campoAdicional>
+        <campoAdicional nombre="ORDEN_COMPRA">228288168</campoAdicional>
+        <campoAdicional nombre="MAIL">ANGELVGUEVARA@HOTMAIL.COM;</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1693438622"><ds:SignedInfo Id="SignedInfoDoc"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference Id="SignedProperties660" Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>wuC+f/3WCKT/AV33qYRjAQSpmtE=</ds:DigestValue></ds:Reference><ds:Reference Id="Cert7" URI="#Certificate"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>ugbDFdpC0eydCuJp6JvAIdKi0OQ=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference167" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>/JoO0lK+g5wTwmDA6IUrVOTj23U=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>RA/3h/5aoS3qCix0vpwrqsyYjUKCD4JQUyKcyDVdRwY/vvUkUh5o5T4XUAc0Qy1kh6L7XQ+J55+UbjVzP0FskyR6mzf+myR2/bF3bwtNDwkhLuVXkVQbCrhlEA6r7xU5qm2sKMHxjfbet5wPELrHjyT9NaFLF1L+hBfCIRZN4UJ34jCwU2zapubHzn6yTnice1NmGD3ZDzbq+QYTAU/aPPc4N0el7cOP9u9RLwzz18ltj+40hz4NHjvOt3wGwF9QrdGw6DjWTSI50iBQeYdwQXnVNEQHolpu77yTqL8maU3A1j48hR4dDNxuoZy49DiBGCnCZwwCaHaaRAMtt5uckg==</ds:SignatureValue><ds:KeyInfo Id="Certificate"><ds:X509Data><ds:X509Certificate>MIIL7DCCCdSgAwIBAgIEZCarrTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMTA2MTcxNjU4MzNaFw0yNTA2MTcxNjU4MzNaMIGdMSYwJAYDVQQDDB1KRU5OWSBBTEVYQU5EUkEgQ0FCUkVSQSBQUkFETzEVMBMGA1UEBRMMMTcwNjIxMTIwODMxMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALHso0RemMZHRb1Y87euaaWWy3iLl1QBn161o3gd/bolo4t8V1V1joCBR0IxGLGY7ZKmxbZ7NWfUJFDHBYHzHhTuT7W1EJjL4kcoaPYuvkEKbwz0hWAPKXX8u+Mb5AonHgivAfAm2E1m1yAaWGNsSLdrFuXPsMN2s2QkcB7l2vpxUp638UjoPeGR3rdiyWswMV24t/Gfj8S/J5ls5qySdZdwEgbsCeSQdShSPR/YVZDtczMCRaGnGHpEGAA8ibxQbWSZ3ITEJY/UONVq9/oSQQA+13IotRgVO2itryf0tKic1cI/YaiVBX+7IqchoXagLmdXiDOfXEvM2TSoe8GaBfsCAwEAAaOCBzQwggcwMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMB8GA1UdEQQYMBaBFGFjYWJyZXJhQGdyYWltYW4uY29tMIIBEgYDVR0gBIIBCTCCAQUwYAYKKwYBBAGCpnICCjBSMFAGCCsGAQUFBwICMEQeQgBDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABNAGkAZQBtAGIAcgBvACAAZABlACAARQBtAHAAcgBlAHMAYTCBoAYKKwYBBAGCpnICBDCBkTCBjgYIKwYBBQUHAgEWgYFodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIE1pZW1icm8gZGUgRW1wcmVzYS5wZGYwggKiBgNVHR8EggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFKaDrb67jhHYqmCET8KSGp4bmupXMCsGA1UdEAQkMCKADzIwMjEwNjE3MTY1ODMzWoEPMjAyNTA2MTcxNjU4MzNaMAsGA1UdDwQEAwIF4DAZBgorBgEEAYKmcgMFBAsMCUNPTlRBRE9SQTAaBgorBgEEAYKmcgMBBAwMCjAxMDMwOTg1NTQwFgYKKwYBBAGCpnIDCQQIDAZDVUVOQ0EwEQYKKwYBBAGCpnIDIgQDDAEuMCYGCisGAQQBgqZyAwcEGAwWUEFOQU1FUklDQU5BIE5PUlRFIFMgTjAfBgorBgEEAYKmcgMCBBEMD0pFTk5ZIEFMRVhBTkRSQTAfBgorBgEEAYKmcgMgBBEMDzAwMTA4MDAwMDAwODc0OTATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFwYKKwYBBAGCpnIDAwQJDAdDQUJSRVJBMCIGCisGAQQBgqZyAwoEFAwSR1JBSU1BTiBDSUEuIExUREEuMB0GCisGAQQBgqZyAwsEDwwNMDE5MDEyMjI3MTAwMTASBgorBgEEAYKmcgMdBAQMAk5vMBUGCisGAQQBgqZyAwQEBwwFUFJBRE8wGwYKKwYBBAGCpnIDCAQNDAs1OTM3MzcwMDg3MDANBgkqhkiG9w0BAQsFAAOCAgEAmQgNpySPnCgcuF+p5Vl//t3S1iWcdWm8DtQjeyDCaByLaYg6khihE9BR7n2XWwcLe0a6UwK9jJ903B3TZm7zTkTkuXuuWnYsyBgD9x9uJtMk3Xalzaa6+N3n2MROiXRoxpSkyx5I5GPthJ0JegVLixXsJBmuACs1UlYSRkx+yK4tOs+OGe88n6s6EZqZXGuru+qigK7syo4NbDLk8fil3AVg+iCrwGpC9KtP7LksilHFhNe+mvrjrLQQxK3AAKbd1FQExqyyEC8UVA7MTwp4V+dNOjWoGrLu7RzCIXoXbHM+1qeIWPgCdWDIMPNF1lYPjgRzfqWHrfJSJL3d6zx4EB0ptV72I6YRlvrb6/LwSVNN+JtQOeWpHXrYhbZFNfRlmUPrStBE49kFFNPnJbwcUotovT5iwplN0zp4YZp5w/K+RZyKH87QGxT930bHEB8apDDK9ABZOWr4reM1ONj4vUqARqgUwfYuITndkkXWeetzcEQCrNcLLrCbbwEgnVLlaRZK9EOMiW61gwxnAJqz9rXkz5csAv/1IzqwViSw+aJw1EzY5gTO+RCd2o6F/TXWRNwjtEtZ4Sb2ewbQ7N6IhhrA7t1iCTkclxxVEtHtmEeQBDKIOTEN2uiTvAF3MivBQKvU/EckQ8GvFb8aEzJ7e7TJtXghJvrmEB3UuAD0cZw=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>seyjRF6YxkdFvVjzt65ppZbLeIuXVAGfXrWjeB39uiWji3xXVXWOgIFHQjEYsZjtkqbFtns1Z9QkUMcFgfMeFO5PtbUQmMviRyho9i6+QQpvDPSFYA8pdfy74xvkCiceCK8B8CbYTWbXIBpYY2xIt2sW5c+ww3azZCRwHuXa+nFSnrfxSOg94ZHet2LJazAxXbi38Z+PxL8nmWzmrJJ1l3ASBuwJ5JB1KFI9H9hVkO1zMwJFoacYekQYADyJvFBtZJnchMQlj9Q41Wr3+hJBAD7Xcii1GBU7aK2vJ/S0qJzVwj9hqJUFf7sipyGhdqAuZ1eIM59cS8zZNKh7wZoF+w==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature1693438622-Object"><etsi:QualifyingProperties Target="#Signature1693438622"><etsi:SignedProperties Id="SignedProperties"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-02-22T14:33:59</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>qPdi6oN2wrxYGOsJBMrNrST9yxo=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1680255917</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference167"><etsi:Description>Comprobante SRI by QuindeFee</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

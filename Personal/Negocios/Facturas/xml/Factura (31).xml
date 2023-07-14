@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>3101202301171298320200120020200000463090004633119</numeroAutorizacion>
+<fechaAutorizacion>2023-02-01T08:01:31-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>MEJIA MOLINA EDILMA DEL ROCIO</razonSocial><ruc>1712983202001</ruc><claveAcceso>3101202301171298320200120020200000463090004633119</claveAcceso><codDoc>01</codDoc><estab>002</estab><ptoEmi>020</ptoEmi><secuencial>000046309</secuencial><dirMatriz>AV. ABDON CALDERON 7-23 Y GUAYAQUIL</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>31/01/2023</fechaEmision><dirEstablecimiento>AV. ATAHUALPA Y SHYRIS</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>GUEVARA VALDIVIEZO ANGEL UVALDO</razonSocialComprador><identificacionComprador>1706479373</identificacionComprador><direccionComprador>PICHINCHA RUMINAHUI y SANGOLQUI</direccionComprador><totalSinImpuestos>558.93</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>558.93</baseImponible><valor>67.07</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>626.00</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>626.00</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>V9</codigoPrincipal><codigoAuxiliar>V9</codigoAuxiliar><descripcion>VIGA V9 15X25X12</descripcion><cantidad>5.000000</cantidad><precioUnitario>39.910720</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>199.55</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>199.55</baseImponible><valor>23.95</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>V5</codigoPrincipal><codigoAuxiliar>V5</codigoAuxiliar><descripcion>VIGA V5 10X15X9</descripcion><cantidad>4.000000</cantidad><precioUnitario>22.366075</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>89.46</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>89.46</baseImponible><valor>10.74</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>VAR-035</codigoPrincipal><codigoAuxiliar>VAR-035</codigoAuxiliar><descripcion>VC MICROALEADA A42 12 X 12 NOVACERO</descripcion><cantidad>2.000000</cantidad><precioUnitario>11.764750</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>23.53</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>23.53</baseImponible><valor>2.82</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>VAR-038</codigoPrincipal><codigoAuxiliar>VAR-038</codigoAuxiliar><descripcion>VC MICROALEADA A42 10 X 12 NOVACERO</descripcion><cantidad>2.000000</cantidad><precioUnitario>8.333300</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>16.67</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>16.67</baseImponible><valor>2.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>RA001</codigoPrincipal><codigoAuxiliar>RA001</codigoAuxiliar><descripcion>ROLLO ALAMBRE GALVANIZADO 18</descripcion><cantidad>0.090900</cantidad><precioUnitario>49.415842</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>4.49</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>4.49</baseImponible><valor>0.54</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>CLA-009</codigoPrincipal><codigoAuxiliar>CLA-009</codigoAuxiliar><descripcion>CLAVO 2</descripcion><cantidad>0.036400</cantidad><precioUnitario>60.170330</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2.19</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>2.19</baseImponible><valor>0.26</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>CLA-003</codigoPrincipal><codigoAuxiliar>CLA-003</codigoAuxiliar><descripcion>CLAVO 212</descripcion><cantidad>0.036400</cantidad><precioUnitario>59.914835</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2.18</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>2.18</baseImponible><valor>0.26</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>CEMENTO SELVA ALEGRE</codigoPrincipal><codigoAuxiliar>CEMENTO SELVA ALEGRE</codigoAuxiliar><descripcion>CEMENTO SELVA ALEGRE</descripcion><cantidad>30.000000</cantidad><precioUnitario>7.361607</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>220.85</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>220.85</baseImponible><valor>26.50</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="DIRECCION">PICHINCHA RUMINAHUI y SANGOLQUI</campoAdicional><campoAdicional nombre="FORMA DE PAGO">EFECTIVO</campoAdicional><campoAdicional nombre="RESPONSABLE">CEPEDA MOLINA LESLLY JULIETH</campoAdicional><campoAdicional nombre="TELEFONOS">2348604</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature665612">
+<ds:SignedInfo Id="Signature-SignedInfo337475">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID830062" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature665612-SignedProperties912410">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>H20fqic6PVO1TsF40eWPYPAMZWM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1864044">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>2eoQukfdJoLmSEj0j4RqlFI4Hb8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-450474" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>LSjeu1VpqKk+5GbBL/rXV/mD8FY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue49553">
+QOB6b/qY+4Y7AfiNbFv5gXAAhghyoXaT79TcoabjiMPgJTWmCjnIbIhkBg/hEF0Sh02MdtuAbI9X
+EGJl6pR/uGp6qoUoKQwj12l/SJlh20DP3ofDCXF9KmYlAlDyZl5/b8YvBYNkqyi3v7o72VPm6/1S
+fGUsuCUoos/SIn0twKLpBkGx2eH6kjqYCMNwurhkK+lgEKaPsMFIuuBZeyrTH2YXNkwMA1lVo9Fj
+bQkmG6TelHlnLTQUJBjZ6/z9RHTviOrcjt+trTym5Nf/qBljdK8paXzpQHWzDA+qivWWIT8l438G
+msNh2q4lfuXy/NV6L1SU8BSPg1f/t/lUCXR0hw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1864044">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILyzCCCbOgAwIBAgIEV665+zANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMTA1MjYyMzIyNDBaFw0yNjA1MjYyMzIyNDBaMIGdMSYw
+JAYDVQQDDB1FRElMTUEgREVMIFJPQ0lPIE1FSklBIE1PTElOQTEVMBMGA1UEBRMMMjYwNTIxMTgz
+MjM3MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAb
+BgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAL/IS/sAuNcDrsJTl8nB8XOjiBmczR7sSAiw7TJVV1LS+Y6jHoueruF4
++pp6dRQXIBPlXvd+dZU8NbPWfVX9iLa0u5pxd+r6vRM2GzokSMkorGyKCSU9HnMXr/s/Nf7z2+CY
+8iQC7i1eIAFs626WitfZbs1XRhMD3uYbx2PxAQtFP3lRzEpFnrmkUKXw6h6FhcRVohgN6hsY315t
+L924I0KP9qG+aLIQ1JJUxpsKqAMfPmtnBNqcy32DrBlEyq+8XeimZ2tih2fKqc+rXjmVveRny8AD
+Snw5+fRCLqYuG4SOi3WaeYV78lc7W+7CTPJpoo40WLonTKGZt52JiYvkrWsCAwEAAaOCBxMwggcP
+MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUH
+AQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpi
+Y2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8v
+bGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJ
+T04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlz
+dD9iYXNlMCEGA1UdEQQaMBiBFmFuZHJhbmdvbWF5cmFAeWFob28uZXMwggEGBgNVHSAEgf4wgfsw
+WgYKKwYBBAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABk
+AGUAIABQAGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDCBnAYKKwYBBAGCpnICATCBjTCBigYI
+KwYBBQUHAgEWfmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3du
+bG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNh
+ZG8gUGVyc29uYSBOYXR1cmFsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9aHR0cDovL29j
+c3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SB
+nDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklU
+WSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04x
+HTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxk
+YXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJl
+dm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2Vj
+dXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3Js
+Jmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERB
+VEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkg
+REFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUKrdKC8AE5+lXBdpeBmt+ftRzefEwKwYDVR0QBCQw
+IoAPMjAyMTA1MjYyMzIyNDBagQ8yMDI2MDUyNjIzMjI0MFowCwYDVR0PBAQDAgXgMBoGCisGAQQB
+gqZyAwEEDAwKMTcxMjk4MzIwMjAVBgorBgEEAYKmcgMJBAcMBVFVSVRPMBEGCisGAQQBgqZyAyIE
+AwwBLjApBgorBgEEAYKmcgMHBBsMGUhVQU5DQVZJTENBIE4xMzY3IFkgQVpVQVkwIAYKKwYBBAGC
+pnIDAgQSDBBFRElMTUEgREVMIFJPQ0lPMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwMTk2NTQx
+MBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkM
+B0VDVUFET1IwFQYKKwYBBAGCpnIDAwQHDAVNRUpJQTARBgorBgEEAYKmcgMeBAMMAS4wHQYKKwYB
+BAGCpnIDCwQPDA0xNzEyOTgzMjAyMDAxMBEGCisGAQQBgqZyAx0EAwwBLjAWBgorBgEEAYKmcgME
+BAgMBk1PTElOQTAcBgorBgEEAYKmcgMIBA4MDDU5Mzk5NTAyMzg5MjANBgkqhkiG9w0BAQsFAAOC
+AgEAA6hHfplYAfEQSLVOFOOs4STLTHSJ5K3eyaZYJ4i99Y9NKQBanEo+dInHaM3a+rpR2yZUT9h8
+GuCHMXm763sslDkTL2F7vEfojqUwSr2occTwR3Rb9/ut9TuavXFVWo3PyNWmoR6gBaGSTmCkqiwe
+4CYVEGsavo28cN11ZX2CjAfXxhsVwDyQH3Uf6L/0imS6F1pYyxAag4kWfnSK5iREGpSB95uU8k3P
+DLCuOk9R+YIDdHVe8y0in1Fh8ONvNMG9hmsQhz004YlLI4NyXzoBbmJef/zrC/XZKH3MFLVoYz33
+gLwOjmk3U3QpKowmEnm9opC/9Fg27WBq3lFZYNKnNMUJ7hmQWeT95KtsXQ/LWK90mHTNZsoF70MX
+wQ2rc/sHMX/v8Z27tZN1yW41Hye8DctYkv94F28zju5XB9TwLXi/C9O0M/5qVRDyXl8RYDmKi5rR
+ahEvVhiDLYx3SndgU0tzvQAHe0PLOWZ6kA14hHRLiYXf9q4ZJTc6/cVr6x4qb3795xxfdusT47NM
+fwIfNdG3lhpv5w2iLbao7W1KdUwIa4NnchcZ77IPe3cYuEGic6a05wYNrBZ2XG90ozSZm0kHNIjI
+xUh28z0Nw8JU4vbWdE9Pz54g0e5V3WzvRWjoLAoNsi9WSoj/YjS1k+CfmyL9yO8/2Gc8rK1KMnH9
+bC8=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+v8hL+wC41wOuwlOXycHxc6OIGZzNHuxICLDtMlVXUtL5jqMei56u4Xj6mnp1FBcgE+Ve9351lTw1
+s9Z9Vf2ItrS7mnF36vq9EzYbOiRIySisbIoJJT0ecxev+z81/vPb4JjyJALuLV4gAWzrbpaK19lu
+zVdGEwPe5hvHY/EBC0U/eVHMSkWeuaRQpfDqHoWFxFWiGA3qGxjfXm0v3bgjQo/2ob5oshDUklTG
+mwqoAx8+a2cE2pzLfYOsGUTKr7xd6KZna2KHZ8qpz6teOZW95GfLwANKfDn59EIupi4bhI6LdZp5
+hXvyVztb7sJM8mmijjRYuidMoZm3nYmJi+Staw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature665612-Object711202"><etsi:QualifyingProperties Target="#Signature665612"><etsi:SignedProperties Id="Signature665612-SignedProperties912410"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-02-01T08:01:26-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>+NFrQyYu9VKfWnKv4efNVzvRZbs=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1471068667</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-450474"><etsi:Description>powered by ElectroFacturas.com</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

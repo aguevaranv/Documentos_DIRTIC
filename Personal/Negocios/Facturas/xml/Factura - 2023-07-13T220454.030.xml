@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1506202301172073883800120010010000009921234567815</numeroAutorizacion>
+<fechaAutorizacion>2023-06-15T11:59:51-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>BULLA AMAN CATHERINE ALEXANDRA</razonSocial><nombreComercial>PIEL NOVA</nombreComercial><ruc>1720738838001</ruc><claveAcceso>1506202301172073883800120010010000009921234567815</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>001</ptoEmi><secuencial>000000992</secuencial><dirMatriz>ROCAFUERTE OE8-36 E IMBABURA</dirMatriz><contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe></infoTributaria><infoFactura><fechaEmision>15/06/2023</fechaEmision><dirEstablecimiento>ROCAFUERTE OE8-36 Y IMBABURA</dirEstablecimiento><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>ANGEL GUEVARA</razonSocialComprador><identificacionComprador>1706479373001</identificacionComprador><direccionComprador>SANGOLQUI</direccionComprador><totalSinImpuestos>114.94</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>114.94</baseImponible><tarifa>12.00</tarifa><valor>13.79</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>128.73</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>128.73</total><plazo>1</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>pdi6lap</codigoPrincipal><descripcion>MAHATTHAN</descripcion><cantidad>1.000000</cantidad><precioUnitario>6.700000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>6.70</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>6.70</baseImponible><valor>0.80</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>rkqdma7</codigoPrincipal><descripcion>TUMAY</descripcion><cantidad>2.000000</cantidad><precioUnitario>5.270000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>10.54</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>10.54</baseImponible><valor>1.26</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>k4foqi4</codigoPrincipal><descripcion>JUNIOR</descripcion><cantidad>3.000000</cantidad><precioUnitario>6.160000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>18.48</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>18.48</baseImponible><valor>2.22</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>fyj3g3m</codigoPrincipal><descripcion>COLEMAN</descripcion><cantidad>1.000000</cantidad><precioUnitario>4.380000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>4.38</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>4.38</baseImponible><valor>0.53</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>zd3xle6</codigoPrincipal><descripcion>PLANCHA CREPE CRUDO #5 NGR</descripcion><cantidad>1.000000</cantidad><precioUnitario>46.430000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>46.43</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>46.43</baseImponible><valor>5.57</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>ola4q8t</codigoPrincipal><descripcion>TAPA CAUCHO</descripcion><cantidad>8.500000</cantidad><precioUnitario>0.890000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>7.57</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>7.57</baseImponible><valor>0.91</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>ktz2r30</codigoPrincipal><descripcion>PLANTA CAUCHO</descripcion><cantidad>1.000000</cantidad><precioUnitario>4.460000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>4.46</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>4.46</baseImponible><valor>0.54</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>9s0d3if</codigoPrincipal><descripcion>VIRGINIAS</descripcion><cantidad>12.000000</cantidad><precioUnitario>0.850000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>10.20</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>10.20</baseImponible><valor>1.22</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>kcj7wo7</codigoPrincipal><descripcion>AFRICANOS 1/4</descripcion><cantidad>6.000000</cantidad><precioUnitario>1.030000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>6.18</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>6.18</baseImponible><valor>0.74</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Correo electrónico">auguevarav@hotmail.com</campoAdicional><campoAdicional nombre="Dirección">SANGOLQUI</campoAdicional><campoAdicional nombre="Teléfono">+593999848756</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature189004">
+<ds:SignedInfo Id="Signature-SignedInfo878593">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID697778" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature189004-SignedProperties1035667">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>lJLjC0FFM5VK6gf+CQrE4c0Ke1s=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1183061">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>7V4wjkkH0UCvn6KWE6A8rhylklQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-308373" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>64dBw1q7j++aBtoO/k3IFtDIZnY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue760010">
+kn3bJouGst1HoUUGEISOA1C8sXC0Ny/ZmR4No6LP+l9NFtlMSEp3mBG5f14jsaAcEXGxUmXcdIBF
+90ANNbUOeWe+KKH6QX+KYDXQfOVcHl/URR4slKJbDALlLuFmfhKfUrssPHNvtQghPkx9I+ujVzib
+zrOuAOVcPELUm3T+awyfyZBeQ5LGOTXCVBJWP7Ivxc65nZLDJwwNwmKBIq/2qd/iF0O+ao0IMzub
+RsWUtTEzlG7EzU/4aLdLqcgVPMKVy90R3ipgpXrkt9B9uzxGrdZXYcNkMbQf7o7mOFFE/OmiAUI8
+804h6qlLddd9sSyqZatVnaIgY/8cUVs4qFJuiA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1183061">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILzTCCCbWgAwIBAgIEH/Wv9DANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjA0MTQyMjQ5MTBaFw0yNzA0MTQyMjQ5MTBaMIGeMScw
+JQYDVQQDDB5DQVRIRVJJTkUgQUxFWEFORFJBIEJVTExBIEFNQU4xFTATBgNVBAUTDDE0MDQyMjE3
+NTg0OTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCuGpdWg4mCNhwfpcb2fo6YpcliVoqjZZhmFKQUnF1Sd8xPWtQMY3kv
+u5Nkjj28JXOjc3HVEU809RVoMfI4vM52QZcSt3L6wRvLhFn2JsOfBOBQaand2xFQMAYylPdQlvpa
+ZJFa5KF0wsu3cJflYouKbbYVjwpT1DVn+lOShcS3Riin8GU6B7BpVP0o6/pGwCkDsrKgyENymajb
+1iCUX95iwOCxA7X7GvlMV9Anf0sI4fkF3+Y+++GxbiXDufEfDjwx1hLPRi9yshicWsXlKk2FK7o+
+QSMiwLu5HXRk8vKaKF/CvBCrz74Ni1YCs9oaYd0UPbY8uZuhmNwPzxm+6etHAgMBAAGjggcUMIIH
+EDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUF
+BwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2Vq
+YmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDov
+L2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxp
+c3Q/YmFzZTAfBgNVHREEGDAWgRRrYXR5dG9sdUBob3RtYWlsLmNvbTCCAQYGA1UdIASB/jCB+zBa
+BgorBgEEAYKmcgIHMEwwSgYIKwYBBQUHAgIwPh48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQA
+ZQAgAFAAZQByAHMAbwBuAGEAIABOAGEAdAB1AHIAYQBsMIGcBgorBgEEAYKmcgIBMIGNMIGKBggr
+BgEFBQcCARZ+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25s
+b2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2Fk
+byBQZXJzb25hIE5hdHVyYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2Nz
+cGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGc
+MIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZ
+IERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEd
+MBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRh
+cDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2
+b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1
+cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwm
+aXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFU
+QSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBE
+QVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBQgPPafAIbKc4kKfXSCex9LdHEeKzArBgNVHRAEJDAi
+gA8yMDIyMDQxNDIyNDkxMFqBDzIwMjcwNDE0MjI0OTEwWjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGC
+pnIDAQQMDAoxNzIwNzM4ODM4MBUGCisGAQQBgqZyAwkEBwwFUVVJVE8wEQYKKwYBBAGCpnIDIgQD
+DAEuMC0GCisGAQQBgqZyAwcEHwwdUk9DQSBGVUVSVEUgT0U4LTM2IFkgSU1CQUJVUkEwIwYKKwYB
+BAGCpnIDAgQVDBNDQVRIRVJJTkUgQUxFWEFORFJBMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAw
+MzQxODgzMBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKm
+cgMMBAkMB0VDVUFET1IwFQYKKwYBBAGCpnIDAwQHDAVCVUxMQTARBgorBgEEAYKmcgMeBAMMAS4w
+HQYKKwYBBAGCpnIDCwQPDA0xNzIwNzM4ODM4MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAUBgorBgEE
+AYKmcgMEBAYMBEFNQU4wGgYKKwYBBAGCpnIDCAQMDAowOTk4Mzc4Mzk4MA0GCSqGSIb3DQEBCwUA
+A4ICAQCbcdPzEOg5DZcnghFlTLPYr34m5JK0yWScGlGO3xrmsRGIw4jgYAaACfxnaWcIqt3XcOHm
+FPMiEE2KLXz5Xa8GcPsV1Uv9X1sFq3FbOWkYuQVhSClVUgcQeUGyk91GAI148dNPZ9gHr5A4JObL
+OUcygVe3nvfEm4VcyfFm2yhGhuJ7qH+J9b5rxDRCzu6JypfuWZZnsAHKIUxSZsoPZzntjN1U1KHM
+u703qWgqxh8tTzCzt0MRtoLw1ZenqziB2GIezsT66ypgeCmO0RBYE+zMOeyWyByENGsoa+sbmeh/
+nS8H2Q5qQIJpn5egLxEuS3ErUW09Dh1CaPw/tpusDyWRDtasX2W12Ghz08J4soarxNYXwH6+Sm+V
+SXqnzlhaWS9XGhzeEvz6HDEna7DxkGUU6DyU+B+AvjEQmpzuAE1ljd02ta5NcqvCgvarkUjkzYKN
+/dg0Zd2WIDQjwoqSgw/squZtzEMCaO+7eYLHovtO/YwsnPYkq5pZxegrl9tF19xUNfxrCTlYAPmq
+QK/+jouHWJZWbWnmES56xXbTEa1pDliDmuPmGrTeOZT1Sg4XAKlzeHp4MbxCNxVf1no3lALJU+fj
+9A1mPFwL8kdPpV7slkNmSJ295kPBnmYqP9iIVK9hSqiaCuM5q/KN/gPRlul8EUEw0Q6eTjnPaEAg
+ZULPPw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+rhqXVoOJgjYcH6XG9n6OmKXJYlaKo2WYZhSkFJxdUnfMT1rUDGN5L7uTZI49vCVzo3Nx1RFPNPUV
+aDHyOLzOdkGXErdy+sEby4RZ9ibDnwTgUGmp3dsRUDAGMpT3UJb6WmSRWuShdMLLt3CX5WKLim22
+FY8KU9Q1Z/pTkoXEt0Yop/BlOgewaVT9KOv6RsApA7KyoMhDcpmo29YglF/eYsDgsQO1+xr5TFfQ
+J39LCOH5Bd/mPvvhsW4lw7nxHw48MdYSz0YvcrIYnFrF5SpNhSu6PkEjIsC7uR10ZPLymihfwrwQ
+q8++DYtWArPaGmHdFD22PLmboZjcD88ZvunrRw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature189004-Object1032931"><etsi:QualifyingProperties Target="#Signature189004"><etsi:SignedProperties Id="Signature189004-SignedProperties1035667"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-06-15T11:59:05-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>ozmSlP1KkQQ7U/9hbQjV7cFjrl0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>536195060</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-308373"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

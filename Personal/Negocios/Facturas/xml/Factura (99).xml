@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2203202301059170546600120158010000000570000000113</numeroAutorizacion>
+<fechaAutorizacion>2023-03-22T14:00:29-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>SAIT SAMANIEGO ITURRALDE S A</razonSocial>
+        <nombreComercial>SAIT SAMANIEGO ITURRALDE S A</nombreComercial>
+        <ruc>0591705466001</ruc>
+        <claveAcceso>2203202301059170546600120158010000000570000000113</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>015</estab>
+        <ptoEmi>801</ptoEmi>
+        <secuencial>000000057</secuencial>
+        <dirMatriz>AV.UNIDAD NACIONAL Y ANGEL SUBIA ESQ.</dirMatriz>
+        <agenteRetencion>1</agenteRetencion>
+        </infoTributaria>
+        <infoFactura>
+        <fechaEmision>22/03/2023</fechaEmision>
+        <dirEstablecimiento>AV.UNIDAD NACIONAL Y ANGEL SUBIA ESQ.</dirEstablecimiento>
+        <contribuyenteEspecial>665E</contribuyenteEspecial>        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>GUEVARA VALDIVIEZO ANGEL UVALDO</razonSocialComprador>
+        <identificacionComprador>1706479373</identificacionComprador>
+        <direccionComprador>SANGOLQUI</direccionComprador>
+        <totalSinImpuestos>121.43</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos> 
+                    <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>2</codigoPorcentaje>
+                <baseImponible>121.43</baseImponible>
+                <valor>14.57</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>136.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        
+        <pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>136.00</total>
+   </pago>         </pagos>
+         </infoFactura>
+         <detalles>
+        <detalle>
+            <codigoPrincipal>117732</codigoPrincipal>
+            <codigoAuxiliar>117732</codigoAuxiliar>
+            <descripcion>175 70R13 KELLY EDGE TOURING 82T  PE</descripcion>
+            <cantidad>2.000000</cantidad>
+            <precioUnitario>59.714300</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>119.43</precioTotalSinImpuesto>
+             
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12.00</tarifa>
+                    <baseImponible>119.43</baseImponible>
+                    <valor>14.33</valor>
+                 </impuesto>
+          </impuestos>
+        </detalle> 
+        <detalle>
+            <codigoPrincipal>3539</codigoPrincipal>
+            <codigoAuxiliar>3539</codigoAuxiliar>
+            <descripcion>ECOVALOR</descripcion>
+            <cantidad>2.000000</cantidad>
+            <precioUnitario>1.000000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>2.00</precioTotalSinImpuesto>
+             
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12.00</tarifa>
+                    <baseImponible>2.00</baseImponible>
+                    <valor>0.24</valor>
+                 </impuesto>
+          </impuestos>
+        </detalle> 
+    </detalles>    <infoAdicional>
+        <campoAdicional nombre="eMail">auguevarav@hotmail.com</campoAdicional>
+        <campoAdicional nombre="Vendedor">HELION AMANCHA</campoAdicional>
+        <campoAdicional nombre="Correo">cartera@sait44.com</campoAdicional>
+        <campoAdicional nombre="Zona">TIREMASTER SANGOLQUI</campoAdicional>
+        <campoAdicional nombre="C.C.">TIREMASTER SANGOLQUI</campoAdicional>
+        <campoAdicional nombre="Comentario">PAGO EFECTIVO USD136</campoAdicional>
+        <campoAdicional nombre="Forma Pago">SIN UTILIZACION DEL SISTEMA FINANCIERO USD-136.00</campoAdicional>
+        <campoAdicional nombre="Forma Pago">EFECTIVO USD-136.00</campoAdicional>
+        <campoAdicional nombre="Plazo">0 DIAS</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature915573"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="Reference-ID-260746" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>m7h7gIIe1Zs5H0POC+YYhz3ZGbk=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate124271"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>A/9sjAd9IJOfC+iAUq9qaaMhv9s=</ds:DigestValue></ds:Reference><ds:Reference Id="SignedPropertiesID940610" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature915573-SignedProperties283801"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>kE/i3iygQL5BDugCgwovB0ml1Z0=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue668121">m06wlfLB/kECz6bb2nPobM7GPV6vGXxBtwUb8YS/4WXrABGMWcGo9WYjjpirUQdNjXnuZZV/Nbx172dhHpYkMTQYGmsMrpXU/Q8UqKDMk+E+xy9felp6pcCMMhEpt+pEq8kQoGV7fzC3SDFnCYA6Dh4UK3oasJXWjZhGcKTna+S8RFBuI9vd2oOlxSkpwNGhhEspAkYRAP2vn+SB+FZiwo4N7vfpMOX/85ygH8YEcCs5oLZnAzrTfrkplUZd1QQWrAFRoz5iqZB+wKKdJ7vSqUiLtp8Xd3KMocMR04oIQODOSz/sfIAq93Ak7wkKTrssToHH5cO2snxQHRyz3NGZkw==</ds:SignatureValue><ds:KeyInfo Id="Certificate124271"><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>xZp6rozQP/KgKabYyMHdLIkFn9iP/cbClNzHVH/wLP6rRhPn0ZE8lEr6uJC0GT+BoBmCzzBhIiSM4ItscK402FyR1mYHO0H/e7RFPsygUZP6oBAfGUWB9kICw5wzljCM1CJ0vtDuwdb3L4kOo82XMVT/syfSiGthBq4IhRDcULtgSR7ilj9em0nAVrgR5nUHcIkj0KapuH0MWg6zS2qRTFZwLnmnXQ/Xq9GFl6mR40EFc7gvB1X0K3PJyQzjRz8BqBuf+y8g1jAlhEjGgdVO43Dh4c5YIi55oCt6zLY1cw0j7GyiZm3uhJJaL2XDw6C2jRzJvGh3k7rV0pWL3+lZfw==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature915573-Object537944"><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature915573"><etsi:SignedProperties Id="Signature915573-SignedProperties283801"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-03-22T13:59:40-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>raURnNBZyFE76yU/HE0v6r32ryY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA, OU=ANF Autoridad intermedia  EC, O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A., C=EC, SERIALNUMBER=1792601215001</ds:X509IssuerName><ds:X509SerialNumber>995346177831237004174266019</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-260746"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1805202301179099472400120010020000487951234567811</numeroAutorizacion>
+<fechaAutorizacion>2023-05-19T09:55:42-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>WOO JIN CIERRES CIA.TDA</razonSocial><nombreComercial>WOO JIN CIERRES CIA.TDA</nombreComercial><ruc>1790994724001</ruc><claveAcceso>1805202301179099472400120010020000487951234567811</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>002</ptoEmi><secuencial>000048795</secuencial><dirMatriz>GUAYAQUIL N7-42 Y OLMEDO</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>18/05/2023</fechaEmision><dirEstablecimiento>GUAYAQUIL N7-42 Y OLMEDO</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>GUEVARA VALDIVIEZO ANGEL UVALDO</razonSocialComprador><identificacionComprador>1706479373001</identificacionComprador><direccionComprador>SANGOLQUI</direccionComprador><totalSinImpuestos>8.03</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>8.03</baseImponible><tarifa>12.00</tarifa><valor>0.96</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>8.99</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>8.99</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>GRCO4113</codigoPrincipal><descripcion>GARRUCHA 24 CORE METAL MODELO Nro203 UND</descripcion><cantidad>1.00</cantidad><precioUnitario>4.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>4.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>4.00</baseImponible><valor>0.48</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>TECO813</codigoPrincipal><descripcion>TELA CORDURA 900D PU NEGRO REPELENTE MTS</descripcion><cantidad>1.00</cantidad><precioUnitario>4.03</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>4.03</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>4.03</baseImponible><valor>0.48</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="AGENTE DE RETENCIÓN">Resolución No. 1</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature898683">
+<ds:SignedInfo Id="Signature-SignedInfo558267">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID179023" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature898683-SignedProperties43930">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>8v6pmoNNlswzz7NvXstoTwcgEd0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1559874">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>RUZ88QqXqJwGkD7JCL44NzGdIMI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-537913" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>babDJmsgJxuT4CIWTBDfzXFKkgY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue94871">
+pE39RM3dBBVcwLbw31UtL28mQIKjHpRN2jfk0yDClp/tcyfz0PmsdHV1qIjwjvkQEBnU4Yj368u/
+hM5564f3sU9JiMI3tvshZwREQQuk705/yq+2G8cQDmlIif9Kda2goxpMjsvZu7G1waXBRmw/lu5Z
+IPNUXuS18bUt4MQ6Qjlg6tqlM+8PBJLuCXiHWoJmF/j+flDqGkm8M55v9uzpKDQUMNEYcmxKWQ5T
+beKptbdDBLdbog2QtiYPSfaWtyJkOn6/c+0TsxHuAAK+GCWkp2A5tXa/G2nsRMyzJMw0voXIDa06
+uyfR5IOgsGAU0ghp8OnkMcvNROmZtd7CJy951g==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1559874">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJyTCCB7GgAwIBAgIEW2vgMDANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIyMDEyODE3NDkyNFoXDTI0MDEyODE4MTky
+NFowgaYxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzEqMBEGA1UEBRMKMDAwMDI1ODgwMjAVBgNVBAMTDllPTyBTRU9VTkcgSkFF
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAszw171xLdqyrcGlxkhYd+JFV0UCVzM4Z
+Tcvp+9Fy2eZ4/Zy495CZxGSw2dBqWa+VvMJTZzozZ0afO/3xRNxpKXQn/lcB0VcjGpVXikrGvOkg
++V6qAgT308V1BXMIijCtEftjJWu/tjob9S7gxvEO/NZ+DM5ONEEMrCVJJ7DNlnJDl0oG6p9TD9tI
+aQxWzXaPLAzB5WvFhwp+EUWhItLZmffoyaQOi8el1oQjMKcBL666zIsZ9YWganJgXiWD7XgZcg59
+E5wj69GS2lAjCAgnCbIhWoWUfa0QirAGeqnWPVE6NCu+9T5xQuhHk3jjm73UnwCW0lDXUhbCmDv9
+XKInfQIDAQABo4IFADCCBPwwCwYDVR0PBAQDAgeAMGcGA1UdIARgMF4wXAYLKwYBBAGCqDsCAgEw
+TTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0aWNhLWNlcnRpZmljYWRv
+L3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+BggrBgEFBQcwAYYyaHR0
+cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwPwYIKwYBBQUH
+MAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAo
+BgorBgEEAYKoOwMKBBoTGFdPTyBKSU4gQ0lFUlJFUyBDSUEgTFREQTAdBgorBgEEAYKoOwMLBA8T
+DTE3OTA5OTQ3MjQwMDEwGgYKKwYBBAGCqDsDAQQMEwoxNzExMTI2NDMxMBMGCisGAQQBgqg7AwIE
+BRMDWU9PMBYGCisGAQQBgqg7AwMECBMGU0VPVU5HMBMGCisGAQQBgqg7AwQEBRMDSkFFMBcGCisG
+AQQBgqg7AwUECRMHR0VSRU5URTAnBgorBgEEAYKoOwMHBBkTF0dVQVlBUVVJTCBONzQyIFkgT0xN
+RURPMBkGCisGAQQBgqg7AwgECxMJMDIyNTgzMDkzMBUGCisGAQQBgqg7AwkEBxMFUXVpdG8wFwYK
+KwYBBAGCqDsDDAQJEwdFQ1VBRE9SMCAGCisGAQQBgqg7AzMEEhMQU09GVFdBUkUtQVJDSElWTzAi
+BgNVHREEGzAZgRd3b29qaW5jaWVycmVzQGdtYWlsLmNvbTCCAeEGA1UdHwSCAdgwggHUMIIB0KCC
+AcygggHIhoHWbGRhcDovL2JjZXFsZGFwc3VicDEuYmNlLmVjL2NuPUNSTDE0MTgsY249QUMlMjBC
+QU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGw9UVVJVE8sb3U9RU5USURBRCUyMERFJTIw
+Q0VSVElGSUNBQ0lPTiUyMERFJTIwSU5GT1JNQUNJT04tRUNJQkNFLG89QkFOQ08lMjBDRU5UUkFM
+JTIwREVMJTIwRUNVQURPUixjPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZYY0aHR0
+cDovL3d3dy5lY2kuYmNlLmVjL0NSTC9lY2lfYmNlX2VjX2NybGZpbGVjb21iLmNybKSBtjCBszEL
+MAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsT
+LkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcT
+BVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMRAwDgYDVQQDEwdD
+UkwxNDE4MCsGA1UdEAQkMCKADzIwMjIwMTI4MTc0OTI0WoEPMjAyNDAxMjgxODE5MjRaMB8GA1Ud
+IwQYMBaAFEii3yMfHfgsUXqMA81JMqUJwZSrMB0GA1UdDgQWBBSsUVWD5wVFH6o98scOIFgStB7G
+aDAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAobBFY4LjEDAgSwMA0GCSqGSIb3DQEBCwUAA4IC
+AQC4Ng0sa51VE/KzLAqO4NcjkKCzaDXdtCeZ3IltpSS13ITlT+9oiJKQbJMgtdPrhWHOGtGU4Gn6
+CHI3cNyqB970gD5ccyE14eo0ofYvCC6WUdovkXgKCsPtUYElE6TAy0Z+a/KTJkfLx4VormH8b6R0
+/Y9PBI2dwr6Z5Iv+TsvhtDaeltVMM7McLAFT3iLo3ywmXXXrQf+roT98neoYD72mij8lztZA1Q+G
+fwl7AIYbh0QMjvzctndnmITkUrvKiWA/IAQq1XxrbtwXX1cTJmubPkdgTxCzP7LAA3eFGsYIDV+1
+Y5v2ozNQjQIR9G2Rf8USJhO5+ay2sYnHVl8Vg7WfnEL75abKAOvm74X0kL7SXz+A/HB0YzCthTq2
+nELIbqEuefeD7q6oR3bLzwNkkamZxlJQlCZy5l6kQRieGNtuAG8f41rJS7OWFlj72+IP02tUpbga
+N5lQvRvOqr1QfxF9idQtT8Lo7/TKEHQPPmhFNHh59f9t5GhXFxIcM2neVoiULbFRMu/MtheaCqK0
+2G/rd/7oSwkpyX/z/YCH0CVQqwnAMFIiRKRnlc4qnPQemFfGyiEdHlJ/OyP03Yi60RWwNO3dJOi7
+F1nhzSxlA6tIdgOpDSyRVwQrKkajiIcDmyczHmhqWC469TtK7j7B8mizZvRibiM8Ev344qjiA89Z
+Hw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+szw171xLdqyrcGlxkhYd+JFV0UCVzM4ZTcvp+9Fy2eZ4/Zy495CZxGSw2dBqWa+VvMJTZzozZ0af
+O/3xRNxpKXQn/lcB0VcjGpVXikrGvOkg+V6qAgT308V1BXMIijCtEftjJWu/tjob9S7gxvEO/NZ+
+DM5ONEEMrCVJJ7DNlnJDl0oG6p9TD9tIaQxWzXaPLAzB5WvFhwp+EUWhItLZmffoyaQOi8el1oQj
+MKcBL666zIsZ9YWganJgXiWD7XgZcg59E5wj69GS2lAjCAgnCbIhWoWUfa0QirAGeqnWPVE6NCu+
+9T5xQuhHk3jjm73UnwCW0lDXUhbCmDv9XKInfQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature898683-Object738793"><etsi:QualifyingProperties Target="#Signature898683"><etsi:SignedProperties Id="Signature898683-SignedProperties43930"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-05-19T09:59:02-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>2/Zv0GqwESY5RnivYuGZEVbcfjk=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533796400</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-537913"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

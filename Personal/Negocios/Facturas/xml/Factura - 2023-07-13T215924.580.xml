@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2504202301179136284500120030030000830030008300318</numeroAutorizacion>
+<fechaAutorizacion>2023-04-25T07:47:17-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>UNIVERSIDAD DE LAS AMERICAS</razonSocial>
+    <nombreComercial>UNIVERSIDAD DE LAS AMERICAS</nombreComercial>
+    <ruc>1791362845001</ruc>
+    <claveAcceso>2504202301179136284500120030030000830030008300318</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>003</estab>
+    <ptoEmi>003</ptoEmi>
+    <secuencial>000083003</secuencial>
+    <dirMatriz>VIA A NAYON A 300 METROS DEL REDONDEL DEL CICLISTA</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>25/04/2023</fechaEmision>
+    <dirEstablecimiento>LA MARISCAL. AV. COLON Número: 338 Intersección: AV. 6 DE DICIEMBRE</dirEstablecimiento>
+    <contribuyenteEspecial>636</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>GUEVARA VALDIVIEZO ANGEL UVALDO</razonSocialComprador>
+    <identificacionComprador>1706479373</identificacionComprador>
+    <direccionComprador>CUMBAYA</direccionComprador>
+    <totalSinImpuestos>8.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>8.00</baseImponible>
+        <tarifa>0.00</tarifa>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>8.00</importeTotal>
+    <moneda>USD</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>8.00</total>
+        <plazo>0.000000</plazo>
+        <unidadTiempo>días</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>UDLA00044</codigoPrincipal>
+      <descripcion>Profilaxis mas Fluor Normal Preg</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>5.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>5.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>UDLA00004</codigoPrincipal>
+      <descripcion>Diagnostico Pregrado</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>3.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>3.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="EmailCliente">auguevarav@gmail.com</campoAdicional>
+    <campoAdicional nombre="Condiciones">ESTAMOS EXENTOS DE RETENCION EN LA FUENTE DE I.R. SEGÚN DISPOSICION NUMERAL 5 DEL ART. 9 DE LA LRTI. Y ART. 19 DEL REGLAMENTO.</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature829688">
+<ds:SignedInfo Id="Signature-SignedInfo685737">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID394966" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature829688-SignedProperties3250">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>+OpSyPOIMROknwMZXipMtuYNYdk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11019099">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ZBRhDwr6li+2qJPVMlWeymh8olM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-402286" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>HyY+bSK59tMcFoIepm5hhQYll6U=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue949027">
+U+WRGPsQdk3M6i5MQz4/NTulD1DAFoJdllWH7YfcAYt8Xs4XJPgZ8eydM3/HLe4z81K9I6kdLyQC
+jWrZ4dIJZBk/0i79sxrZqrF839astBgoEO/G6oMerYU6WEwBcrvCGbg619Sgg9i2DZNnMk8QVZcW
+phh0T0YpD7j/HiyT6YxCr5x3ETrihyIBZk43DtBCtQiClOJ4KQ2bvF4qyxTCH72J8sqQ3AYAMVgL
+yJhrZwF2GFOwADUIg9aYvmDSgqrYgImUUy20QGe/CGWf7QnecVPP8l5p87tKUIWOiEZMJFe02Duw
+hYDAiawjlFY6WF3A26yjCK9INWeiIn+IJtUDKw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11019099">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILozCCCYugAwIBAgIMAzdzlECTIGQeN9K5MA0GCSqGSIb3DQEBCwUAMIG5MRYwFAYDVQQFEw0x
+NzkyNjAxMjE1MDAxMQswCQYDVQQGEwJFQzE2MDQGA1UEChMtQU5GQUMgQVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gRUNVQURPUiBDLkEuMSUwIwYDVQQLExxBTkYgQXV0b3JpZGFkIGludGVybWVk
+aWEgIEVDMTMwMQYDVQQDEypBTkYgSGlnaCBBc3N1cmFuY2UgRWN1YWRvciBJbnRlcm1lZGlhdGUg
+Q0EwHhcNMjIxMDA2MTcwMTA5WhcNMjQxMDA1MTcwMTA5WjCCAasxGjAYBgorBgEEAYKkQgoEDAox
+NzA0NDQ0NjE5MSQwIgYDVQQKDBtVTklWRVJTSURBRCBERSBMQVMgQU1FUklDQVMxMDAuBgNVBAsM
+J0NlcnRpZmljYWRvIFBlcnNvbmEgSnVyaWRpY2EgRUMgKEZJUk1BKTEXMBUGA1UEKgwOR09OWkFM
+TyBSQU1JUk8xFjAUBgNVBGETDTE3OTEzNjI4NDUwMDExCzAJBgNVBAYTAkVDMRMwEQYDVQQFEwox
+NzA0NDQ0NjE5MRkwFwYDVQQEDBBNRU5ESUVUQSBEVUXDkUFTMTMwMQYDVQQDDCoxNzA0NDQ0NjE5
+IEdPTlpBTE8gUkFNSVJPIE1FTkRJRVRBIERVRcORQVMxKzApBgkqhkiG9w0BCQEWHGdvbnphbG8u
+bWVuZGlldGFAdWRsYS5lZHUuZWMxHDAaBgNVBAwME1JFUFJFU0VOVEFOVEUgTEVHQUwxIjAgBgNV
+BA0MGUNhcmdvOlJFUFJFU0VOVEFOVEUgTEVHQUwxEjAQBgNVBAgMCVBJQ0hJTkNIQTEPMA0GA1UE
+BwwGTkFZw5NOMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1IgsflQrVP/R7+stWYBd
+2IcaL0T1TuU+vn7QBaMHBIA14VpyLcGf7vE7U5m/fvhglWUnZyAcFxMEINaWUPkwlWGen+D+YXwL
+SuvWHaf0ohxzNARnEFnMAvB2lDf/ohhLgTTjkV0UEKsrz6xRj+REOxVkSA6Az6LIizciiPxhIMek
+nPV9UX65BfNgs9TSEzmpAMdTNYmN4OBMHTxMtyAuPyTTT0vPX1m9wn8rWPx/O7VGGosTj09gBSSV
+d0T/elFlyW9cQPk3xPQFon8daKEyPCAPWZpnAAlRU+TJlB4DJhDR2WDbJnsy8z83/RTMi/+MEC93
+vzA5bZl7Rw8ke5pyHwIDAQABo4IFtDCCBbAwHwYDVR0jBBgwFoAUkq7Uy4K0mcbRexFsZerFTWgh
++awwHQYDVR0OBBYEFDkIsLylhOP8NmpBRBVZN7FihXxVMIIBAwYDVR0RBIH7MIH4gRxnb256YWxv
+Lm1lbmRpZXRhQHVkbGEuZWR1LmVjpIHXMIHUMR4wHAYKKwYBBAGCpEIKAQwOR09OWkFMTyBSQU1J
+Uk8xGDAWBgorBgEEAYKkQgoCDAhNRU5ESUVUQTEXMBUGCisGAQQBgqRCCgMMB0RVRcORQVMxGjAY
+BgorBgEEAYKkQgoEDAoxNzA0NDQ0NjE5MRkwFwYJKwYBBAGDvW4BDApBLTA2MTAyMDIyMTMwMQYD
+VQQDDCoxNzA0NDQ0NjE5IEdPTlpBTE8gUkFNSVJPIE1FTkRJRVRBIERVRcORQVMxEzARBgNVBAUM
+CjE3MDQ0NDQ2MTkwDgYDVR0PAQH/BAQDAgbAMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcD
+BDBQBgNVHR8ESTBHMEWgQ6BBhj9odHRwOi8vY3JsLmFuZi5lcy9jcmwvQU5GSGlnaEFzc3VyYW5j
+ZUVjdWFkb3JJbnRlcm1lZGlhdGVDQS5jcmwwggEDBgNVHSAEgfswgfgwgd8GDCsGAQQBgqRCAgUB
+AzCBzjAoBggrBgEFBQcCARYcaHR0cDovL3d3dy5hbmYuZXMvZG9jdW1lbnRvczCBoQYIKwYBBQUH
+AgIwgZQMgZFDZXJ0aWZpY2FkbyBjb25mb3JtZSBhIGxhIGxlZ2lzbGFjacOzbiBkZSBmaXJtYSBl
+bGVjdHLDs25pY2EuIEFudGVzIGRlIGFjZXB0YXJsbyBjb21wcnVlYmUgaW50ZWdyaWRhZCwgbGlt
+aXRhY2lvbmVzLCB2aWdlbmNpYSB5IHVzb3MgYXV0b3JpemFkb3MuMAkGBwQAi+xAAQEwCQYHYIVU
+AQMFCDCBmwYIKwYBBQUHAQEEgY4wgYswJwYIKwYBBQUHMAGGG2h0dHA6Ly9vY3NwLmFuZi5lcy9z
+cGFpbi9BVjBgBggrBgEFBQcwAoZUaHR0cDovL3d3dy5hbmYuZXMvZXMvY2VydGlmaWNhdGVzLWRv
+d25sb2FkL0FORkhpZ2hBc3N1cmFuY2VFY3VhZG9ySW50ZXJtZWRpYXRlQ0EuY2VyMAwGA1UdEwEB
+/wQCMAAwKAYJKwYBBAGBjxwTBBsMGTU1Nzg1NjMyMTM1OS00ODQ3MzgzODA1NDYwHQYKKwYBBAGB
+jxwTAgQPDA0xNzkxMzYyODQ1MDAxMCkGCisGAQQBgqRCEwEEGwwZNDg0NzM4MzgwNTQ2LTQ3Njgx
+OTc0NzA5NTAaBgorBgEEAYKkQgMBBAwMCjE3MDQ0NDQ2MTkwKwYKKwYBBAGCpEIDCgQdDBtVTklW
+RVJTSURBRCBERSBMQVMgQU1FUklDQVMwHQYKKwYBBAGCpEIDCwQPDA0xNzkxMzYyODQ1MDAxMBIG
+CisGAQQBgqRCAwwEBAwCRUMwHgYKKwYBBAGCpEIDAgQQDA5HT05aQUxPIFJBTUlSTzAgBgorBgEE
+AYKkQgMDBBIMEE1FTkRJRVRBIERVRcORQVMwIwYKKwYBBAGCpEIDBQQVDBNSRVBSRVNFTlRBTlRF
+IExFR0FMMBYGCisGAQQBgqRCAwkECAwGTkFZw5NOMBcGCisGAQQBgqRCKgEECQwHVUlPLTAxMTAT
+BgorBgEEAYKkQi4BBAUMAzczMDBQBgorBgEEAYKkQi8BBEIMQDVhYmI5MTMwNDBiNzIyMTc5Mjk3
+ODA1YzFmNzk0OWFmYWFhNDZkM2Q4MWYzYjQ4ZmQwOGM3YTM5NzU0ZDg4Y2EwRAYIKwYBBQUHAQME
+ODA2MAgGBgQAjkYBATATBgYEAI5GAQYwCQYHBACORgEGATAJBgcEAIvsSQEBMAoGCCsGAQUFBwsC
+MA0GCSqGSIb3DQEBCwUAA4ICAQAphm5vLpW8pACfKmaRPAEMTNWJDLlVZoJ7Pkin8kHrYJLqiqqj
+2WkcZHp51oze9GgbjTnMODywo505DmEs+AsNktih2HbMLeUf0PWBXpE0FCdAQBRuQRh4O5ejMSE2
+bWeofc8j9/XwQopR6jXNggzDxZDb533SX65/+Rj9maHzZY2fSv1/OHgrcSg0dRB5bmzb/VA7/P6g
+N4DRyOtYGqVD8KT470cfbHyuDRuhO9d95kJs5A+YZLp3nHVCdjMCM1c39NeJiU0uY4M9hV1Lspx8
+4fyM79TOpb+8kyUdbZOvZTUKdOaecNd0i8OX3wPuUxDNdm9Hshw6r12/8Vi0QQSCLH5AbODDLola
+nyzBwYzVcV11Gxda3Nc3PxHBAxE1e88CpVDqw5bCRprKKqJMDz+rkQSMbuy8kEtN1yiQRpiUPiRd
+Jebe5zZ/7at8OH7nMZggRxHgGXO/ZsPF56Cbe504f8DPm2qpRbRCemN/j9LflnOrX2rCzhEx4uTj
+YpQnRj41i96rsJRcWwFwDPzMlvelf3SGzCaiRZXDQD07d9PubiKHS0BsYJx4sVmlHuo/VtITYH7o
+lj7U2hC3vVmLCfqaEFdroG/9tXkqkDmc0zpeO0GaJeALFNbSmYXI+QPFp855H+zLSWg4TWTjEMcA
+robvcHF8sevSkdPvrlvYpFsknw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+1IgsflQrVP/R7+stWYBd2IcaL0T1TuU+vn7QBaMHBIA14VpyLcGf7vE7U5m/fvhglWUnZyAcFxME
+INaWUPkwlWGen+D+YXwLSuvWHaf0ohxzNARnEFnMAvB2lDf/ohhLgTTjkV0UEKsrz6xRj+REOxVk
+SA6Az6LIizciiPxhIMeknPV9UX65BfNgs9TSEzmpAMdTNYmN4OBMHTxMtyAuPyTTT0vPX1m9wn8r
+WPx/O7VGGosTj09gBSSVd0T/elFlyW9cQPk3xPQFon8daKEyPCAPWZpnAAlRU+TJlB4DJhDR2WDb
+Jnsy8z83/RTMi/+MEC93vzA5bZl7Rw8ke5pyHw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature829688-Object960459"><etsi:QualifyingProperties Target="#Signature829688"><etsi:SignedProperties Id="Signature829688-SignedProperties3250"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-04-25T07:47:14-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>xEcPyPmhMwCMnVf6370ytTwsdF4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA,OU=ANF Autoridad intermedia  EC,O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A.,C=EC,2.5.4.5=#130d31373932363031323135303031</ds:X509IssuerName><ds:X509SerialNumber>995491756459591183376044729</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-402286"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

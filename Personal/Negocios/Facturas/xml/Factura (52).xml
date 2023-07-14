@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1402202301179141513200120610510003721184126153312</numeroAutorizacion>
+<fechaAutorizacion>2023-02-15T06:08:24-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>INT FOOD SERVICES CORP SA</razonSocial><nombreComercial>KENTUCKY FRIED CHICKEN</nombreComercial><ruc>1791415132001</ruc><claveAcceso>1402202301179141513200120610510003721184126153312</claveAcceso><codDoc>01</codDoc><estab>061</estab><ptoEmi>051</ptoEmi><secuencial>000372118</secuencial><dirMatriz>PICHINCHA / QUITO / INAQUITO / COREA 126 Y AV. AMAZONAS</dirMatriz></infoTributaria><infoFactura><fechaEmision>14/02/2023</fechaEmision><dirEstablecimiento>GUAYAS / GUAYAQUIL / AV. 25 DE JULIO S/N Y JOSE DE LA CUADRA</dirEstablecimiento><contribuyenteEspecial>155</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>ANGEL  GUEVARA  </razonSocialComprador><identificacionComprador>1706479373001</identificacionComprador><totalSinImpuestos>8.48</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>8.48</baseImponible><tarifa>12</tarifa><valor>1.02</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>9.50</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>9.50</total><plazo>0</plazo><unidadTiempo>DÍAS</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>46</codigoPrincipal><descripcion>SUPER COMBO(A+M) (2 PRESAS) KFC</descripcion><cantidad>1.0</cantidad><precioUnitario>4.687500</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>4.69</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>4.69</baseImponible><valor>0.56</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>4356</codigoPrincipal><descripcion>MEGA COMBO 1 ALITAS</descripcion><cantidad>1.0</cantidad><precioUnitario>3.794600</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>3.79</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>3.79</baseImponible><valor>0.46</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="CORREO 1">AUGUEVARAV@HOTMAIL.COM</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature680251">
+<ds:SignedInfo Id="Signature-SignedInfo376133">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID533693" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature680251-SignedProperties110485">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>35ciEUuMScsEZp3hnKB9I8rK3jw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1729549">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>H2hslYsji7dPULZcL94mQAsSeYY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-12001" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>iw9UvGeLxC9OBY+A4W5I1fmoNk8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue25150">
+gC/gxNKRKEtG0/qDAC0BVhshCB3gR1PNg4L8MN1MqAUtVXtfKzNjf+UJTcTfII/PKTHoE8M9fR7S
+l+UET+jmujKcujOKO8uVu0B5+ZsKNzu9wQa+YOTf3nwrdh9hp4Iv8heP/xYiGsbZRPB1fxw5cEz9
+7WXdezU25NvWyELXikvMfWKtbvzci/S0HTw3GELspzrNr7NXv8aW5Pwfw8OomyEW9Y0TfPOI1jAn
+YkJ88mfCvCQIAzZXbIaJFKP7zSai/nWMIFv9xztyKtcxHI36dYW29B1F5RZ1JOMJLKLeM+Ozrpft
+cpbvZS4kc6hcouTOBY8w3sF5qnFbiboIWq1oBg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1729549">
+<ds:X509Data>
+<ds:X509Certificate>
+MIINcDCCC1igAwIBAgIMAzgqETmsMvIlXaCtMA0GCSqGSIb3DQEBCwUAMIG5MRYwFAYDVQQFEw0x
+NzkyNjAxMjE1MDAxMQswCQYDVQQGEwJFQzE2MDQGA1UEChMtQU5GQUMgQVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gRUNVQURPUiBDLkEuMSUwIwYDVQQLExxBTkYgQXV0b3JpZGFkIGludGVybWVk
+aWEgIEVDMTMwMQYDVQQDEypBTkYgSGlnaCBBc3N1cmFuY2UgRWN1YWRvciBJbnRlcm1lZGlhdGUg
+Q0EwHhcNMjEwNTMxMjAwMTA1WhcNMjMwNTMxMjAwMTA1WjCCAjsxGjAYBgorBgEEAYKkQgoEDAox
+NzEzMzQxNDI2MSQwIgYDVQQKDBtJTlQgRk9PRCBTRVJWSUNFUyBDT1JQIFMuQS4xFzAVBgNVBCoM
+DkRJRUdPIE1BVVJJQ0lPMRYwFAYDVQRhEw0xNzkxNDE1MTMyMDAxMQswCQYDVQQGEwJFQzETMBEG
+A1UEBRMKMTcxMzM0MTQyNjETMBEGA1UEBAwKRElBWiBEQUxHTzEtMCsGA1UEAwwkMTcxMzM0MTQy
+NiBESUVHTyBNQVVSSUNJTyBESUFaIERBTEdPMSQwIgYJKoZIhvcNAQkBFhVkaWVnby5kaWF6QGtm
+Yy5jb20uZWMxGTAXBgNVBAwMEENPTlRBRE9SIEdFTkVSQUwxga4wgasGA1UEDQyBo1JlZy4gUHVi
+LjpudWxsIEluc2NyaXBjacOzbjogbnVsbCwgVG9tbyBudWxsLCBMaWJybyBudWxsLCBGb2xpbyBu
+dWxsLCBIb2phIG51bGwgQ2FyZ286Q09OVEFET1IgR0VORVJBTCBOb3RhcmlvOm51bGwgTsO6bS4g
+UHJvdG9jb2xvOm51bGwgRmVjaGEgZGUgT3RvcmdhbWllbnRvOm51bGwxEjAQBgNVBAgMCVBpY2hp
+bmNoYTEOMAwGA1UEBwwFUXVpdG8xSjBIBgNVBAsMQUNlcnRpZmljYWRvIGRlIFJlcHJlc2VudGFu
+dGUgTGVnYWwgZGUgUGVyc29uYSBKdXJpZGljYSBFQyAoRklSTUEpMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAzkQs84AblLugdIL3Qq5YO8QtXDbs+iKURJAHHhQ18R9bd+24Cb1SfjzC
+dioVuwisnEFjORxnq6FLIZesnKngzmU42eBo9OojF6XnwKDJUvDYFDBqAGZ8nx5ufdZMS4vKarZi
+MMj5Ox8R8KY82rbO+LtpsvYET89rJGBPv2WrV0d5GKxaGKZYRvUs65UjgZCJKyAmgfhxp/QTny7u
+r5sXcH6EAM3AzKkOIgUlWsEk0DkiLxQmoF1ZWfi1Us8cGW9zT/bxYsMKUovFakn8Cs3Q6qCJsE+R
+Go0DNZNUV/ifi3XPtXER45W4qsVa5baSFNNNAt3crFxv/gvZYrrjxbIFVwIDAQABo4IG8TCCBu0w
+HwYDVR0jBBgwFoAUkq7Uy4K0mcbRexFsZerFTWgh+awwHQYDVR0OBBYEFCuqlMeApdsWPUtvb8zE
+RfU4f6dZMIHVBgNVHREEgc0wgcqBFWRpZWdvLmRpYXpAa2ZjLmNvbS5lY6SBsDCBrTEeMBwGCisG
+AQQBgqRCCgEMDkRJRUdPIE1BVVJJQ0lPMRQwEgYKKwYBBAGCpEIKAgwERElBWjEVMBMGCisGAQQB
+gqRCCgMMBURBTEdPMRowGAYKKwYBBAGCpEIKBAwKMTcxMzM0MTQyNjEtMCsGA1UEAwwkMTcxMzM0
+MTQyNiBESUVHTyBNQVVSSUNJTyBESUFaIERBTEdPMRMwEQYDVQQFDAoxNzEzMzQxNDI2MA4GA1Ud
+DwEB/wQEAwIGwDAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwgZkGA1UdHwSBkTCBjjBF
+oEOgQYY/aHR0cDovL3d3dy5hbmYuZXMvY3JsL0FORkhpZ2hBc3N1cmFuY2VFY3VhZG9ySW50ZXJt
+ZWRpYXRlQ0EuY3JsMEWgQ6BBhj9odHRwOi8vY3JsLmFuZi5lcy9jcmwvQU5GSGlnaEFzc3VyYW5j
+ZUVjdWFkb3JJbnRlcm1lZGlhdGVDQS5jcmwwggHXBgNVHSAEggHOMIIByjCB3wYMKwYBBAGCpEIC
+BQEDMIHOMCgGCCsGAQUFBwIBFhxodHRwOi8vd3d3LmFuZi5lcy9kb2N1bWVudG9zMIGhBggrBgEF
+BQcCAjCBlAyBkUNlcnRpZmljYWRvIGNvbmZvcm1lIGEgbGEgbGVnaXNsYWNpw7NuIGRlIGZpcm1h
+IGVsZWN0csOzbmljYS4gQW50ZXMgZGUgYWNlcHRhcmxvIGNvbXBydWViZSBpbnRlZ3JpZGFkLCBs
+aW1pdGFjaW9uZXMsIHZpZ2VuY2lhIHkgdXNvcyBhdXRvcml6YWRvcy4wCQYHBACL7EABATCB2gYH
+YIVUAQMFCDCBzjAoBggrBgEFBQcCARYcaHR0cDovL3d3dy5hbmYuZXMvZG9jdW1lbnRvczCBoQYI
+KwYBBQUHAgIwgZQMgZFDZXJ0aWZpY2FkbyBjb25mb3JtZSBhIGxhIGxlZ2lzbGFjacOzbiBkZSBm
+aXJtYSBlbGVjdHLDs25pY2EuIEFudGVzIGRlIGFjZXB0YXJsbyBjb21wcnVlYmUgaW50ZWdyaWRh
+ZCwgbGltaXRhY2lvbmVzLCB2aWdlbmNpYSB5IHVzb3MgYXV0b3JpemFkb3MuMIGbBggrBgEFBQcB
+AQSBjjCBizAnBggrBgEFBQcwAYYbaHR0cDovL29jc3AuYW5mLmVzL3NwYWluL0FWMGAGCCsGAQUF
+BzAChlRodHRwOi8vd3d3LmFuZi5lcy9lcy9jZXJ0aWZpY2F0ZXMtZG93bmxvYWQvQU5GSGlnaEFz
+c3VyYW5jZUVjdWFkb3JJbnRlcm1lZGlhdGVDQS5jZXIwDAYDVR0TAQH/BAIwADASBgorBgEEAYKk
+QgMMBAQMAkVDMBUGCisGAQQBgY8cEwIEBwwFMzc0NDIwHQYKKwYBBAGCpEIDCwQPDA0xNzkxNDE1
+MTMyMDAxMCsGCisGAQQBgqRCAwoEHQwbSU5UIEZPT0QgU0VSVklDRVMgQ09SUCBTLkEuMCgGCSsG
+AQQBgY8cEwQbDBk1MTQzOTU4MDg1NTEtNDg0NzM4MzgwNTQ2MFAGCisGAQQBgqRCLwEEQgxAZDIz
+NGExZDJkYzljM2FkNGVjMTkxYmFhYTMxMjFiNjAyMDEyYjczNGMwYjhmNGJjZmVmYmE1YWJjMDhm
+ODIyODAXBgorBgEEAYKkQioBBAkMB1VJTy0wMTEwEwYKKwYBBAGCpEIuAQQFDAM3MzAwFQYKKwYB
+BAGCpEIDCQQHDAVRdWl0bzAgBgorBgEEAYKkQgMFBBIMEENPTlRBRE9SIEdFTkVSQUwwKAYKKwYB
+BAGCpEITAQQaDBg1MDcyMi01MDE2MTE5MTM0MjIzNzc1MzYwGgYKKwYBBAGCpEIDAwQMDApESUFa
+IERBTEdPMB4GCisGAQQBgqRCAwIEEAwORElFR08gTUFVUklDSU8wGgYKKwYBBAGCpEIDAQQMDAox
+NzEzMzQxNDI2MIGQBggrBgEFBQcBAwSBgzCBgDAIBgYEAI5GAQEwFQYGBACORgECMAsTA0VVUgIB
+AQIBAzALBgYEAI5GAQMCAQ8wJAYGBACORgEFMBowGBYSaHR0cHM6Ly9hbmYuZXMvZW4vEwJlbjAT
+BgYEAI5GAQYwCQYHBACORgEGATAJBgcEAIvsSQEBMAoGCCsGAQUFBwsCMBIGCisGAQQBgY8cEwME
+BAwCRUMwDQYJKoZIhvcNAQELBQADggIBAEsVyKEQL7A8qER6lKWds5bB4hNCTdRlIa3u14XAa83L
+9msNfsXecTxFXeOIyz2TiA2hjyZ0JjI+T6IrtN6fnWPZZGG9DvU5D6WMn63z0N3P2yLe10I3AtwT
+UmIAoYmyBsbap8JiDk9cXb6GNOcpRi8S1yPMmlQPKy4vByZxzlvuVyFf7BnijGeapHD27ZWExYM0
+29YcccMhTy5YrLaplQ8jbY1PErOXknw3CAwFG5rukxQLTLHsnUJgumwHZicXZ81tqBojjrUztAKG
+7c+ez1O0WRdA/WrWMrmowYHNEB4ikv+Gph/uB+IqwBNKzWQW61R+dy0STURUfAW9BalntvC4pq6t
+zPnmVh+8irB1zWzT57GbsZOYh1WwQ+vZN9tYTTCo1vyFOLQkOn43Au0oQZeyl2+O0EKkvwmPhuF9
+jFD58Inwgh8W9bpyNkUpv6jVvggXGBr35DwlVXjSQPW6RtpeTXWilT8yIlf1/tuCVotTRcw9XhhD
++gQYxbJUakxAkVzV/C+mCX6RUkPm9acsvCQ63zAXtVd2jfIY5ec0nkmiRmzgK0sNEvhnvnjPBAVQ
+9zm5Sv4JEH1V9/F9Hg/gw9fcH6cFega5huntesLPjAkwuth3vL6xaQGsKxQa2uBXBLRU/AEe6VDJ
+50DofDCL4ER+b0iXU5luWRkLIVFSB8f0
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+zkQs84AblLugdIL3Qq5YO8QtXDbs+iKURJAHHhQ18R9bd+24Cb1SfjzCdioVuwisnEFjORxnq6FL
+IZesnKngzmU42eBo9OojF6XnwKDJUvDYFDBqAGZ8nx5ufdZMS4vKarZiMMj5Ox8R8KY82rbO+Ltp
+svYET89rJGBPv2WrV0d5GKxaGKZYRvUs65UjgZCJKyAmgfhxp/QTny7ur5sXcH6EAM3AzKkOIgUl
+WsEk0DkiLxQmoF1ZWfi1Us8cGW9zT/bxYsMKUovFakn8Cs3Q6qCJsE+RGo0DNZNUV/ifi3XPtXER
+45W4qsVa5baSFNNNAt3crFxv/gvZYrrjxbIFVw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature680251-Object409494"><etsi:QualifyingProperties Target="#Signature680251"><etsi:SignedProperties Id="Signature680251-SignedProperties110485"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-02-15T06:04:19-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>9kAUACP4vYM/XVUvT5Ji0xL2pUI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA,OU=ANF Autoridad intermedia  EC,O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A.,C=EC,2.5.4.5=#130d31373932363031323135303031</ds:X509IssuerName><ds:X509SerialNumber>996353532505136789865734317</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-12001"><etsi:Description>comprobateFirma</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

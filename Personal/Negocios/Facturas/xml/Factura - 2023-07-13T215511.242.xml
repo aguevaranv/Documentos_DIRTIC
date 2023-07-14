@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2803202301171229111900120019010000054260000000118</numeroAutorizacion>
+<fechaAutorizacion>2023-03-28T17:34:40-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>LOACHAMIN TOPON MARCO VINICIO</razonSocial>
+        <nombreComercial>PROV &amp; TEC</nombreComercial>
+        <ruc>1712291119001</ruc>
+        <claveAcceso>2803202301171229111900120019010000054260000000118</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>901</ptoEmi>
+        <secuencial>000005426</secuencial>
+        <dirMatriz>SANGOLQUI AV GRAL RUMINAHUI 3-64 LT8A</dirMatriz>        
+<agenteRetencion>1</agenteRetencion>
+        </infoTributaria>
+        <infoFactura>
+        <fechaEmision>28/03/2023</fechaEmision>
+        <dirEstablecimiento>ELOY ALFARO 3 64 Y BOLIVAR</dirEstablecimiento>        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>GUEVARA VALDIVIEZO ANGEL UVALDO</razonSocialComprador>
+        <identificacionComprador>1706479373001</identificacionComprador>
+        <direccionComprador>RUMINAHUI   SANGOLQUI   AV. GENERAL ENRIQUEZ 331 Y SUCRE</direccionComprador>
+        <totalSinImpuestos>90.25</totalSinImpuestos>
+        <totalDescuento>7.70</totalDescuento>
+        <totalConImpuestos> 
+                    <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>2</codigoPorcentaje>
+                <baseImponible>90.25</baseImponible>
+                <valor>10.83</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>101.08</importeTotal>
+        <moneda>DOLAR</moneda>
+        
+        <pagos>
+<pago>
+<formaPago>20</formaPago>
+<total>101.08</total>
+   </pago>         </pagos>
+         </infoFactura>
+         <detalles>
+        <detalle>
+            <codigoPrincipal>P-1101</codigoPrincipal>
+            <codigoAuxiliar>P-1101</codigoAuxiliar>
+            <descripcion>CANALETA LISA 32X12 DXN10101 BLANCA  384 MM2</descripcion>
+            <cantidad>4.000000</cantidad>
+            <precioUnitario>4.490000</precioUnitario>
+            <descuento>6.11</descuento>
+            <precioTotalSinImpuesto>11.85</precioTotalSinImpuesto>
+            <detallesAdicionales>
+        <detAdicional nombre="Dato3" valor="0000002808" />
+
+   </detallesAdicionales> 
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12.00</tarifa>
+                    <baseImponible>11.85</baseImponible>
+                    <valor>1.42</valor>
+                 </impuesto>
+          </impuestos>
+        </detalle> 
+        <detalle>
+            <codigoPrincipal>T19006</codigoPrincipal>
+            <codigoAuxiliar>T19006</codigoAuxiliar>
+            <descripcion>TACO FISCHER  6</descripcion>
+            <cantidad>24.000000</cantidad>
+            <precioUnitario>0.016000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.38</precioTotalSinImpuesto>
+            <detallesAdicionales>
+        <detAdicional nombre="Dato3" valor="0000002808" />
+
+   </detallesAdicionales> 
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12.00</tarifa>
+                    <baseImponible>0.38</baseImponible>
+                    <valor>0.05</valor>
+                 </impuesto>
+          </impuestos>
+        </detalle> 
+        <detalle>
+            <codigoPrincipal>C03147NE</codigoPrincipal>
+            <codigoAuxiliar>C03147NE</codigoAuxiliar>
+            <descripcion>CABLE FLEXIBLE THHN 10 AWG CABLEC NEGRO</descripcion>
+            <cantidad>100.000000</cantidad>
+            <precioUnitario>0.796000</precioUnitario>
+            <descuento>1.59</descuento>
+            <precioTotalSinImpuesto>78.01</precioTotalSinImpuesto>
+            <detallesAdicionales>
+        <detAdicional nombre="Dato3" valor="0000002808" />
+
+   </detallesAdicionales> 
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12.00</tarifa>
+                    <baseImponible>78.01</baseImponible>
+                    <valor>9.36</valor>
+                 </impuesto>
+          </impuestos>
+        </detalle> 
+    </detalles>    <infoAdicional>
+        <campoAdicional nombre="eMail">darpar1980@hotmail.com</campoAdicional>
+        <campoAdicional nombre="Sistema">FenixPRO</campoAdicional>
+        <campoAdicional nombre="Vendedor">ALMACEN</campoAdicional>
+        <campoAdicional nombre="Telefono">22601469</campoAdicional>
+        <campoAdicional nombre="Correo">marco loachamin@hotmail.com</campoAdicional>
+        <campoAdicional nombre="Forma Pago">OTROS CON UTILIZACION DEL SISTEMA FINANCIERO USD-101.08</campoAdicional>
+        <campoAdicional nombre="Plazo">1 DIAS</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature111633"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="Reference-ID-419396" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>T5CW8/2vgoUjzK5GhCWfeXz2na4=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate586357"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>vVsq/iD1pecRPZeBoom5GT7oA9k=</ds:DigestValue></ds:Reference><ds:Reference Id="SignedPropertiesID439413" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature111633-SignedProperties765760"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>DOyooPqPWY1NGNkRuXdOT6vD/gY=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue523638">WwAXrpyHoR5VTytdeeJfgZe8PuoOIfj1Kvvqlo2HGI/N2MWI47CffsAZexG2PDwGXBN/P1iX1bI48PAJnOk8I9NMYiKUOUQrRGunXfwjegJf0+cskVxJ6tsc+0eGmn0hPfojXXGcvPtiB56iAyqvskxQwsaH3MjyYqoXTU6eCn9ypMuk3ViVFNFngbGwT9SLMgFpq98pqHo2zrMfMOBZxyQIOxH5eZXANWBiGscaIwxxjyfEAOJwdAkXt+i+1K5EFOE5M7yedVjc/MAaLpHWbPfiouKKSimtw5TGu07Je/5NP5gK7f2IwQ3+vbiVwGy3lFYR+rdnSp8PjaXndSVLcw==</ds:SignatureValue><ds:KeyInfo Id="Certificate586357"><ds:X509Data><ds:X509Certificate>MIIL2zCCCcOgAwIBAgIEB0O02DANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzAyMDYxNDIyNDlaFw0yNTAyMDUxNDIyNDlaMIGdMSYwJAYDVQQDDB1NQVJDTyBWSU5JQ0lPIExPQUNIQU1JTiBUT1BPTjEVMBMGA1UEBRMMMDYwMjIzMDkzMjIwMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKUemzuWLClobqp/FFqj34xJFuSZQA1yjhf2qCTsi6uUSJ1BrN0dmzcF6GgEHAMT/ZGQ7g2yIosNNbHPoH1OYY6uh9LSflDWTj3aC4DM7ek20Sgv2iMtH6fyQ2soWMab92D0NGATguaHsMsdPVJytpUdeu0eWw22QiTIjTl+48KJyqK+erJsFwVy2nHTDWBKd/dGrfCH+u3j13BOMjQESOd3n0LToOw/yoHtJUzGi66oKawpsesm0B2U/3QeRAW9Jg3w/J/7pNkUa/keQ9JZBhjj/9iCbPr38GEppfizlFGSUthoE7sUISjv2fBO2HgIzIt6GFCCfayhVqk9OtYe5AsCAwEAAaOCByMwggcfMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMCYGA1UdEQQfMB2BG21hcmNvX2xvYWNoYW1pbkBob3RtYWlsLmNvbTCCAQYGA1UdIASB/jCB+zBaBgorBgEEAYKmcgIHMEwwSgYIKwYBBQUHAgIwPh48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFAAZQByAHMAbwBuAGEAIABOAGEAdAB1AHIAYQBsMIGcBgorBgEEAYKmcgIBMIGNMIGKBggrBgEFBQcCARZ+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBQZXJzb25hIE5hdHVyYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBQfDJNZdrnuaETvEFef2JWTo3sffDArBgNVHRAEJDAigA8yMDIzMDIwNjE0MjI0OVqBDzIwMjUwMjA1MTQyMjQ5WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAoxNzEyMjkxMTE5MBoGCisGAQQBgqZyAwkEDAwKUlVNSU5JQUhVSTARBgorBgEEAYKmcgMiBAMMAS4wLwYKKwYBBAGCpnIDBwQhDB9BVi4gR1JBTC4gUlVNSU5BSFVJIDMtNjQgWSBMVDhBMB0GCisGAQQBgqZyAwIEDwwNTUFSQ08gVklOSUNJTzAfBgorBgEEAYKmcgMgBBEMDzAwMjAwMTAwMDU1OTAzMjARBgorBgEEAYKmcgMjBAMMAS4wEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBkGCisGAQQBgqZyAwMECwwJTE9BQ0hBTUlOMBEGCisGAQQBgqZyAx4EAwwBLjAdBgorBgEEAYKmcgMLBA8MDTE3MTIyOTExMTkwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBUGCisGAQQBgqZyAwQEBwwFVE9QT04wHAYKKwYBBAGCpnIDCAQODAw1OTM5OTk4MTM2NDIwDQYJKoZIhvcNAQELBQADggIBAIT4lhZlGRxZZ40//7gFkggWdKsd7JyNRCGysA9c42pqr+sdJPgUBLIbVyHcsCQ2YhIH5UAD1LR03druvVc6qhB77iDmcjz0cAqVrSz9XnXDQ6L9W1RESxpWRqWIgrKSa97xYN8tqko9kGCMu5yNJ8Uv+TZlEVthh9NDf3Ev3ZVoY50WRmgeiG7dsDLyP6QRyIrpQp/S/Zzp3G3qly2eb+hZBkTNSIre9tmb5W+U0mIF0+chYjhzn5xlzsEp+ML4UdAFo4JmZ5T40U4QWfMhP1I3d5SnC2qNt3EMWOPCaemm39Z6e+7cF+MV6qKZn+q1PNB0axrY39/pdezEj5P5BBl5RNx17EaUHKWOW+72gR98uBh5loIKqqmrEuiu+/LD9yFVeSjsJVVntOy66MEN15R0yJyF0P30iM5iZtnUtBiprttZD0JBOUXULt6KOxqzd/v3l09oLat+bYTxp/rP2VqdQFpi4MjX8Ip7WEH2N5SFPM6/+PHvrLk4cgnHy7sBy01SFPHDyYZLy6sVdQGO2VXDB/6P2ZEvX/WJMNf54aPcvhv5y/U6cuLiy2BZG1ghrnHqKLJXRJUIoINk3bszPAexL3XlKuoVQATfGKzMY9jIgzGUpaWzctQLDxsCNoXu1p4EzCHiX+zL3N4xC4uflReyt2gFBNMdEA6V9+8/zUe9</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>pR6bO5YsKWhuqn8UWqPfjEkW5JlADXKOF/aoJOyLq5RInUGs3R2bNwXoaAQcAxP9kZDuDbIiiw01sc+gfU5hjq6H0tJ+UNZOPdoLgMzt6TbRKC/aIy0fp/JDayhYxpv3YPQ0YBOC5oewyx09UnK2lR167R5bDbZCJMiNOX7jwonKor56smwXBXLacdMNYEp390at8If67ePXcE4yNARI53efQtOg7D/Kge0lTMaLrqgprCmx6ybQHZT/dB5EBb0mDfD8n/uk2RRr+R5D0lkGGOP/2IJs+vfwYSml+LOUUZJS2GgTuxQhKO/Z8E7YeAjMi3oYUIJ9rKFWqT061h7kCw==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature111633-Object645224"><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature111633"><etsi:SignedProperties Id="Signature111633-SignedProperties765760"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-03-28T17:32:16-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>t/9qf7ax0y4KeFajI/fJZRjp154=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>121877720</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-419396"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

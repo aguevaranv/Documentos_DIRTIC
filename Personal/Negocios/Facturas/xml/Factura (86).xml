@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1403202301060312191400120010100000139922702285013</numeroAutorizacion>
+<fechaAutorizacion>2023-03-14T10:09:07-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>SANCHEZ SANI NELSON MEDARDO</razonSocial>
+    <nombreComercial>Ferreteria Integral</nombreComercial>
+    <ruc>0603121914001</ruc>
+    <claveAcceso>1403202301060312191400120010100000139922702285013</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>010</ptoEmi>
+    <secuencial>000013992</secuencial>
+    <dirMatriz>Sangolqui: Avenida General Rumiñahui s/n y Atahualpa Telfs.022330366 - 0992442069</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+    <contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>14/03/2023</fechaEmision>
+    <dirEstablecimiento>Sangolqui: Avenida General Rumiñahui s/n y Atahualpa Telfs.022330366 - 0992442069</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>ANGEL GUEVARA</razonSocialComprador>
+    <identificacionComprador>1706479373</identificacionComprador>
+    <totalSinImpuestos>48.19</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>48.19</baseImponible>
+        <tarifa>12.00</tarifa>
+        <valor>5.78</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>53.97</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>53.97</total>
+        <plazo>15</plazo>
+        <unidadTiempo>Días</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>PG.ACC.019</codigoPrincipal>
+      <codigoAuxiliar>N/A</codigoAuxiliar>
+      <descripcion>TUBO PLASTIGAMA 1/2x 6m AF</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>7.20</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.20</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="ETIQUETAS" valor="UND"/>
+        <detAdicional nombre="VALORES" valor="UND"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>7.20</baseImponible>
+          <valor>0.86</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>025528141202</codigoPrincipal>
+      <codigoAuxiliar>N/A</codigoAuxiliar>
+      <descripcion>LASCO CODO MIXTO DE 1/2"</descripcion>
+      <cantidad>6.00</cantidad>
+      <precioUnitario>0.54</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.21</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="ETIQUETAS" valor="UND"/>
+        <detAdicional nombre="VALORES" valor="UND"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>3.21</baseImponible>
+          <valor>0.39</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7861158604631</codigoPrincipal>
+      <codigoAuxiliar>N/A</codigoAuxiliar>
+      <descripcion>MAXIEMPASTE EXTA LISTO EXTER 20Kg</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>22.49</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>22.49</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="ETIQUETAS" valor="UND"/>
+        <detAdicional nombre="VALORES" valor="UND"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>22.49</baseImponible>
+          <valor>2.70</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ART000018</codigoPrincipal>
+      <codigoAuxiliar>N/A</codigoAuxiliar>
+      <descripcion>TAPON RIVAL HEMBRA 50mm</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>0.89</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.89</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="ETIQUETAS" valor="UND"/>
+        <detAdicional nombre="VALORES" valor="UND"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>0.89</baseImponible>
+          <valor>0.11</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>025528140625</codigoPrincipal>
+      <codigoAuxiliar>N/A</codigoAuxiliar>
+      <descripcion>LASCO CODO PEGABLE 1/2"</descripcion>
+      <cantidad>18.00</cantidad>
+      <precioUnitario>0.54</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>9.64</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="ETIQUETAS" valor="UND"/>
+        <detAdicional nombre="VALORES" valor="UND"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>9.64</baseImponible>
+          <valor>1.16</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>025528145224</codigoPrincipal>
+      <codigoAuxiliar>N/A</codigoAuxiliar>
+      <descripcion>LASCO TEE PEGADA 1/2"</descripcion>
+      <cantidad>6.00</cantidad>
+      <precioUnitario>0.64</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.86</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="ETIQUETAS" valor="UND"/>
+        <detAdicional nombre="VALORES" valor="UND"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>3.86</baseImponible>
+          <valor>0.46</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>TF.02</codigoPrincipal>
+      <codigoAuxiliar>N/A</codigoAuxiliar>
+      <descripcion>TEFLON INDUSTRIAL AMARILLO PEQUEÑO</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>0.45</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.89</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="ETIQUETAS" valor="UND"/>
+        <detAdicional nombre="VALORES" valor="UND"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>0.89</baseImponible>
+          <valor>0.11</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="ETIQUETAS">MAIL|TIPO_DOC_ERP|SECUENCIAL_ERP|DIR_CLIENTE|CIUDAD|TELEFONO|F_VENCIMIENTO|SUBTOTAL|FORMA_PAGO|TIPO_FACTURA</campoAdicional>
+    <campoAdicional nombre="VALORES">auguevarav@hotmail.com|F1|13992|SANGOLQUI AV ATAHUALPA|-|2334468|14/03/2023|53.97|CREDITO|1</campoAdicional>
+    <campoAdicional nombre="OBSERVACIONES">CONTRIBUYENTE RÉGIMEN RIMPE</campoAdicional>
+    <campoAdicional nombre="VALOR_LETRAS">Cincuenta y tres con 97/100 DOLARES **********************</campoAdicional>
+    <campoAdicional nombre="OBSERVACIONES2">...</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature357855">
+<ds:SignedInfo Id="Signature-SignedInfo911203">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID805526" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature357855-SignedProperties1001548">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ATWoM8yz5+ZOVWCbE4xsThW3cxM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1920621">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>9OM/Q/kBh6J6EncdUUwc0h4NRmQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1017544" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>PSUDNyWi8gCcZWoi6Lq3x5mITso=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue869214">
+IGodHXkMLQKk2TClpBNKhBAzkZxQwlbdY4Wp5KCU6dtJXeCq/nnmIwiM1PctRgfzKNxH/rru9r98
+P8OKCASc6rx0xjBz6gZIyc6QpAay2tRqsTIHIdAuURj1gtqOBykRky3Pf+BmqK7vhfsSu321uy4A
+WtVDd7T0D07eRTMzWQ8yyRRtk3Q8CiQ/ljBHx/DzvQgzuHhXWbhr0Ps9aURjFkYcbs/jMkEcB4Af
+YcLAuWw7l1G6fHdPFIMuh0+kYhvN/zKwkTX0bCXFbB7MJFPDHnvfg8AOPMBjW0r/ML/dB/USTU0V
+BekzvsbVpI6evtnYGcCc4lmwWmvZio7vfgY1DQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1920621">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJHjCCBwagAwIBAgIIfwhMlQWSaXcwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMDEwNjE2MTAwMFoXDTI1MDEwNTE2MTAwMFowgZwxCzAJBgNVBAYTAkVDMRUwEwYDVQQEDAxT
+QU5DSEVaIFNBTkkxFzAVBgNVBCoMDk5FTFNPTiBNRURBUkRPMRkwFwYDVQQFExBJRENFQy0wNjAz
+MTIxOTE0MSQwIgYDVQQDDBtORUxTT04gTUVEQVJETyBTQU5DSEVaIFNBTkkxHDAaBgNVBGEME1RJ
+TkVDLTA2MDMxMjE5MTQwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCByGTt2Adh
+dS5BMfVpfl1KcM8ioeeZ9S9q8fzS5Rjt0AIyTYIbBXbVNwuQXN2BifChUy4bdCXxys4hAqB5gHh5
+FwVPgdulD8M28yK4gkJUaLERgwn87/Go209TX8XzJzYC1VUaHq6CFX1xAPsg9+1yNVADwUUCO6F7
+dfNlKZZsOLdO2PCvkuU3lhndbS94jjRL1zTr/Xn7y/bmDIQPtsKvCBj/wkhh+Kqsl2VXN1s+ysHB
+d8s3RPvzFs1EzytTz5pcLOrpiE5sguFwAas/bplvq1J4UrCjXEHvJMB2kbKMxh2YMWp7wKhQZxmJ
+v1mxedLbva9jNY9DugSrhv8dibDHAgMBAAGjggREMIIEQDAbBgsrBgEEAYLxNmYDAQQMDAowNjAz
+MTIxOTE0MB4GCysGAQQBgvE2ZgMLBA8MDTA2MDMxMjE5MTQwMDEwgdcGCCsGAQUFBwEBBIHKMIHH
+MFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNw
+X2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51
+YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQU1wsFfOFFYv/kZn5UERlT8jK+
+y64wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCBmQYDVR0g
+BIGRMIGOMIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cudWFuYXRh
+Y2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEFBQcCAjA0DDJDRVJUSUZJQ0FETyBERSBQ
+RVJTT05BIE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpo
+dHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3Js
+MECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3Jk
+aW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQw
+ggF6BgNVHREEggFxMIIBbYEeaW50ZWdyYWxmZXJyZXRlcjE5NzZAZ21haWwuY29toBsGCysGAQQB
+gvE2ZgMBoAwMCjA2MDMxMjE5MTSgHwYLKwYBBAGC8TZmAwKgEAwOTkVMU09OIE1FREFSRE+gGAYL
+KwYBBAGC8TZmAwOgCQwHU0FOQ0hFWqAVBgsrBgEEAYLxNmYDBKAGDARTQU5JoCQGCysGAQQBgvE2
+ZgMHoBUME1BBUlJPUVVJQSAgUlVNSUFIVUmgHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5OTEzNTI4
+MjCgGwYLKwYBBAGC8TZmAwmgDAwKU0FOR09MUVXDjaAeBgsrBgEEAYLxNmYDC6APDA0wNjAzMTIx
+OTE0MDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCkGCysGAQQBgvE2ZgMyoBoMGFBFUlNPTkEgTkFU
+VVJBTCBPIEZJU0lDQaAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4IC
+AQBT2F7cYxl9CP0esqirWYCsgk1bg6EoSPCbbaJ6+rfFyX7RbyqVlqyXWJrslJzl/Z5mT78ZjL1H
+d1dpVq/G2r+EpOuR7FqBM31JC2pWMtg5+yE5GED9QT2RDYxufQpHZD9zYplOXplUgyNJlC4+m6/l
+R67gCYbrj5/a68IqTvww53Z3f2DU0lSUGwYmmWCzIPrP0ibqJa3Ul6D1NyOygRr8PDT1U22Q/nhj
+D6e5xKl6zzHyOVCLHDelLzX00UtTil/ZXFNGMzsO50hsDLijUov2XYernnMkHlD3s8eodtDJbIRY
+aO5pxLU8AiREP71xkjiUbhiHesDhQopvfSyo6stZ802xutabCXTYi1SM9qO0FszPg3MgB0kq45jd
+FqyNyVZegJJEbGTxn/HHaryYti08u9su3w3ZPgqv/1bUUNrLtlYlGFpgRrPMxUXCaFexK79l7S72
+JQG4Nwk54Vz3CaCZjOivCbEfU2N8azwgr4QVdyKM0L2CUlVfLmEs+9ozTSpuz1eB0Hit/TdlTLbV
+0g+0RjRIU8q/uyV94BjDO9A+OxHcsk/AS6iP5U4gCcnoIcv4zjJu69uvror38vm+8Gdjwx3yQ+41
+GKSZFxdWZS3m7AhKt77A6iZ3LU61/SQtaUgZU5U+O34FLIJlGvA58CP/j7Z1HBzXyqIvOXY7AJdF
+7w==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+gchk7dgHYXUuQTH1aX5dSnDPIqHnmfUvavH80uUY7dACMk2CGwV21TcLkFzdgYnwoVMuG3Ql8crO
+IQKgeYB4eRcFT4HbpQ/DNvMiuIJCVGixEYMJ/O/xqNtPU1/F8yc2AtVVGh6ughV9cQD7IPftcjVQ
+A8FFAjuhe3XzZSmWbDi3Ttjwr5LlN5YZ3W0veI40S9c06/15+8v25gyED7bCrwgY/8JIYfiqrJdl
+VzdbPsrBwXfLN0T78xbNRM8rU8+aXCzq6YhObILhcAGrP26Zb6tSeFKwo1xB7yTAdpGyjMYdmDFq
+e8CoUGcZib9ZsXnS272vYzWPQ7oEq4b/HYmwxw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature357855-Object1001329"><etsi:QualifyingProperties Target="#Signature357855"><etsi:SignedProperties Id="Signature357855-SignedProperties1001548"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-03-14T10:09:04-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>SAcRVTZM1J+OqxC2AVwvVnHLEPw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>9153650445557852535</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1017544"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

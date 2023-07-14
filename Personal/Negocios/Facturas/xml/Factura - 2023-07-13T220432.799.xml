@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0206202301176000392000120010010048298270000000216</numeroAutorizacion>
+<fechaAutorizacion>2023-06-07T07:56:02-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DEL CANTON RUMIÑAHUI GADMUR</razonSocial>
+        <nombreComercial>GADMUR</nombreComercial>
+        <ruc>1760003920001</ruc>
+        <claveAcceso>0206202301176000392000120010010048298270000000216</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>004829827</secuencial>
+        <dirMatriz>Calle Montúfar # 251 y Calle Espejo</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>02/06/2023</fechaEmision>
+        <contribuyenteEspecial>1308</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>GUEVARA VALDIVIEZO ANGEL UVALDO</razonSocialComprador>
+        <identificacionComprador>1706479373</identificacionComprador>
+        <totalSinImpuestos>24.81</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>23.18</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>6</codigoPorcentaje>
+                <baseImponible>1.63</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>24.81</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>24.81</total>
+                <plazo>28</plazo>
+                <unidadTiempo>dias</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>AAPP</codigoPrincipal>
+            <codigoAuxiliar>MAY/2023</codigoAuxiliar>
+            <descripcion>CONSUMO DE AGUA POTABLE / ALCANTARILLADO</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>23.18</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>23.18</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Consumo(m3)" valor="45"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>23.18</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>OTRS</codigoPrincipal>
+            <codigoAuxiliar>MAY/2023</codigoAuxiliar>
+            <descripcion>OTROS SERVICIOS</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>1.63</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>1.63</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>6</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>1.63</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="EMAIL">auguevarav@gmail.com</campoAdicional>
+        <campoAdicional nombre="ID_INTERNO">020620230126-01113076705-1947941</campoAdicional>
+        <campoAdicional nombre="Clave Catastral / Direccion">020107118000  -  ATAHUALPA Y 24 JULIO  LT 1</campoAdicional>
+        <campoAdicional nombre="Codigo Ruta">01113076705    -    Medidor 132956</campoAdicional>
+        <campoAdicional nombre="Lectura Desde - Hasta">04/04/2023  -  03/05/2023</campoAdicional>
+        <campoAdicional nombre="Deducción">Vivienda   -   $ 23.18</campoAdicional>
+        <campoAdicional nombre="Pague Desde - Hasta">01/06/2023  -  28/06/2023</campoAdicional>
+        <campoAdicional nombre="Meses Mora">1</campoAdicional>
+        <campoAdicional nombre="Total Factura">24.81</campoAdicional>
+        <campoAdicional nombre="Valor Impago">30.55</campoAdicional>
+        <campoAdicional nombre="Intereses">0.23</campoAdicional>
+        <campoAdicional nombre="TOTAL A PAGAR">55.59</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature867175">
+<ds:SignedInfo Id="Signature-SignedInfo1004272">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID292914" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature867175-SignedProperties185506">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>EPmd9r7MJx3k27dyD0UaKmsJWQ0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate17570">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ulZ1ZheIuhhdBAyHRD9eDnmc150=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-701475" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>PUd5iUiXnMXrK6xbvT8fk4MhKvc=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue419425">
+CGGsMz5rmN0vA/dtXguI5cOcYhHaO9ixWP48duDPntx82fdbR49QdrOoc3AlLw7lPXZaIc/YKrfE
+rJlqd4nsnRmdIiIPPAbmWtwKhrkk8EJjOveT4f+Ekxkzuy01f5QbGqcKHL32yWk3OYealpU4QQf3
+sraAP4AlBmN2mBFn1I9QRiMliOAyVVkFRcTvUp8/cx9e0BZTlR1Am9f+7sIhpCWI7pdbZGGzDalQ
+sFG3r1eq/wksfFlZeNih8+k+qZmMzRvq519v0o/x7546jj3M128AJJFLTIIRPHEBblY1ztIhT/2d
+sKqA/7fadPxPDo3aRIQJ8eAfOL/6oGlyurcZ4Q==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate17570">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMDjCCCfagAwIBAgIEBuhWozANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjA5MDkyMDIzMDNaFw0yMzA5MDkyMDIzMDNaMIGYMSEw
+HwYDVQQDDBhSVUJFTiBEQVJJTyBCT0xBTk9TIFRBQ08xFTATBgNVBAUTDDA5MDkyMjE1MzI1MjEw
+MC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQK
+DBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCqYuTlrDAZ1hbY13Ndujv1561mYyzvg1elzwQo8P956RpRzqYDg8rhcvBBGOZf
+LJHouiigCiix635Acn4WzhB4Nu9jg4G54AWvAAlWUH13f+Aca7o9Nt/reqBH2/YSaFP3V8hvePjg
+p47PitEEKv4Mbw9pTNlmNvdvMHzAwrPuEte3MZiYYHRmS9AYqB72plhz5wWY9IScuiiHODc9TBM4
+RawgEiLJZkkTKDJ3Wsta3j9+DoLUpARd0J/GdLBoTVAiCAfptBoIwqoHmseLncW4x7CDlwa/o/pI
+sWMA3dgxHzk6CdCY84PGdTJlNrWnwZdr65Ha+mcxKQihlJgPhZFNAgMBAAGjggdbMIIHVzAMBgNV
+HRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0w
+SzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1
+YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDovL2xkYXBz
+ZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JN
+QUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxpc3Q/YmFz
+ZTApBgNVHREEIjAggR5ydWJlbi5ib2xhbm9zQHJ1bWluYWh1aS5nb2IuZWMwggESBgNVHSAEggEJ
+MIIBBTBgBgorBgEEAYKmcgIKMFIwUAYIKwYBBQUHAgIwRB5CAEMAZQByAHQAaQBmAGkAYwBhAGQA
+bwAgAGQAZQAgAE0AaQBlAG0AYgByAG8AIABkAGUAIABFAG0AcAByAGUAcwBhMIGgBgorBgEEAYKm
+cgIEMIGRMIGOBggrBgEFBQcCARaBgWh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3At
+Y29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMg
+ZGUgQ2VydGlmaWNhZG8gTWllbWJybyBkZSBFbXByZXNhLnBkZjCCAqIGA1UdHwSCApkwggKVMIHl
+oEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9z
+dGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJF
+QzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRP
+UklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1F
+Qz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRh
+bC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9j
+ZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJD
+QS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFD
+SU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUjEAmjVoeiPY8ygvu7rBm
+J+2Gi9IwKwYDVR0QBCQwIoAPMjAyMjA5MDkyMDIzMDNagQ8yMDIzMDkwOTIwMjMwM1owCwYDVR0P
+BAQDAgXgMBgGCisGAQQBgqZyAwUECgwIVEVTT1JFUk8wGgYKKwYBBAGCpnIDAQQMDAoxNzExOTMz
+NDA2MBUGCisGAQQBgqZyAwkEBwwFUVVJVE8wEQYKKwYBBAGCpnIDIgQDDAEuMCUGCisGAQQBgqZy
+AwcEFwwVTU9OVFVGQVIgMjUxIFkgRVNQQU5BMBsGCisGAQQBgqZyAwIEDQwLUlVCRU4gREFSSU8w
+HwYKKwYBBAGCpnIDIAQRDA8wMDIwMDEwMDA0MTc3NDgwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYK
+KwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBcGCisGAQQBgqZyAwMECQwHQk9MQU5PUzBIBgorBgEEAYKm
+cgMKBDoMOEdPQklFUk5PIEFVVE9OT01PIERFU0NFTlRSQUxJWkFETyBNVU5JQ0lQQUwgREUgUlVN
+SU5BSFVJMB0GCisGAQQBgqZyAwsEDwwNMTc2MDAwMzkyMDAwMTASBgorBgEEAYKmcgMdBAQMAk5v
+MBQGCisGAQQBgqZyAwQEBgwEVEFDTzAaBgorBgEEAYKmcgMIBAwMCjA5ODI0MzI4ODgwDQYJKoZI
+hvcNAQELBQADggIBAIkVdjf5RmbtBL9fJYSBpgldX7i82rZJltfyC5gjQXDJDxgpkLrWSLUignih
+DeVxmq1uVTgkXm6O5aF+9c56RUc+iCFzf67KAebONYgqG4OMvZjo16w5XiDqvP7fASCmzzCA7dZM
+TiFiUqE+CbZzDG1J+dyYOm67d2gJMioKHpnipy9rDHRckGp2KaVMdi/NSGwin9amZN2jzKfei2tu
+IrPxBopsg0Gr2ob1+vg09rx9Rp2mim2pf2jQdOXgaafNNNsx3YtrCkOZadyqrWmuz8s32/Ku485X
+YXmkiLx32yf32ZUDOyw81Z2FI6TT9sNXcJHe9eGZoLndEacPkGqaNRt0NoUYNQCZh6Fox6LK6ziE
+oOfr3aBwhC9D3cNMORfqv/3OSc8QELnNNvbbmIrJF67WsSzI8+udELH8YapUTg+D1BvPde7o2bE/
+LkOZ6Gicyd1Zzk2JwKkt8SPyKvOvfU/S4T6yaWR1oq6MvwKj6IKm1D53x2gMpAabhftbbLDV1yGp
+S7NUZ6HHfZSM/Q9ppI87iC4gEf5GwGrbDRjw/C7QnAPhAoma5vNZ5BvyVa1vfXPJUbnJjZ1qCign
+oPDD1JA/zYAGhCaiV0wSMQzAsiIrsm+tqm7LlAn9ler5bKLV/l74THpNggsZlEqg6n/9UnKMuG6T
+FckC6WAQwSbHA5aU
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+qmLk5awwGdYW2NdzXbo79eetZmMs74NXpc8EKPD/eekaUc6mA4PK4XLwQRjmXyyR6LoooAooset+
+QHJ+Fs4QeDbvY4OBueAFrwAJVlB9d3/gHGu6PTbf63qgR9v2EmhT91fIb3j44KeOz4rRBCr+DG8P
+aUzZZjb3bzB8wMKz7hLXtzGYmGB0ZkvQGKge9qZYc+cFmPSEnLoohzg3PUwTOEWsIBIiyWZJEygy
+d1rLWt4/fg6C1KQEXdCfxnSwaE1QIggH6bQaCMKqB5rHi53FuMewg5cGv6P6SLFjAN3YMR85OgnQ
+mPODxnUyZTa1p8GXa+uR2vpnMSkIoZSYD4WRTQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature867175-Object449904"><etsi:QualifyingProperties Target="#Signature867175"><etsi:SignedProperties Id="Signature867175-SignedProperties185506"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-06-07T07:56:10-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>P1+XFSqvndUpYeRhlVX867UiHD4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>115889827</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-701475"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

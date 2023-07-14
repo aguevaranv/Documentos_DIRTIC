@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2703202301179181248400120090010001611620016116219</numeroAutorizacion>
+<fechaAutorizacion>2023-03-27T08:41:28-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>TRECX S.A</razonSocial>
+        <nombreComercial>PINTULAC</nombreComercial>
+        <ruc>1791812484001</ruc>
+        <claveAcceso>2703202301179181248400120090010001611620016116219</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>009</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>000161162</secuencial>
+        <dirMatriz>Rumihurco Oe4-365 y Pedro Freile</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>27/03/2023</fechaEmision>
+        <dirEstablecimiento>Av. Abdón Calderónentre Riofrio y Mercado</dirEstablecimiento>
+        <contribuyenteEspecial>590</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>ANGEL GUEVARA VALDIVIEZO</razonSocialComprador>
+        <identificacionComprador>1706479373</identificacionComprador>
+        <direccionComprador>Calle Gonzalez Suarez y Rio Frio</direccionComprador>
+        <totalSinImpuestos>12</totalSinImpuestos>
+        <totalDescuento>0</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>2</codigoPorcentaje>
+                <baseImponible>12.00</baseImponible>
+                <tarifa>12</tarifa>
+                <valor>1.4400</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>13.44</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>13.44</total>
+                <plazo>0</plazo>
+                <unidadTiempo>dias</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>1703</codigoPrincipal>
+            <codigoAuxiliar>L100-GL</codigoAuxiliar>
+            <descripcion>LAVADOR 100 4LT.[6]</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>10.38</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>10.38</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>10.38</baseImponible>
+                    <valor>1.25</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>969</codigoPrincipal>
+            <codigoAuxiliar>GMB8</codigoAuxiliar>
+            <descripcion>GUANTE BICOLOR N/A # 8 C22 MASTER</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>1.62</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>1.62</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>1.62</baseImponible>
+                    <valor>0.19</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Observacion">Ud. es importante para nosotros Obs:</campoAdicional>
+        <campoAdicional nombre="Atendido">Atendido por: Daniel Alejandro Vacacela  Sanguano</campoAdicional>
+        <campoAdicional nombre="Observacion">Efectivo: $20</campoAdicional>
+        <campoAdicional nombre="Compra">ORDEN DE COMPRA:</campoAdicional>
+        <campoAdicional nombre="Entrega">DIRECCION ENTREGA: Calle Gonzalez Suarez y Rio Frio</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature672945">
+<ds:SignedInfo Id="Signature-SignedInfo943153">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID509533" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature672945-SignedProperties635382">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>g3WX182nSdbLcCG5XgmwECM5WVM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1475870">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>FNDrFrVwxA1kxiCXjIMpNZwDzFI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-898848" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>rLUhIBNw+a0BfEuNZBQ6ZpNOT/o=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue147253">
+EZ/pECXEDh9V5+jRsiEKucmTrH0oCqbEN1GtTCcqEaX2C75EGEonzljciDlgYuLI1b/ZqmpZSne+
+st9zIFRXJo+/egXmdS6uIiTEu0//6PXWV+SVTFybCvZ+3Oj5dhl07gq5wYoO14TVZCJ8im6veNWC
+pSeGFmaSc5Ly8+NcZI8tLQPOE2N8yurxrIiyaE6CW/OtIYo7VhNm2jtHFdhuOgv4s+SrnIevTAYq
+ULfzfkLZrF6AZq2qo8uRa+uXZo0cN5XF7kJumd7yGhNSAqq2APBgojlJTSByji+QXuzDcJKIEuJy
+zSlsnan1Gmf9CRy+I1BM0vWuekK31wz4s5jg2g==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1475870">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL/zCCCeegAwIBAgIELXpHgjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjA3MTYwMjQwMjFaFw0yNDA3MTUwMjQwMjFaMIGeMScw
+JQYDVQQDDB5HVVNUQVZPIFNFQkFTVElBTiBPUlRFR0EgVEFQSUExFTATBgNVBAUTDDE1MDcyMjIx
+NTAwNzEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCy9lAtZuuO5RVAI/S85CnCxvf7Q7WzNlFmIplsuJZhGyIBoMBZUxFo
+Xg63qNw7OmW7UbTsQAJEQlxqEOT+j8FeC5dAgbQy8EWvfPeT0rBWix56SqzJYPzs+IB7cdT+m4OS
+34K6QoGH6bQBnYwTOCEWJKJeRc0ggA0Sjibc7FMs+INu7w0DUluOYGrfFda5QB/Wu4TPEW331Zo/
+uswAcKNnPQaKrXhtryow6+YbTueMltaK8A2Nx8rZORhKExVOAtq1a5cGvJOjlEu+Ov42zUiqrDpo
+TgAX1zHkU7lqPEFq8Uwma1Rx9uUbwAVO0+tciIH/G0pKoUiuxlX6EwCDszoTAgMBAAGjggdGMIIH
+QjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUF
+BwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2Vq
+YmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDov
+L2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxp
+c3Q/YmFzZTAmBgNVHREEHzAdgRtvcnRlZ2FzZWJhc3RpYW4yMEBnbWFpbC5jb20wggESBgNVHSAE
+ggEJMIIBBTBgBgorBgEEAYKmcgIKMFIwUAYIKwYBBQUHAgIwRB5CAEMAZQByAHQAaQBmAGkAYwBh
+AGQAbwAgAGQAZQAgAE0AaQBlAG0AYgByAG8AIABkAGUAIABFAG0AcAByAGUAcwBhMIGgBgorBgEE
+AYKmcgIEMIGRMIGOBggrBgEFBQcCARaBgWh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+d3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGlj
+YXMgZGUgQ2VydGlmaWNhZG8gTWllbWJybyBkZSBFbXByZXNhLnBkZjCCAqIGA1UdHwSCApkwggKV
+MIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dl
+Yi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJ
+T04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQG
+EwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1B
+VVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURB
+RCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIs
+Qz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3Bv
+cnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlz
+dC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBT
+VUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9S
+TUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUCyTxL8g/yj6AbXZb
+NYjPiJQH3cMwKwYDVR0QBCQwIoAPMjAyMjA3MTYwMjQwMjFagQ8yMDI0MDcxNTAyNDAyMVowCwYD
+VR0PBAQDAgXgMCQGCisGAQQBgqZyAwUEFgwUQU5BTElTVEEgREUgU0lTVEVNQVMwGgYKKwYBBAGC
+pnIDAQQMDAoxNzIxODM0Nzg0MBUGCisGAQQBgqZyAwkEBwwFUVVJVE8wEQYKKwYBBAGCpnIDIgQD
+DAEuMC8GCisGAQQBgqZyAwcEIQwfUlVNSVVSQ08gT0U0LTM2NSBZIFBFRFJPIEZSRUlMRTAhBgor
+BgEEAYKmcgMCBBMMEUdVU1RBVk8gU0VCQVNUSUFOMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAw
+Mzg4NjE0MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAWBgor
+BgEEAYKmcgMDBAgMBk9SVEVHQTAaBgorBgEEAYKmcgMKBAwMClRSRUNYIFMuQS4wHQYKKwYBBAGC
+pnIDCwQPDA0xNzkxODEyNDg0MDAxMBIGCisGAQQBgqZyAx0EBAwCTm8wFQYKKwYBBAGCpnIDBAQH
+DAVUQVBJQTAaBgorBgEEAYKmcgMIBAwMCjA5ODcyMTA2ODQwDQYJKoZIhvcNAQELBQADggIBAFGK
+gIiSEEv5B3p9Xte7cvZwviHKdP3KuydGymEwnVk5jlx57Zrbafzhksk6BYFChXOoHgCwKtH1P7Bt
+TEe6BcqvnTDJRmC5BHtlZ25cemeJ4SQApiQfAzhJMyFFY48WpRPModAhCnLr9jeWHN+tcRLrSzbH
+q2hln+eJSwKW6aUpYzSl2TvoknTMA7XDNUQZd4miyQx54rlSO0mhYtdKoRZ74AP3qpVUY61IGdqR
+VK8B1SbazrVcKQmOKH8M0u+42pA2coT1tGSEbZOELuPX7mm9sExHQw7xXhbKVYPfjwG6wuqdBc3v
+WcoVsnjddl5lG6wrcXnbh/ANOztTtbNX6s7z8rnBIv2w4Xdgv4TVTVa4hGS2iq6W1Xd66UDdMQm8
+6lU99WdjU97GBXu9MslB5L7YCS23W4VJDWBjMyophZSYNRej4/iU4kxq492QqawpYCYxxiskZ9a1
+RopTzCy0Vb4ukH9M0BjIc4WOsM+SPrqcKpq1vWoKCf09gDkehcya7zC0vtVAN1zpxxk9urpWax28
+AeZ8PZCY5VQaqMLraHLP0lOhpiexrMzu9+fF7LnmaNOMaJ2LPdazzN0zc3s0qdkiBoHLsoiFj9/g
+yf8rLd+orz/ngIJdoRDivWZa8uHEDGXaZmdC4ZicD0F9NvSh/R9o6wWhdCLALTpDd8R7BN5j
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+svZQLWbrjuUVQCP0vOQpwsb3+0O1szZRZiKZbLiWYRsiAaDAWVMRaF4Ot6jcOzplu1G07EACREJc
+ahDk/o/BXguXQIG0MvBFr3z3k9KwVoseekqsyWD87PiAe3HU/puDkt+CukKBh+m0AZ2MEzghFiSi
+XkXNIIANEo4m3OxTLPiDbu8NA1JbjmBq3xXWuUAf1ruEzxFt99WaP7rMAHCjZz0Giq14ba8qMOvm
+G07njJbWivANjcfK2TkYShMVTgLatWuXBryTo5RLvjr+Ns1Iqqw6aE4AF9cx5FO5ajxBavFMJmtU
+cfblG8AFTtPrXIiB/xtKSqFIrsZV+hMAg7M6Ew==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature672945-Object760926"><etsi:QualifyingProperties Target="#Signature672945"><etsi:SignedProperties Id="Signature672945-SignedProperties635382"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-03-27T08:41:28-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>wVhmgYZnHfIEthSpBWEkpW2wSec=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>762988418</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-898848"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

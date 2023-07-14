@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>3105202301179173196400120210030000033300870126213</numeroAutorizacion>
+<fechaAutorizacion>2023-05-31T13:50:20-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<factura version="2.1.0" id="comprobante">
+   <infoTributaria>
+      <ambiente>2</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>ACEROSCENTER CIA. LTDA.</razonSocial>
+      <ruc>1791731964001</ruc>
+      <claveAcceso>3105202301179173196400120210030000033300870126213</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>021</estab>
+      <ptoEmi>003</ptoEmi>
+      <secuencial>000003330</secuencial>
+      <dirMatriz>Av. Mariscal Sucre S27-252 y Diego Céspedes 17, Quito, Pichincha, Ecuador</dirMatriz>
+      <agenteRetencion>1</agenteRetencion>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>31/05/2023</fechaEmision>
+      <contribuyenteEspecial>636</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+      <razonSocialComprador>GUEVARA VAILDIVIEDO ANGEL UBALDO</razonSocialComprador>
+      <identificacionComprador>1706479373</identificacionComprador>
+      <totalSinImpuestos>88.30</totalSinImpuestos>
+      <totalDescuento>0.00</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <descuentoAdicional>0.00</descuentoAdicional>
+            <baseImponible>88.30</baseImponible>
+            <valor>10.60</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>98.90</importeTotal>
+      <moneda>DOLAR</moneda>
+      <pagos>
+         <pago>
+            <formaPago>20</formaPago>
+            <total>98.90</total>
+            <plazo>0</plazo>
+            <unidadTiempo>DIAS</unidadTiempo>
+         </pago>
+      </pagos>
+      <valorRetIva>0.00</valorRetIva>
+      <valorRetRenta>0.00</valorRetRenta>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>100401025</codigoPrincipal>
+         <codigoAuxiliar>1010014</codigoAuxiliar>
+         <descripcion>[100401025] TANQUE CILINCHICO 500 LTS</descripcion>
+         <cantidad>1.00</cantidad>
+         <precioUnitario>87.880000</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>87.88</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>87.88</baseImponible>
+               <valor>10.55</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>100401073</codigoPrincipal>
+         <codigoAuxiliar>1010302</codigoAuxiliar>
+         <descripcion>[100401073] KIT INSTAL TANQUE 1/2 REGULABLE</descripcion>
+         <cantidad>1.00</cantidad>
+         <precioUnitario>0.030000</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>0.03</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>0.03</baseImponible>
+               <valor>0.00</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>100101526</codigoPrincipal>
+         <codigoAuxiliar>1005360</codigoAuxiliar>
+         <descripcion>[100101526] TAPON HEMB. POLIMEX 1/2</descripcion>
+         <cantidad>1.00</cantidad>
+         <precioUnitario>0.390000</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>0.39</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>0.39</baseImponible>
+               <valor>0.05</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+   <infoAdicional>
+      <campoAdicional nombre="DIRECCION">SANGOLQUI, QUITO, PICHINCHA, Ecuador</campoAdicional>
+      <campoAdicional nombre="CELULAR">099849756</campoAdicional>
+      <campoAdicional nombre="CORREO ELECTRONICO">auguevarav@hotmail.com</campoAdicional>
+   </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature76253"><ds:SignedInfo Id="Signature-SignedInfo44286"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference Id="SignedPropertiesID181824" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature76253-SignedProperties934798"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>pdnmcJVuyrr56Hl6IA7GK5f2Eqw=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate943863"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>dGOoBrt1efWWUF3xj7RPIfbQXOw=</ds:DigestValue></ds:Reference><ds:Reference URI="#comprobante" Id="Reference-ID-530913"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Xf40vU3lO1GfpXStC7afRmXB7Hg=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue439502">IIXI/pz7b94hMQZrRUbG1QqKxHuFssR6C6t83WNJIYp+QkWo0Hg+P1+PzxE0eKnaSeB4HJVA5i9b
+YCNrl19+iItPcrs5cSzjxFoGV5KuxrfjEGdqTAp427KcicqOnSBaeAk1+w5MRw4fiC80MHO/ZznW
+TY8hxWWB3IB0o7UdH3iTpvrpaM0oCU25shYOYNnTyvGUga+KLKPgb0LqfY3dnhrXgZCqFdSbPJFp
+NAMa44bRvKzlCC8TMu/KgT+eEUTWgo9cLct7ZPHW1gs3DGYCKrrHXHZws6d9ilEhk4BPiNcjiKmA
+vFC8lHNt5WMEsY/80nPnnK8v29xfRzyS7VEcPA==</ds:SignatureValue><ds:KeyInfo Id="Certificate943863"><ds:X509Data><ds:X509Certificate>
+MIIMFTCCCf2gAwIBAgIEKodAHzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzAyMDgyMTI3NDFaFw0yNTAyMDcyMTI3NDFaMIGdMSYw
+JAYDVQQDDB1BTkRSRVMgU0VCQVNUSUFOIEZSRUlSRSBNVUxMTzEVMBMGA1UEBRMMMDgwMjIzMTYz
+NzE5MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAb
+BgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBANr5ogcbKk88tI629ZFv8LJdfT+n2UlJDP5hAdfhMd0kPKhfqaQlG0x9
+XdC8F3vraUPis6tRNNFNjgup2Woi09Y9OzUtLq/DqmZb4tgvdRJF2Z+EeoSJwe5COa+zQqq8/paq
+6NB5emQf78H3lv3l+H+zzQlypV22LDh8uMsQ5Enssp0cHS1w/3ZJ7jitY6T9LELagmngRC9o2i09
+keOh9W1/tU4J3im6NBXbA1g9CnmeaZt0epEx5TXqJjg5nRBBoTD29yLEqP1+x1nNMC1ECDcN53vZ
+mjm8dTps0ytS328zO1cLwdavXJJSdTIp6+MIxhx0DMLNAbmV0vll+RWvlHECAwEAAaOCB10wggdZ
+MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUH
+AQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpi
+Y2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8v
+bGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJ
+T04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlz
+dD9iYXNlMCUGA1UdEQQeMByBGmFmcmVpcmVAYWNlcm9jZW50ZXIuY29tLmVjMIIBFQYDVR0gBIIB
+DDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBk
+AG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEE
+AYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+d3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGlj
+YXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwggKiBgNVHR8EggKZMIIC
+lTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3
+ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FD
+SU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UE
+BhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049
+QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAy
+LEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9w
+b3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRp
+c3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFBdCthkJN/EL/6Ez
+tOXAblDqY0ngMCsGA1UdEAQkMCKADzIwMjMwMjA4MjEyNzQxWoEPMjAyNTAyMDcyMTI3NDFaMAsG
+A1UdDwQEAwIF4DAfBgorBgEEAYKmcgMFBBEMD0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMB
+BAwMCjE3MTYxNTgyNjQwFQYKKwYBBAGCpnIDCQQHDAVRVUlUTzARBgorBgEEAYKmcgMiBAMMAS4w
+OwYKKwYBBAGCpnIDBwQtDCtBVi4gTUFSSVNDQUwgU1VDUkUgUzI3LTI1MiBZIERJRUdPIENFU1BF
+REVTMCAGCisGAQQBgqZyAwIEEgwQQU5EUkVTIFNFQkFTVElBTjAfBgorBgEEAYKmcgMgBBEMDzAw
+MjAwMTAwMDU2NDI5NDATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFE
+T1IwFgYKKwYBBAGCpnIDAwQIDAZGUkVJUkUwJwYKKwYBBAGCpnIDCgQZDBdBQ0VST1NDRU5URVIg
+Q0lBLiBMVERBLjAdBgorBgEEAYKmcgMLBA8MDTE3OTE3MzE5NjQwMDEwEgYKKwYBBAGCpnIDHQQE
+DAJObzAVBgorBgEEAYKmcgMEBAcMBU1VTExPMBwGCisGAQQBgqZyAwgEDgwMNTkzOTk1NTI5NTM0
+MA0GCSqGSIb3DQEBCwUAA4ICAQBC1I4xh6uUUKAk+WbaRZ+FbIk04bHcO5+n/tnRudDPpsGBIQH5
+1Ylc+uW1CR97gZeGL07fAZKCXhE6qM2fGmL6DpKnkkuYI4E2ORcFlqjvdwH8daCRivJbR0gX6Skv
+j9J7pbm14VjMOGG13CvlCE9oAclvRGyGyV+5AyCvw1pEXKxbf9rSwxXcidxTPt5dNqX6ILTiCRVa
+hp6icvmuHWSRjfYOzB1oJauW2Eu583BzWQe2AiyO0gTp8WO76xpq+Wh6xfuSXfkd1fcUMrG6bnY2
+lnOs2ULlqcxg2WqfFdSMjqPLuTq+YEyspK9WAdF+FJudBCe5z1SqrYRk13ma059wQbEz9DJCiIbo
+3oBtSZgHW1oRp5RQ1JqPCCHJfGPHBHF1xJzStLL14IhkAbgC1qfvGBplunI7HKlQPLAdfUDCAvWi
+gpmyArgVBYfehGkGYGia6Cu3mk9WljwB1dc/UkGwJNINPJRHVL59llTeCKI7wSMRrNo4Q/fVLela
+9lDajxewm0SWmFi1kUpPBPoayUYs4AabbB6H50XKb2LcKmbPb83MBrNrnIBEiRzT85SZEe5tjimJ
+aK04E0eZmNj6LdPsh6FoSKBZGUgz67bPvVlhluWvhkb5RngqVCfPyDWYVXmBda+9AsCgH6tM6/Ix
+aOQyDIps++GNC0LyKaWXbdQTqQ==</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>
+2vmiBxsqTzy0jrb1kW/wsl19P6fZSUkM/mEB1+Ex3SQ8qF+ppCUbTH1d0LwXe+tpQ+Kzq1E00U2O
+C6nZaiLT1j07NS0ur8OqZlvi2C91EkXZn4R6hInB7kI5r7NCqrz+lqro0Hl6ZB/vwfeW/eX4f7PN
+CXKlXbYsOHy4yxDkSeyynRwdLXD/dknuOK1jpP0sQtqCaeBEL2jaLT2R46H1bX+1TgneKbo0FdsD
+WD0KeZ5pm3R6kTHlNeomODmdEEGhMPb3IsSo/X7HWc0wLUQINw3ne9maObx1OmzTK1LfbzM7VwvB
+1q9cklJ1Minr4wjGHHQMws0BuZXS+WX5Fa+UcQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature76253-Object542789"><etsi:QualifyingProperties Target="#Signature76253"><etsi:SignedProperties Id="Signature76253-SignedProperties934798"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-05-31T18:50:17Z</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>A6DJzsZBp4NIyKKe1wpvNKGUz8E=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>C=EC,O=SECURITY DATA S.A. 2,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA</ds:X509IssuerName><ds:X509SerialNumber>713506847</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-530913"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

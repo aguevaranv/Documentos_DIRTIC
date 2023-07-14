@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2802202301179001356100120305030000490101234567819</numeroAutorizacion>
+<fechaAutorizacion>2023-02-28T08:50:18-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="1.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>PINTURAS CONDOR S.A.</razonSocial><nombreComercial>PINTURAS CONDOR SA</nombreComercial><ruc>1790013561001</ruc><claveAcceso>2802202301179001356100120305030000490101234567819</claveAcceso><codDoc>01</codDoc><estab>030</estab><ptoEmi>503</ptoEmi><secuencial>000049010</secuencial><dirMatriz>Cusubamba 0e1-365 y Manglaralto Pichincha Quito, Ecuador</dirMatriz></infoTributaria><infoFactura><fechaEmision>28/02/2023</fechaEmision><dirEstablecimiento>Av. Gral Enríquez 33-73 e Isla Rábida, Parroquia San Rafael, cantón Rumiñahui.</dirEstablecimiento><contribuyenteEspecial>5368</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>GUEVARA ANGEL</razonSocialComprador><identificacionComprador>1706479373001</identificacionComprador><direccionComprador>sangolqui</direccionComprador><totalSinImpuestos>76.34</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>76.34</baseImponible><valor>9.16</valor></totalImpuesto></totalConImpuestos><propina>0</propina><importeTotal>85.50</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>85.50</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>B30PRO110-5G</codigoPrincipal><codigoAuxiliar>B30PRO110-5G</codigoAuxiliar><descripcion>PROCRAFT INTERIORES</descripcion><cantidad>2.00</cantidad><precioUnitario>38.17</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>76.34</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>76.34</baseImponible><valor>9.16</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Direccion">sangolqui</campoAdicional><campoAdicional nombre="Telefono">0999849756</campoAdicional><campoAdicional nombre="Email">auguevarav@gmail.com</campoAdicional><campoAdicional nombre="Nota1">El deudor de la obligación contenida en la presente factura conviene con Pinturas Condor S.A, que en caso de mora en el pago de la misma, esta factura tendrá la calidad de pagaré cuyo vencimiento será la fecha de vencimiento del plazo para el pago de la factura</campoAdicional><campoAdicional nombre="Nota2">En caso de que Pinturas Cóndor S.A tenga que iniciar un proceso judicial para cobrar la obligación contenida en el presente documento, el deudor acepta que serán competentes los jueces de la parroquia de Iñaquito, ciudad Quito, provincia de Pichincha.</campoAdicional><campoAdicional nombre="Nota3">Además el deudor de la presente factura conviene con Pinturas Condor S. A que en caso de un proceso judicial de cobro de la presente obligación la citación podrá realizarse a través de los correos electrónicos pertenecientes a ambas partes los cuales están descritos en el presente documento.</campoAdicional><campoAdicional nombre="Nota4">En caso de una controversia entre Pinturas Cóndor y el deudor de la presente factura para la obligación en cuestión, previo accionar el proceso judicial, ambas partes convienen en mediar el conflicto en el centro de mediación de la Fundación de Estudios de Derecho Empresarial.</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature386336">
+<ds:SignedInfo Id="Signature-SignedInfo127260">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID693112" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature386336-SignedProperties744068">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>phXrk4aC4Tpe/dWB/254d1CQc5c=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1376055">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>yayQUq1iVHUHp+nC3lkDTi7hB3E=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-826288" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>K2MbhFK0eE6CFEr4fqEu7A+Y8CE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue681937">
+AUtQoyaIWjMlWdj95mYK6DsRLLUoGvFfLBqnTcua3U47gDxBqt6ZWfG/KKegsg8s42NwFMSjb77q
+3lbkuY/Gw9IErLqTV18gm0sGCRcQhySeBHMKKIqJgsZpkcjS9QZwIdCSn7HRudj1Yq+bRqnwZ4un
+E5VMf6Rc+duAd1eADTvxjpSZGhZBdqzrS5a5Faxmvgu1ZtW5ULpkb/RMhPavBJkufrn5F/B/mkbu
+f6hfSbLsbROkuzsvlIss8nga99rApZMC/ayue+qa9iSiwWssFf3/pnaIri9Q9i+j6VvJafJ+2tZz
+Q6qPvT+sMOffncKU6TBY1saKqKAwBjl6Fvn3ew==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1376055">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKADCCB+igAwIBAgIEW20omDANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIyMDYxNDE1MTE1MVoXDTI0MDYxNDE1NDE1
+MVowgbUxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE5MBEGA1UEBRMKMDAwMDQ4NjkwNzAkBgNVBAMTHU1PTklDQSBKVURJVEgg
+U1VBUkVaIENBTERFUk9OMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwrcGlkrpSANN
+gBaPUTDe6fWT4g9F2xYXeTXZOIraWZcAokUPd5pIdCh4Kq4PQS9QBlEupfoezXg22/Wnuk+rEKdF
+OD7pH+hUU7NaHto3MwSflwv+uI6Y2MaQ//Iu0gRc5nLqWwbyXzb2CFlKv326DXJACPrhfZgtHPHf
+rJwLkGtsE6RGGh9GmE6h3OQ/GRXcIG0gFrtpiJpCkDMqLsovhAr6LUbq1Kw1GvPSvA41nk7cW+FH
+br092Z0IwmeVMbvF8xOeTaQzNbnDn6MRICKoIpxUbOxNpmprAlMNRz/Fr1csg9npLxvQTAN47P7B
+jdDxsVi/iD+Of7mIfw3Q1LsfkwIDAQABo4IFKDCCBSQwCwYDVR0PBAQDAgeAMGcGA1UdIARgMF4w
+XAYLKwYBBAGCqDsCAgEwTTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0
+aWNhLWNlcnRpZmljYWRvL3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+
+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVz
+L29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dl
+Yi9zdGF0dXMvb2NzcDAiBgorBgEEAYKoOwMKBBQTElBJTlRVUkFTIENPTkRPUiBTQTAdBgorBgEE
+AYKoOwMLBA8TDTE3OTAwMTM1NjEwMDEwGgYKKwYBBAGCqDsDAQQMEwoxNzE1MjAzNzk4MB0GCisG
+AQQBgqg7AwIEDxMNTU9OSUNBIEpVRElUSDAWBgorBgEEAYKoOwMDBAgTBlNVQVJFWjAYBgorBgEE
+AYKoOwMEBAoTCENBTERFUk9OMCQGCisGAQQBgqg7AwUEFhMUSkVGRSBERSBDT05UQUJJTElEQUQw
+MAYKKwYBBAGCqDsDBwQiEyBDVVNVQkFNQkEgT0UxIDMwNSBZIE1BTkdMQVIgQUxUTzAZBgorBgEE
+AYKoOwMIBAsTCTAyMzk4NTYwMDAVBgorBgEEAYKoOwMJBAcTBVF1aXRvMBcGCisGAQQBgqg7AwwE
+CRMHRUNVQURPUjAgBgorBgEEAYKoOwMzBBITEFNPRlRXQVJFLUFSQ0hJVk8wKwYDVR0RBCQwIoEg
+bW9uaWNhLnN1YXJlekBwaW50dXJhc2NvbmRvci5jb20wggHhBgNVHR8EggHYMIIB1DCCAdCgggHM
+oIIByIaB1mxkYXA6Ly9iY2VxbGRhcHN1YnAxLmJjZS5lYy9jbj1DUkwxNDg3LGNuPUFDJTIwQkFO
+Q08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixsPVFVSVRPLG91PUVOVElEQUQlMjBERSUyMENF
+UlRJRklDQUNJT04lMjBERSUyMElORk9STUFDSU9OLUVDSUJDRSxvPUJBTkNPJTIwQ0VOVFJBTCUy
+MERFTCUyMEVDVUFET1IsYz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WGNGh0dHA6
+Ly93d3cuZWNpLmJjZS5lYy9DUkwvZWNpX2JjZV9lY19jcmxmaWxlY29tYi5jcmykgbYwgbMxCzAJ
+BgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5F
+TlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVR
+VUlUTzElMCMGA1UEAxMcQUMgQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjEQMA4GA1UEAxMHQ1JM
+MTQ4NzArBgNVHRAEJDAigA8yMDIyMDYxNDE1MTE1MVqBDzIwMjQwNjE0MTU0MTUxWjAfBgNVHSME
+GDAWgBRIot8jHx34LFF6jAPNSTKlCcGUqzAdBgNVHQ4EFgQUWt7gxeHILay4+XFo7YYiTcS6vg8w
+CQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAKGwRWOC4xAwIEsDANBgkqhkiG9w0BAQsFAAOCAgEA
+NxuJhCed2bHQ7yq4HY8xrvq8mf6Nstw4WhaaWSlR9r6MokE71chMGCnlDAolTcLurL6nyqWZr1rJ
+66eifAk1BcPP3uLr6zB789hiV50v/GG/jChh7H3uK8foFUYOKDa9lXouCbGkpPuVtMvf5kfSk4WJ
+ynQaGgeQLDGadU0qr1qshkcvF1C9Lri9U6Oc3qHGq8HyC0gslW8L2y8WnsgXk/AsmsJDtR8lasu3
+bt+7J06rzzPOfPVxoajxK1jR/iMJMiW3tiGyiXiIP8wLJGCsm28aA1aNtOftuHeBMNVr6hxiZvZx
+ddeKvAJEoiUjZcvYsOpCahn5+aboESr8rVsyy/rpGNmQDbfKLQ8Wyt7Lp/fwauL+s+wuEZhItH6R
+q7GCxEGydheempN1a2qyeQYsXE8+AOTaMIFNuUnWaHELgPgm2LnZCEG/EcA0RnvC4hvIC/vWkMQ+
+m5wi0b/vc24JhA5/bRhlMNoq0IdN2C3g3SiSEO+6zLkXqfkYKY7Uh2JGUG1MhVHypAQpwDTQBMTZ
+me7VU3n6VX9yuNLrGszZ2Y8oa8vyDm4P/swsWbHp4HKR38vhtPKJtUWLe5N1hW8iKzadlM8xctNg
+jrPhBp+vj1hTus8u4iM9vQO7VPa9AMETkewtIlhRF3s1z6u1/s8leAp8gWO4qVnWbnbjN94Ohug=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+wrcGlkrpSANNgBaPUTDe6fWT4g9F2xYXeTXZOIraWZcAokUPd5pIdCh4Kq4PQS9QBlEupfoezXg2
+2/Wnuk+rEKdFOD7pH+hUU7NaHto3MwSflwv+uI6Y2MaQ//Iu0gRc5nLqWwbyXzb2CFlKv326DXJA
+CPrhfZgtHPHfrJwLkGtsE6RGGh9GmE6h3OQ/GRXcIG0gFrtpiJpCkDMqLsovhAr6LUbq1Kw1GvPS
+vA41nk7cW+FHbr092Z0IwmeVMbvF8xOeTaQzNbnDn6MRICKoIpxUbOxNpmprAlMNRz/Fr1csg9np
+LxvQTAN47P7BjdDxsVi/iD+Of7mIfw3Q1Lsfkw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature386336-Object439515"><etsi:QualifyingProperties Target="#Signature386336"><etsi:SignedProperties Id="Signature386336-SignedProperties744068"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-02-28T08:49:28-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>aZSpml8ZUWJuejB3PK0X33JfDL4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533880472</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-826288"><etsi:Description>comprobateFirma</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

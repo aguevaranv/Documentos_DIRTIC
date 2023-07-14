@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2402202301179127415600120060010003458960034589611</numeroAutorizacion>
+<fechaAutorizacion>2023-02-24T20:01:52-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="2.1.0">
+                                <infoTributaria>
+                                    <ambiente>2</ambiente>
+                                    <tipoEmision>1</tipoEmision>
+                                    <razonSocial>ASERLACO</razonSocial>
+                                    <nombreComercial>CREPES &amp; WAFFLES</nombreComercial>
+                                    <ruc>1791274156001</ruc>
+                                    <claveAcceso>2402202301179127415600120060010003458960034589611</claveAcceso>
+                                    <codDoc>01</codDoc>
+                                    <estab>006</estab>
+                                    <ptoEmi>001</ptoEmi>
+                                    <secuencial>000345896</secuencial>
+                                    <dirMatriz>Rabida n26-249 Y Av. Fco. de Orellana</dirMatriz></infoTributaria>
+                                        <infoFactura>
+                                            <fechaEmision>24/02/2023</fechaEmision>
+                                            <dirEstablecimiento>Km 12 1/2 de la Av. Interoceanica-Scala Shopping, local L-31</dirEstablecimiento>
+                                            <obligadoContabilidad>SI</obligadoContabilidad>
+                                            <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+                                            <razonSocialComprador>ANGEL GUEVARA</razonSocialComprador>
+                                            <identificacionComprador>1706479373</identificacionComprador>
+                                            <direccionComprador>CUMBAYA</direccionComprador>
+                                            <totalSinImpuestos>28.67</totalSinImpuestos>
+                                            <totalDescuento>0</totalDescuento>
+                                            <totalConImpuestos>
+                                                <totalImpuesto>
+                                                    <codigo>2</codigo>
+                                                    <codigoPorcentaje>2</codigoPorcentaje>
+                                                    <baseImponible>28.67</baseImponible>
+                                                    <valor>3.43</valor>
+                                                </totalImpuesto>
+                                                <totalImpuesto>
+                                                    <codigo>2</codigo>
+                                                    <codigoPorcentaje>7</codigoPorcentaje>
+                                                    <baseImponible>0</baseImponible>
+                                                    <valor>0.00</valor>
+                                                </totalImpuesto>
+                                            </totalConImpuestos>
+                                            <propina>2.87</propina>
+                                            <importeTotal>34.99</importeTotal>
+                                            <moneda>DOLAR</moneda>
+                                            <pagos>
+                                            <pago>
+                                                <formaPago>20</formaPago>
+                                                <total>34.99</total>
+                                                <plazo>0</plazo>
+                                                <unidadTiempo>dias</unidadTiempo>
+                                            </pago></pagos>
+                                        </infoFactura>
+                                <detalles>
+                            <detalle>
+                                <codigoPrincipal>2509</codigoPrincipal>
+                                <codigoAuxiliar>2509</codigoAuxiliar>
+                                <descripcion>Crp Stroganoff</descripcion>
+                                <cantidad>1</cantidad>
+                                <precioUnitario>8.36</precioUnitario>
+                                <descuento>0</descuento>
+                                <precioTotalSinImpuesto>8.36</precioTotalSinImpuesto>
+                                <impuestos>
+                            <impuesto>
+                                <codigo>2</codigo>
+                                <codigoPorcentaje>2</codigoPorcentaje>
+                                <tarifa>12</tarifa>
+                                <baseImponible>8.36</baseImponible>
+                                <valor>1</valor>
+                            </impuesto></impuestos>
+                            </detalle>
+                            <detalle>
+                                <codigoPrincipal>2501</codigoPrincipal>
+                                <codigoAuxiliar>2501</codigoAuxiliar>
+                                <descripcion>Crp Mexicano</descripcion>
+                                <cantidad>1</cantidad>
+                                <precioUnitario>7.04</precioUnitario>
+                                <descuento>0</descuento>
+                                <precioTotalSinImpuesto>7.04</precioTotalSinImpuesto>
+                                <impuestos>
+                            <impuesto>
+                                <codigo>2</codigo>
+                                <codigoPorcentaje>2</codigoPorcentaje>
+                                <tarifa>12</tarifa>
+                                <baseImponible>7.04</baseImponible>
+                                <valor>0.84</valor>
+                            </impuesto></impuestos>
+                            </detalle>
+                            <detalle>
+                                <codigoPrincipal>1001</codigoPrincipal>
+                                <codigoAuxiliar>1001</codigoAuxiliar>
+                                <descripcion>Jugo Mora</descripcion>
+                                <cantidad>2</cantidad>
+                                <precioUnitario>1.8</precioUnitario>
+                                <descuento>0</descuento>
+                                <precioTotalSinImpuesto>3.6</precioTotalSinImpuesto>
+                                <impuestos>
+                            <impuesto>
+                                <codigo>2</codigo>
+                                <codigoPorcentaje>2</codigoPorcentaje>
+                                <tarifa>12</tarifa>
+                                <baseImponible>3.6</baseImponible>
+                                <valor>0.43</valor>
+                            </impuesto></impuestos>
+                            </detalle>
+                            <detalle>
+                                <codigoPrincipal>3805</codigoPrincipal>
+                                <codigoAuxiliar>3805</codigoAuxiliar>
+                                <descripcion>Fondue C&amp;W</descripcion>
+                                <cantidad>1</cantidad>
+                                <precioUnitario>9.67</precioUnitario>
+                                <descuento>0</descuento>
+                                <precioTotalSinImpuesto>9.67</precioTotalSinImpuesto>
+                                <impuestos>
+                            <impuesto>
+                                <codigo>2</codigo>
+                                <codigoPorcentaje>2</codigoPorcentaje>
+                                <tarifa>12</tarifa>
+                                <baseImponible>9.67</baseImponible>
+                                <valor>1.16</valor>
+                            </impuesto></impuestos>
+                            </detalle>
+					<detalle>
+						<codigoPrincipal>11902</codigoPrincipal>
+						<codigoAuxiliar>11902</codigoAuxiliar>
+						<descripcion>Postres</descripcion>
+						<cantidad>1</cantidad>
+						<precioUnitario>0</precioUnitario>
+						<descuento>0</descuento>
+						<precioTotalSinImpuesto>0.00</precioTotalSinImpuesto>
+						<impuestos>
+					<impuesto>
+						<codigo>2</codigo>
+						<codigoPorcentaje>2</codigoPorcentaje>
+						<tarifa>12</tarifa>
+						<baseImponible>0</baseImponible>
+						<valor>0</valor>
+					</impuesto></impuestos>
+					</detalle></detalles><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature988403">
+<ds:SignedInfo Id="Signature-SignedInfo269275">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID8605" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature988403-SignedProperties443677">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>SmIDfolszvAD8gS7hEtSA9oqXR4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1813594">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>cR3HQj/YN4/NulKyrJLJQ/YPt4w=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-60935" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>pFwD/PwyhZTenDo0ryX9IefsDxY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue500853">
+OxumnnvJ3GWUzqAGX7qPy4FHMAv2JXQJRnLUR+sQX8aFmwaY5Ja2P471uAqK6u7EhONU7AGTeH/2
+Cj2435GZK5FvHwCzxhurqV8RfRUiZjckaAubiiMe/CzHrtkwpaUbbY8KHC/vrc1LzEJE4GtJYJmY
+qrUwkaQ0ihbAzjldtFr1Oeqk0O39Vn+/Q/9srN05pMaG7b3/8qYPQtMvy5yx27RmOQUSyHxQI1i7
+DSpulA8+vy/92IQy6AH0w3S55Ge44qo5ee9Gl/2iC0pom6jjk+B3WhARfkvSwucxiXxBNz9aEMZk
+ENsCqeQww89rhclLdkaCdFHwuDS6UuqCUa5ULw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1813594">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL7DCCCdSgAwIBAgIEVTb4AjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjA5MTkxNDI4MTBaFw0yNDA5MTgxNDI4MTBaMIGXMSAw
+HgYDVQQDDBdTRVJHSU8gTU9TUVVFUkEgQUdVSVJSRTEVMBMGA1UEBRMMMTkwOTIyMDkzODAzMTAw
+LgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoM
+FFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAM/2V0OrSGAIN7mScA3REYjdRSIxP+4zK+oQuswW0H95gyPqikCKQaUj9w54WeVZ
+Vu1RBSdukZHE3bqWJYvqSJWIqV37v6dr0UpDPI4McvLycPZSxv1l768UDf3mjDug0FhkFxDOYcmX
+93IaPXz/yISDyEm1r7j3MafD62bxdLgga3W8ZXHExxOqJfTd3X/dRucpPkKb3yoWa3Uc6BVuNp5Q
+q9Nwk/KcKCtSF7dWLS2kWQS08DGnsx4KIkKF18emWDRZhIVzEm0c8bvcxkNnM0W+p9v7WbOK5L7Q
+IhA6iCPxGXxO3kfAD1K4NThBcKFgmEP8SofiFr8Imo+sZWJAoHUCAwEAAaOCBzowggc2MAwGA1Ud
+EwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBL
+MEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVi
+bGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNk
+Y2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VC
+Q0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1B
+Q0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNl
+MCUGA1UdEQQeMByBGmRwaXphcnJvQGNyZXBlc3l3YWZmbGVzLmVjMIIBFQYDVR0gBIIBDDCCAQgw
+YgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABk
+AGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgID
+MIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29u
+dGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUg
+Q2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwggKiBgNVHR8EggKZMIIClTCB5aBB
+oD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3Rh
+dHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMw
+gceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJ
+REFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/
+Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwt
+b3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2Vy
+dGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0Et
+MiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lP
+TixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFN92tkioh7sDvn4y9bsWHowM
+3l/hMCsGA1UdEAQkMCKADzIwMjIwOTE5MTQyODEwWoEPMjAyNDA5MTgxNDI4MTBaMAsGA1UdDwQE
+AwIF4DAfBgorBgEEAYKmcgMFBBEMD0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMBBAwMCjE3
+MTUxNTcyNDIwFQYKKwYBBAGCpnIDCQQHDAVRVUlUTzARBgorBgEEAYKmcgMiBAMMAS4wKwYKKwYB
+BAGCpnIDBwQdDBtSQUJJREEgTjI2MjQ5IFkgQVYgT1JFTExBTkEwFgYKKwYBBAGCpnIDAgQIDAZT
+RVJHSU8wHwYKKwYBBAGCpnIDIAQRDA8wMDIwMDEwMDA0MjE5ODYwEwYKKwYBBAGCpnIDIQQFDANQ
+RlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBgGCisGAQQBgqZyAwMECgwITU9TUVVFUkEwHAYK
+KwYBBAGCpnIDCgQODAxBU0VSTEFDTyBTIEEwHQYKKwYBBAGCpnIDCwQPDA0xNzkxMjc0MTU2MDAx
+MBIGCisGAQQBgqZyAx0EBAwCTm8wFwYKKwYBBAGCpnIDBAQJDAdBR1VJUlJFMBoGCisGAQQBgqZy
+AwgEDAwKMDk4NzAxMjQ1NjANBgkqhkiG9w0BAQsFAAOCAgEAFUTXN7TLxcYuPhGavXraXbbdd8Ia
+tFemuiHmhRCm9y/KFHJcM5jXUifVhysqIsMU/hAFvtoazZ0c4WrldWGP8GEzujjGzfshiY485vyc
+s7tJFkCVd02uFcaIMovxFPymavorNJQ3Kw6I9ghP1lbsd386ve7GggBnUdvF9ND6zqewOLkPHxet
+D4/XKPX1Sdys0rlOYlmhLio+MSdjCjrGkhapnuqR+8ejcCJMVhJ2Kjpur/XoldwOUMms3nmrtTda
+EvN0otCDE5mKrgqsOsLVJ9YhpYTnjSgU9dAbH57Rf2Y1SCZbaKezGtsmoXDN6DL/7hTV2mfBgg81
+ztG0zOVM+lZ7V/Z3QQ2mA+Ndc8vNr0JvqKiyJRk229AzXcRZs3PaPu7xuOP2n8+MNbPf0PpPjvG8
+cht9lEoYb5D5q+onsZb/AnKl8I01Y8W3l9ka46O7+DLEDXrDwyHfHXKWhyoPRv8lcMjxU6dMw5dH
+QjBIjG/GPaGnckepyKVoTfmRc1MBH3dRq+wV/7HBo2HC7OxyciK+buQtmR9dgjQVm1WsIvaR1ymO
+R5n2KBDVh5Jb9GmklatR2AMRt2wrxFLrddGuci3GdfAZz/pzr1tZROw5ITtbxr4CxoatvSxfPd6h
+mJ9caCeq5bn9blGaBtXBd5kC+g7m2J1FnA6qavO7nw8KSYw=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+z/ZXQ6tIYAg3uZJwDdERiN1FIjE/7jMr6hC6zBbQf3mDI+qKQIpBpSP3DnhZ5VlW7VEFJ26RkcTd
+upYli+pIlYipXfu/p2vRSkM8jgxy8vJw9lLG/WXvrxQN/eaMO6DQWGQXEM5hyZf3cho9fP/IhIPI
+SbWvuPcxp8PrZvF0uCBrdbxlccTHE6ol9N3df91G5yk+QpvfKhZrdRzoFW42nlCr03CT8pwoK1IX
+t1YtLaRZBLTwMaezHgoiQoXXx6ZYNFmEhXMSbRzxu9zGQ2czRb6n2/tZs4rkvtAiEDqII/EZfE7e
+R8APUrg1OEFwoWCYQ/xKh+IWvwiaj6xlYkCgdQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature988403-Object649025"><etsi:QualifyingProperties Target="#Signature988403"><etsi:SignedProperties Id="Signature988403-SignedProperties443677"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-02-24T20:01:51-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>96ljVo+KbyWTJnTBr9WquvrX/Rs=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1429665794</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-60935"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+
