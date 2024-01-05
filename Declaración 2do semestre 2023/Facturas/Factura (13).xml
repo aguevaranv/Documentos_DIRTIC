@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1407202301210041943700120010010000001723646474410</numeroAutorizacion>
+<fechaAutorizacion>2023-07-14T07:03:18-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>AGUINDA SALAZAR HENRY ORACIO</razonSocial>
+	    <nombreComercial>AGUINDA SALAZAR HENRY ORACIO</nombreComercial>
+	    <ruc>2100419437001</ruc>
+	    <claveAcceso>1407202301210041943700120010010000001723646474410</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>001</ptoEmi>
+	    <secuencial>000000172</secuencial>
+	    <dirMatriz>PICHINCHA / QUITO / CUMBAYA / GENERAL ELOY ALFARO SN Y S6</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>14/07/2023</fechaEmision>
+		
+			<dirEstablecimiento>PICHINCHA / QUITO / CUMBAYA / GENERAL ELOY ALFARO SN Y S6</dirEstablecimiento>
+		
+	    
+	    
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>GUEVARA VALDIVIEZO ANGEL UVALDO</razonSocialComprador>
+	    <identificacionComprador>1706479373001</identificacionComprador>
+		<direccionComprador>CUMBAYA</direccionComprador>
+	    
+	    <totalSinImpuestos>141.07000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+	      <totalImpuesto>
+	        <codigo>2</codigo>
+	        <codigoPorcentaje>2</codigoPorcentaje>
+	        <descuentoAdicional>0</descuentoAdicional>
+	        <baseImponible>141.07</baseImponible>
+	        <valor>16.93000</valor>
+	      </totalImpuesto>
+	      
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>158.00000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>158.00</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>SER001</codigoPrincipal>
+		<codigoAuxiliar>SER001</codigoAuxiliar>
+      	<descripcion>ABC DE MOTOR</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>22.320000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>22.32</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>22.32000</baseImponible>
+          <valor>2.68</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>DCPR7E-3932</codigoPrincipal>
+		<codigoAuxiliar>DCPR7E-3932</codigoAuxiliar>
+      	<descripcion>BUJIAS</descripcion>
+      
+      <cantidad>4.000000</cantidad>
+      <precioUnitario>3.580000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>14.32</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>14.32000</baseImponible>
+          <valor>1.72</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>95981206</codigoPrincipal>
+		<codigoAuxiliar>95981206</codigoAuxiliar>
+      	<descripcion>FILTRO DE AIRE</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>8.930000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>8.93</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>8.93000</baseImponible>
+          <valor>1.07</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>3074-KR</codigoPrincipal>
+		<codigoAuxiliar>3074-KR</codigoAuxiliar>
+      	<descripcion>FILTRO DE COMBUSTIBLE</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>7.140000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.14</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>7.14000</baseImponible>
+          <valor>0.86</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>32017</codigoPrincipal>
+		<codigoAuxiliar>32017</codigoAuxiliar>
+      	<descripcion>TROMPO ACEITE</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>10.710000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>10.71</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>10.71000</baseImponible>
+          <valor>1.29</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>SEV039</codigoPrincipal>
+		<codigoAuxiliar>SEV039</codigoAuxiliar>
+      	<descripcion>LIMPIEZA DE INYECTORES</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>22.320000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>22.32</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>22.32000</baseImponible>
+          <valor>2.68</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>EMPTAPAV001</codigoPrincipal>
+		<codigoAuxiliar>EMPTAPAV001</codigoAuxiliar>
+      	<descripcion>EMPAQUE TAPAVALVULA</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>19.630000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>19.63</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>19.63000</baseImponible>
+          <valor>2.36</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>RET0019</codigoPrincipal>
+		<codigoAuxiliar>RET0019</codigoAuxiliar>
+      	<descripcion>RETENEDOR CIGUEÑAL</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>8.920000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>8.92</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>8.92000</baseImponible>
+          <valor>1.07</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>SER011</codigoPrincipal>
+		<codigoAuxiliar>SER011</codigoAuxiliar>
+      	<descripcion>MANO DE OBRA</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>26.780000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>26.78</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>26.78000</baseImponible>
+          <valor>3.21</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">SAIL ROJO  PBZ-5275  KM 188381 REPUESTOS TALLER</campoAdicional>
+    		
+    	
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1043213">
+<ds:SignedInfo Id="Signature-SignedInfo537557">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID426984" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature1043213-SignedProperties627672">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>W8ys6z42bfKblsL1yY5ghUyk+3U=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1413771">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>1/dDOhVFKbtpLfHKsQjGTbKcvzY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-162013" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>2yaXb4STvgah25fbEZWU+ZsPxAA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue231337">
+ecG2sZFXefb1DCwi1odPQN6gngR/7j1pwxDpoPZbb5QTnOc4syMedhHt4Dz7Utpzk2BbEWQoE8m+
+/YawU8epARXikJIwdzf1irK8YUy9htAr32aYxur9H25tTCika1nw8c3ihrlPzsWHeaKJ6kXPXokq
+Sf9Z9p6P7FVANG7ToyMIasoA2EPmt6hLgUaUFvo97CXw1NzrsrZ3WDU+pg7VU7LdwQT1DMj3nXP2
+Hsg8a7TyAdwjsFWwDnvMz94uqudfUCOnCdFv9PCBN6Vbpa5GhVyHMZLOj34z1Lfz7CaSairlL69f
++tAjzP7Ztry42+RrvaBlI5lOWaswMuy4NPnBXg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1413771">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJJTCCBw2gAwIBAgIIPt001g357yIwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIyMTIwNTE4NTIwMFoXDTIzMTIwNTE4NTIwMFowgZ4xCzAJBgNVBAYTAkVDMRgwFgYDVQQEDA9B
+R1VJTkRBIFNBTEFaQVIxFTATBgNVBCoMDEhFTlJZIE9SQUNJTzEZMBcGA1UEBRMQSURDRUMtMjEw
+MDQxOTQzNzElMCMGA1UEAwwcSEVOUlkgT1JBQ0lPIEFHVUlOREEgU0FMQVpBUjEcMBoGA1UEYQwT
+VElORUMtMjEwMDQxOTQzNzAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIjaMEZi
+eKK5Uw/H2BtZgvRyMPU6uwZw9gK/YsvefK+qaSgRj85MrImZFfam6wUxoVjYGfHNj8V6QaukVtkU
+FXB3VMj0iCQHhxXNrZUZrZ1Ts7yYgtWs64ZTmDlhbUhUrji1qp8E9mXiLFClzBRL7sG+EpfEU1sm
+AyIWKFWmod3PlE4r70IbWV5a8R1MfwrBpnGft7Nkvq157V5yh2H6iPVQ5BbBwq+UK9UeB6VIuKeK
+O+jtjbzWKCSBq75O68EDOtcWg/atD3OFpwZ30N+lWUl2cDupe9wRwEfEgj4KRKSRbDevV+5DC+hd
++L1yozIJLjHUunDlj8B5yVH9NXjJO2sCAwEAAaOCBEkwggRFMBsGCysGAQQBgvE2ZgMBBAwMCjIx
+MDA0MTk0MzcwHgYLKwYBBAGC8TZmAwsEDwwNMjEwMDQxOTQzNzAwMTCB1wYIKwYBBQUHAQEEgcow
+gccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3dubG9hZC90
+c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3Nw
+MS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3Ay
+LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBToN7LHwxQjddqR0rsX1t2c
+WqNaJzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9MIGZBgNV
+HSAEgZEwgY4wgYsGDCsGAQQBgvE2ZgIBATB7MDcGCCsGAQUFBwIBFitodHRwczovL3d3dy51YW5h
+dGFjYS5jb20vcHVibGljL3BraS9kcGMtZWMvMEAGCCsGAQUFBwICMDQMMkNFUlRJRklDQURPIERF
+IFBFUlNPTkEgTkFUVVJBTCBPIEZJU0lDQSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+oDyG
+Omh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5j
+cmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJv
+cmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcD
+BDCCAX8GA1UdEQSCAXYwggFygR5ub3RpZmljYWNpb25lc2Zpcm1hc0BzaWlnby5jb22gGwYLKwYB
+BAGC8TZmAwGgDAwKMjEwMDQxOTQzN6AdBgsrBgEEAYLxNmYDAqAODAxIRU5SWSBPUkFDSU+gGAYL
+KwYBBAGC8TZmAwOgCQwHQUdVSU5EQaAYBgsrBgEEAYLxNmYDBKAJDAdTQUxBWkFSoC0GCysGAQQB
+gvE2ZgMHoB4MHEdBUkNJQSBNT1JFTk8gUyBOIDI0IERFIE1BWU+gHwYLKwYBBAGC8TZmAwigEAwO
+MDA1OTM5Njc4NTIwMDagFgYLKwYBBAGC8TZmAwmgBwwFUVVJVE+gHgYLKwYBBAGC8TZmAwugDwwN
+MjEwMDQxOTQzNzAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6ApBgsrBgEEAYLxNmYDMqAaDBhQRVJT
+T05BIE5BVFVSQUwgTyBGSVNJQ0GgGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG9w0B
+AQsFAAOCAgEAX7anjIX2N4uTP1uGdMI28hgB18E3hgGERROJjDy61EfS9hXQzUi5Upw2qH8a+foW
+zHeyh0byajxTvc6FmkUb/nbBwQby93ffuLNNFHQ644shSgOl+Kv+LKOaP9ohBNjQbzgxkBWvfWjR
+G861U6sOK/BzwuA7we2mPW5mHCuOY2UKZDQoMrMnqfYLyjIdWjwEtK/5A2vk/HmdazYPYI6d09jU
+eA5pj90fu9Kewru80UaLGIRpce0Vr7D6uuv+XdJvNjYeu07uIPAiRK9QJjYMTDeH/8k0yge+4F/i
+VIVtWESdCDwUxtUlZEA1jy5ix+NAI2pF9RFgmZjb/dqFpLMsW6v5TiCGE2by7cedIBE9+Z2FI1gG
+D81LI9dzOBUawC+OWkrQKluEY1CCNWz358aLUJFzDC/k7PRQI1Ovhp7Z0xBLB/yvq3e06qFNSoz5
+WV+tTTPeCkcDPMyBFaDhqnFenGxxa1qvqYDayzELdcGbsd9+5Tw4BfODjJ0v9VH49ptMMQLE+CjV
+F4r6GFVQKSZdy/ot7x7BhQTnQ6BVQdks1Nppi5H2i2ZyBPdikdc4lKd/7OoIy+Hrt5g5+Eh24yIC
+APo6TzbCALRapSkFI6hiCzTBlN7dBziIhnZmVwnDE5FUUYbst2aIXLaRHa9lG2gBfXkKGoY+UGdO
+vUTqbEvwrhQ=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+iNowRmJ4orlTD8fYG1mC9HIw9Tq7BnD2Ar9iy958r6ppKBGPzkysiZkV9qbrBTGhWNgZ8c2PxXpB
+q6RW2RQVcHdUyPSIJAeHFc2tlRmtnVOzvJiC1azrhlOYOWFtSFSuOLWqnwT2ZeIsUKXMFEvuwb4S
+l8RTWyYDIhYoVaah3c+UTivvQhtZXlrxHUx/CsGmcZ+3s2S+rXntXnKHYfqI9VDkFsHCr5Qr1R4H
+pUi4p4o76O2NvNYoJIGrvk7rwQM61xaD9q0Pc4WnBnfQ36VZSXZwO6l73BHAR8SCPgpEpJFsN69X
+7kML6F34vXKjMgkuMdS6cOWPwHnJUf01eMk7aw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature1043213-Object484558"><etsi:QualifyingProperties Target="#Signature1043213"><etsi:SignedProperties Id="Signature1043213-SignedProperties627672"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-07-14T07:03:39-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>CDEw/2hPmNiTgGxneeYKVSx5SqM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>4529834894166716194</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

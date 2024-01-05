@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2507202301171459430400120010020000005040000504216</numeroAutorizacion>
+<fechaAutorizacion>2023-07-25T18:31:48-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>CATOTA GUATEMAL OLGER</razonSocial>
+    <nombreComercial>CATOTA GUATEMAL OLGER</nombreComercial>
+    <ruc>1714594304001</ruc>
+    <claveAcceso>2507202301171459430400120010020000005040000504216</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000000504</secuencial>
+    <dirMatriz>Barrio: SALCOTO Calle: AV. GENERAL RUMIÑAHUI Nmero: LOTE 5 Interseccin: ATAHUALPA</dirMatriz>
+    <contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>25/07/2023</fechaEmision>
+    <dirEstablecimiento>Barrio: SALCOTO Calle: AV. GENERAL RUMIÑAHUI Nmero: LOTE 5 Interseccin: ATAHUALPA</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>GUEVARA  ANGEL UVALDO</razonSocialComprador>
+    <identificacionComprador>1706479373</identificacionComprador>
+    <direccionComprador>SANGOLQUI</direccionComprador>
+    <totalSinImpuestos>80.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>80.00</baseImponible>
+        <tarifa>0.00</tarifa>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <importeTotal>80.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>80.00</total>
+        <unidadTiempo>dia</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>001</codigoPrincipal>
+      <descripcion>SERV. DE ALINEACION DE AUTO/CAMIONETA</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>10.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>10.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>10.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>026</codigoPrincipal>
+      <descripcion>SERV. BALANCEO AUTO/CAMIONETA</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>2.500000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>5.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>013</codigoPrincipal>
+      <descripcion>SERVICIO DE CORRECION DE CAMBER AUTO/CAMIONETA</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>35.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>35.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>35.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>014</codigoPrincipal>
+      <descripcion>SERV DE CORRECCIN DE CASTER AUTO/CAMIONETA</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>30.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>30.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>30.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Informacion">SERVICIO REALIZADO A FURGONETA FIAT</campoAdicional>
+    <campoAdicional nombre="Direccion">SANGOLQUI</campoAdicional>
+    <campoAdicional nombre="Email">angelguevaraauv.@hotmail.com</campoAdicional>
+    <campoAdicional nombre="CONTRIBUYENTE RÉGIMEN RIMPE">Contribuyente Régimen RIMPE</campoAdicional>
+    <campoAdicional nombre="Calificación Artesanal No">115245</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature446651">
+<ds:SignedInfo Id="Signature-SignedInfo253332">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID626431" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature446651-SignedProperties282231">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>lt2Y0NMZtp//MGucdUpA3i1UA0w=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1317160">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>TQWXlM/M8dh0dVDCagCYLCNPnbQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-982203" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>JYwjjeamSRV65/RpebLxm7Cpqt0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue695232">
+GiSBcOwPn5v9hBNRB2wiX7Fh+dsYmjF3Gb0i+aEazgLPzpMiACkyrUp9QJoMKhHntA1dgeUdEODn
+qFKlm38PTI1BAQGu6L8RsoNo4K+H90YCTiGCrtFRIgk0oT2F5A/otlTh8XrMj9N4XctVLUvGqlrB
+rTt3b5NINlAUcDy8fXM87Rrhi6I7nDREuOASpfmT/1SSasUII1nDpy7jUXE5nbrN/W3SpqxbuY1g
+GfbeCIclMdW4+JdBFVC6hxqxsaW/4h0M/cr6s6SCOeNv2LdNI+RnQYfChOxDgbnY3T4zqNYPG1Ru
+6iLG25C2nDN6RNC2B7oaJCsirFiuuoS+Z5le2w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1317160">
+<ds:X509Data>
+<ds:X509Certificate>
+MIII6TCCBtGgAwIBAgIIfuUujPmtcPUwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIyMTAyMDIwNTIwMFoXDTI0MTAxOTIwNTIwMFowgZAxCzAJBgNVBAYTAkVDMRgwFgYDVQQEDA9D
+QVRPVEEgR1VBVEVNQUwxDjAMBgNVBCoMBU9MR0VSMRkwFwYDVQQFExBJRENFQy0xNzE0NTk0MzA0
+MR4wHAYDVQQDDBVPTEdFUiBDQVRPVEEgR1VBVEVNQUwxHDAaBgNVBGEME1RJTkVDLTE3MTQ1OTQz
+MDQwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCjgav32vCEbmOt6/gt7pjNoLWB
+tzw6pMhZyuEQzxw4BY8RHnUzSjQuye/wxRZhiIquzVQTaniOsMI2eaQlKKzUGq4VXVtPOBUYCgEB
+agnVSvpYv0dgzlqsRGkDqzczfDKdZ4aS7FUUkFOHI8dPZTpF2mcVSqF4+fdGCh+7UrELg/EQz5yc
+kW4c4NgGQ1ktv00N8X2fzZpQ+L99tAYb0jMUzy1cxphRP3+OZnL1xBWfd2hCjfs8jNP7ilYoMkde
+sppgKyTKRClvaZ2f0ZWX260VQYkPcYeyf2QtG6gaQfib08mKrvH6zojrypP573T9xhJuAizx1P3k
+xeGdX98eV+BzAgMBAAGjggQbMIIEFzCB1wYIKwYBBQUHAQEEgcowgccwVQYIKwYBBQUHMAKGSWh0
+dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3dubG9hZC90c3BfY2VydGlmaWNhdGVzL3N1
+Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMS51YW5hdGFjYS5jb20vcHVi
+bGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AyLnVhbmF0YWNhLmNvbS9wdWJs
+aWMvcGtpL29jc3AvMB0GA1UdDgQWBBRFCKADIZYBosXmLV308MVN+liW6DAMBgNVHRMBAf8EAjAA
+MB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9MIGZBgNVHSAEgZEwgY4wgYsGDCsGAQQB
+gvE2ZgIBATB7MDcGCCsGAQUFBwIBFitodHRwczovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL3Br
+aS9kcGMtZWMvMEAGCCsGAQUFBwICMDQMMkNFUlRJRklDQURPIERFIFBFUlNPTkEgTkFUVVJBTCBP
+IEZJU0lDQSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+oDyGOmh0dHA6Ly9jcmwxLnVhbmF0
+YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwQKA+oDyGOmh0dHA6Ly9j
+cmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwDgYDVR0P
+AQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAY4GA1UdEQSCAYUwggGB
+gSFwYWJsby5hbHZhcmV6LnNhcm1pZW50b0BnbWFpbC5jb22gGwYLKwYBBAGC8TZmAwGgDAwKMTcx
+NDU5NDMwNKAWBgsrBgEEAYLxNmYDAqAHDAVPTEdFUqAXBgsrBgEEAYLxNmYDA6AIDAZDQVRPVEGg
+GQYLKwYBBAGC8TZmAwSgCgwIR1VBVEVNQUygOwYLKwYBBAGC8TZmAwegLAwqQVYuIEdFTkVSQUwg
+UlVNScORQUhVSSAgTE9URSA1IFkgQVRBSFVBTFBBoB8GCysGAQQBgvE2ZgMIoBAMDjAwNTkzOTU5
+MTYzMTUwoBsGCysGAQQBgvE2ZgMJoAwMClNBTkdPTFFVw42gHgYLKwYBBAGC8TZmAwugDwwNMTcx
+NDU5NDMwNDAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6ApBgsrBgEEAYLxNmYDMqAaDBhQRVJTT05B
+IE5BVFVSQUwgTyBGSVNJQ0GgGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsF
+AAOCAgEAOxDk2ZjlahdfFrQjg8jXpa6xDpPNVte+R32q7TyG0XaV3WkvyA7OThRQf9duHRTZ/XbW
+IkhtgSyQXrQVMBDSqFvEVpGCE9b33qCX1pgOiuUM7zbyd8UD3mrq3tq181UxTNu2RLVXDD0LwzsV
+qhNuYUtpibWnvsrVROWvqfxrIIaJYHgfBH9n5KpU8C4Rd4K3xE5B0Vm+J8MKOlN3kDs+OFELTPfy
+2v/AqyWUHIvldgjmF8lbd0VRczTNS6yee0zTXfgujjUAn3rawBJMr22iydS9UO/qWoyaIhZ7ZvUK
+svqdUBChDFeWptdRwLb9kLmb97ODShQJ8vqNrJvkHckR2cIRRGHFvj5SWJ+xF0135N1fYLgaD0YY
+M0F3DPZQKn2mq7vIJ4CsqhV8ZhupnYo4llTejKfKdDPNTkiQFMpHMVcwrCvtHtT6msANzQDT5lih
+W+6q2PrsPIFfR46eLnU2dbsi2mGrcPGkYmSm3+2k/p/wHzQHpcrxe+rxpdTs+Q2jfch6jjshX4ry
+z9ux2tyF5EwZ4wgdS3PoNTszADqInIyZ3AV8bT8B2xv3kVKo9TQiZCPHXRnOvbFJIagqwTpChWtx
+FYCRH8lff7X4FZ55za+14Hw2QybB67VwlBdZlZBqTvUI+u1xq/FMO0UMol+kEu6wv5lCAEnejD9x
+SwMGMvQ=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+o4Gr99rwhG5jrev4Le6YzaC1gbc8OqTIWcrhEM8cOAWPER51M0o0Lsnv8MUWYYiKrs1UE2p4jrDC
+NnmkJSis1BquFV1bTzgVGAoBAWoJ1Ur6WL9HYM5arERpA6s3M3wynWeGkuxVFJBThyPHT2U6Rdpn
+FUqhePn3Rgofu1KxC4PxEM+cnJFuHODYBkNZLb9NDfF9n82aUPi/fbQGG9IzFM8tXMaYUT9/jmZy
+9cQVn3doQo37PIzT+4pWKDJHXrKaYCskykQpb2mdn9GVl9utFUGJD3GHsn9kLRuoGkH4m9PJiq7x
++s6I68qT+e90/cYSbgIs8dT95MXhnV/fHlfgcw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature446651-Object776738"><etsi:QualifyingProperties Target="#Signature446651"><etsi:SignedProperties Id="Signature446651-SignedProperties282231"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-07-25T18:30:43-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>KJhvTQGyRi3Lybnla28kr1+8SZI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>9143765801464852725</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate><etsi:SignaturePolicyIdentifier><etsi:SignaturePolicyId><etsi:SigPolicyId><etsi:Identifier>http://www.facturae.es/politica_de_firma_formato_facturae/politica_de_firma_formato_facturae_v3_1.pdf</etsi:Identifier><etsi:Description>Política de Firma FacturaE v3.1</etsi:Description></etsi:SigPolicyId><etsi:SigPolicyHash><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>Ohixl6upD6av8N7pEvDABhEL6hM=</ds:DigestValue></etsi:SigPolicyHash></etsi:SignaturePolicyId></etsi:SignaturePolicyIdentifier></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-982203"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

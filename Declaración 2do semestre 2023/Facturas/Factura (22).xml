@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2207202301179139971400120040110000240199971400112</numeroAutorizacion>
+<fechaAutorizacion>2023-07-24T14:35:30-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>ITALBRAS CIA LTDA.</razonSocial>
+<nombreComercial>ITALBRAS CIA LTDA.</nombreComercial>
+<ruc>1791399714001</ruc>
+<claveAcceso>2207202301179139971400120040110000240199971400112</claveAcceso>
+<codDoc>01</codDoc>
+<estab>004</estab>
+<ptoEmi>011</ptoEmi>
+<secuencial>000024019</secuencial>
+<dirMatriz>Calle Japon N36-33 y Av. Naciones Unidas (Tras el CCI)</dirMatriz>
+<agenteRetencion>1</agenteRetencion>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>22/07/2023</fechaEmision>
+<dirEstablecimiento>Calle Japon N36-33 y Av. Naciones Unidas (Tras el CCI)</dirEstablecimiento>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>ANGEL GUEVARA</razonSocialComprador>
+<identificacionComprador>1706479373</identificacionComprador>
+<totalSinImpuestos>60.90</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<baseImponible>60.90</baseImponible>
+<valor>7.31</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>68.21</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos><pago><formaPago>20</formaPago><total>68.21</total><plazo>1</plazo><unidadTiempo>DIAS</unidadTiempo></pago></pagos></infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>BRAZ07.P</codigoPrincipal>
+<codigoAuxiliar>BRAZ07.P</codigoAuxiliar>
+<descripcion>BRAZO TENSOR DERE. GRUESO PREMIO</descripcion>
+<cantidad>1.000</cantidad>
+<precioUnitario>20.800</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>20.80</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="InformacionAdicional1" valor="0"/>
+<detAdicional nombre="InformacionAdicional2" valor="0"/>
+ </detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>20.80</baseImponible>
+<valor>2.50</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>BRAZ06.2</codigoPrincipal>
+<codigoAuxiliar>BRAZ06.2</codigoAuxiliar>
+<descripcion>BRAZO SUSPENSION NARP REFORZ FIAT</descripcion>
+<cantidad>1.000</cantidad>
+<precioUnitario>16.100</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>16.10</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="InformacionAdicional1" valor="0"/>
+<detAdicional nombre="InformacionAdicional2" valor="0"/>
+ </detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>16.10</baseImponible>
+<valor>1.93</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>BUJE02</codigoPrincipal>
+<codigoAuxiliar>BUJE02</codigoAuxiliar>
+<descripcion>BUJE BARRA EST/BRAZO SUS.ANILLO UNO</descripcion>
+<cantidad>2.000</cantidad>
+<precioUnitario>2.200</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>4.40</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="InformacionAdicional1" valor="0"/>
+<detAdicional nombre="InformacionAdicional2" valor="0"/>
+ </detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>4.40</baseImponible>
+<valor>0.53</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>CAUC06.P1</codigoPrincipal>
+<codigoAuxiliar>CAUC06.P1</codigoAuxiliar>
+<descripcion>CAUCHO BARRA ESTABI. PEQUE¥O PREMIO</descripcion>
+<cantidad>2.000</cantidad>
+<precioUnitario>1.000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>2.00</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="InformacionAdicional1" valor="0"/>
+<detAdicional nombre="InformacionAdicional2" valor="0"/>
+ </detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>2.00</baseImponible>
+<valor>0.24</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>TERM04.2</codigoPrincipal>
+<codigoAuxiliar>TERM04.2</codigoAuxiliar>
+<descripcion>TERMINAL DIRE 95 NARP COFAP PREMIO</descripcion>
+<cantidad>1.000</cantidad>
+<precioUnitario>7.000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>7.00</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="InformacionAdicional1" valor="0"/>
+<detAdicional nombre="InformacionAdicional2" valor="0"/>
+ </detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>7.00</baseImponible>
+<valor>0.84</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>ARTI01</codigoPrincipal>
+<codigoAuxiliar>ARTI01</codigoAuxiliar>
+<descripcion>ARTICULACION DIREC NARP PREMIO</descripcion>
+<cantidad>1.000</cantidad>
+<precioUnitario>7.000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>7.00</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="InformacionAdicional1" valor="0"/>
+<detAdicional nombre="InformacionAdicional2" valor="0"/>
+ </detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>7.00</baseImponible>
+<valor>0.84</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>PERN01</codigoPrincipal>
+<codigoAuxiliar>PERN01</codigoAuxiliar>
+<descripcion>PERNO DE RUEDA FIAT</descripcion>
+<cantidad>2.000</cantidad>
+<precioUnitario>1.800</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>3.60</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="InformacionAdicional1" valor="0"/>
+<detAdicional nombre="InformacionAdicional2" valor="0"/>
+ </detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>3.60</baseImponible>
+<valor>0.43</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="direccionComprador">SANGOLQUI</campoAdicional>
+<campoAdicional nombre="CorreoCliente">angelguevara22@hotmail.com</campoAdicional>
+<campoAdicional nombre="ordenCompra">JA01</campoAdicional>
+<campoAdicional nombre="op2">CONTADO</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1019869">
+<ds:SignedInfo Id="Signature-SignedInfo143158">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID908192" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature1019869-SignedProperties251235">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>4PVj0bWP1P0i2ktmhzIoRymxMdc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1384367">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>kwOI+OVqVSJ++Pghs2K901eL+Yo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-478787" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>uV2n6ZE+/ZOv5ddtJ2VwiM5tgSM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1046756">
+HA8m6/LV53FCvSV86g9dE+UDZwtIjgdLRz0XOiFhLKeNjmpCf5vrvDG5FG1M0z33b5r9r954Lj3B
+7ErHPcBy9e0fMf2nI/BVwMwawGSDxe8SlZP+1xXzHJ+vJDRMvDxeCHEt6lRDUHnPF2agFK0ufpaJ
+BP5E7QW6VS3KhcciXd+BbGiBfBaa0TaunqfFKTFGwaPUFzj3alQ77LnpVMPXgAyidv+0OKnP6a2N
+/tbNoe8bEKW0GqoOIoJ+F82u4SyqXgZvxO4g4UxzkN4Y+4XKMRw+M4Y2XEEyNoQikk7thCZ55sBe
+nwiANGW5NUahv7UD7EJmyQi/WCas74eRp59tTA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1384367">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ5TCCB82gAwIBAgIEW2ym4zANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIyMDUwNDE0MTAzNFoXDTI0MDUwNDE0NDAz
+NFowgbIxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE2MBEGA1UEBRMKMDAwMDcyMDA5OTAhBgNVBAMTGlJFTkUgR1VTVEFWTyBW
+QUxMRUpPIFNBTEFTMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmw0gGzVTaGLNpuQH
+IBjSgjNiE2Xesi3vsVpVBvN9/00kBKAnbHpebwF+Wz/G0+EXrUnPbWnLxdx/yVZtWVTpA0I1J+AA
+Dyp7Mhe2jikivyUqhiUHxipSpYNUgfr8xq+mxyktIrN4d1DpRSfNeq0O2Y10JdeQFi+oRo7nPpxb
+W2yo3FcDGTdl57AYdIlKNmYAppbbUPXnI/1no4lcq3W1+EetjHjl1+ZxcuAgFva/31GCWQCyVH+b
+lYs4Yjo0G45d4ZOG9q6P5WoPF3H9840zk51BodBdaeuc31aSSBTzD0EOQlhdrFs5jGnSeg0t82wh
+wlJpmjon6XletsrL2w/U4QIDAQABo4IFEDCCBQwwCwYDVR0PBAQDAgeAMGcGA1UdIARgMF4wXAYL
+KwYBBAGCqDsCAgEwTTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0aWNh
+LWNlcnRpZmljYWRvL3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+Bggr
+BgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29j
+c3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9z
+dGF0dXMvb2NzcDAhBgorBgEEAYKoOwMKBBMTEUlUQUxCUkFTIENJQSBMVERBMB0GCisGAQQBgqg7
+AwsEDxMNMTc5MTM5OTcxNDAwMTAaBgorBgEEAYKoOwMBBAwTCjE3MDU1MDUyNjkwHAYKKwYBBAGC
+qDsDAgQOEwxSRU5FIEdVU1RBVk8wFwYKKwYBBAGCqDsDAwQJEwdWQUxMRUpPMBUGCisGAQQBgqg7
+AwQEBxMFU0FMQVMwHwYKKwYBBAGCqDsDBQQREw9HRVJFTlRFIEdFTkVSQUwwKQYKKwYBBAGCqDsD
+BwQbExlKQVBPTiAyODcgWSBOTlVVIFRSQVMgQ0NJMBkGCisGAQQBgqg7AwgECxMJMDIyMjUwNzg0
+MBUGCisGAQQBgqg7AwkEBxMFUXVpdG8wFwYKKwYBBAGCqDsDDAQJEwdFQ1VBRE9SMCAGCisGAQQB
+gqg7AzMEEhMQU09GVFdBUkUtQVJDSElWTzAjBgNVHREEHDAagRhndmFsbGVqb0BpdGFsYnJhcy5j
+b20uZWMwggHhBgNVHR8EggHYMIIB1DCCAdCgggHMoIIByIaB1mxkYXA6Ly9iY2VxbGRhcHN1YnAx
+LmJjZS5lYy9jbj1DUkwxNDYxLGNuPUFDJTIwQkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURP
+UixsPVFVSVRPLG91PUVOVElEQUQlMjBERSUyMENFUlRJRklDQUNJT04lMjBERSUyMElORk9STUFD
+SU9OLUVDSUJDRSxvPUJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsYz1FQz9jZXJ0aWZp
+Y2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WGNGh0dHA6Ly93d3cuZWNpLmJjZS5lYy9DUkwvZWNpX2Jj
+ZV9lY19jcmxmaWxlY29tYi5jcmykgbYwgbMxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBD
+RU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzElMCMGA1UEAxMcQUMgQkFOQ08gQ0VO
+VFJBTCBERUwgRUNVQURPUjEQMA4GA1UEAxMHQ1JMMTQ2MTArBgNVHRAEJDAigA8yMDIyMDUwNDE0
+MTAzNFqBDzIwMjQwNTA0MTQ0MDM0WjAfBgNVHSMEGDAWgBRIot8jHx34LFF6jAPNSTKlCcGUqzAd
+BgNVHQ4EFgQUPAjtWHvzjZH+IDtEsZ15RzXOgTowCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAK
+GwRWOC4xAwIEsDANBgkqhkiG9w0BAQsFAAOCAgEAe/UIUJu270uL0vmZuLBNHk4Q5vjqPO2hpKxf
+Y9eSN5LGu2IwgTI7WqgV5e+SU6BGqKmNIXAegzBl2734qbMvM1czCPjkeUS17soynvlDtq8VuHWo
+h5IJIXk4p74BhKXPXXWdW3uHE9nySaHcSoC4HmTpFtpc1Rg8QgimylALH0OtrKmZJsUbCc5DNDwH
+SlHAIcaQE9y5HljhGQqPDmS9BTTW+iiJINAHpnyvUVqkMtBwfhTlSGLdr69fimbm5nmJTl23iLH4
+yjEDbJSQnMlCmtLww79s5byIcPn3csHMe7z309JU60iNv5/FGX+JApLvBzAV5ep5r1VGBzDn35TG
+mdPqSAaKgIpjwO5DPVluRo4gaD3XDh0OWRX1lgWXnwM0INJeLfhnSAWLXkyVhm8VsvprH9yKyx8v
+U3+zZ5uO0wrHirZ+DCrrj5W1sTAc9JNYh32fiF/3jAAQlnh/XHJ+/mjbzU1s9And9GIfj3ImJqzh
+ubIggJmRwtnSQ7QM1o3fdygjLPWNsyFlZhwvUwLojLIiIs9H89VYD48lCtDP2l43NKTjkk+5QujA
+MhDOkMhjM9hQSrkKnBNR5NHyFFQeiJ+cMHZ81pmwhVS3XbjXjyOSehFF+ymk3oStDnPhzkKgUW3s
+2J06/am49Q5P6jHIIZlELvJmPpnpvBbFU2O6RVU=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+mw0gGzVTaGLNpuQHIBjSgjNiE2Xesi3vsVpVBvN9/00kBKAnbHpebwF+Wz/G0+EXrUnPbWnLxdx/
+yVZtWVTpA0I1J+AADyp7Mhe2jikivyUqhiUHxipSpYNUgfr8xq+mxyktIrN4d1DpRSfNeq0O2Y10
+JdeQFi+oRo7nPpxbW2yo3FcDGTdl57AYdIlKNmYAppbbUPXnI/1no4lcq3W1+EetjHjl1+ZxcuAg
+Fva/31GCWQCyVH+blYs4Yjo0G45d4ZOG9q6P5WoPF3H9840zk51BodBdaeuc31aSSBTzD0EOQlhd
+rFs5jGnSeg0t82whwlJpmjon6XletsrL2w/U4Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature1019869-Object377315"><etsi:QualifyingProperties Target="#Signature1019869"><etsi:SignedProperties Id="Signature1019869-SignedProperties251235"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-07-24T14:32:06-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>xTYxkNX6BAudsB4BE0Yug6YZ0eg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533847267</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-478787"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

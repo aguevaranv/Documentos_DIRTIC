@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1507202301172414126000120010020000020060000000111</numeroAutorizacion>
+<fechaAutorizacion>2023-07-15T17:19:43-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>SALAZAR ACUNA EDISON GUSTAVO</razonSocial><nombreComercial>CLINICA VETERINARIA LA PRIMAVERA</nombreComercial><ruc>1724141260001</ruc><claveAcceso>1507202301172414126000120010020000020060000000111</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>002</ptoEmi><secuencial>000002006</secuencial><dirMatriz>San Isidro MAGNOLIAS</dirMatriz><contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe></infoTributaria><infoFactura><fechaEmision>15/07/2023</fechaEmision><dirEstablecimiento>San Isidro MAGNOLIAS</dirEstablecimiento><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>Angel Guevara</razonSocialComprador><identificacionComprador>1706479373</identificacionComprador><direccionComprador>Cumbaya</direccionComprador><totalSinImpuestos>5.4</totalSinImpuestos><totalDescuento>0</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>0</baseImponible><tarifa>12</tarifa><valor>0</valor></totalImpuesto><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>5.4</baseImponible><tarifa>0</tarifa><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>5.4</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>5.4</total><plazo>1</plazo><unidadTiempo>Dias</unidadTiempo></pago></pagos><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta></infoFactura><detalles><detalle><codigoPrincipal>51952</codigoPrincipal><descripcion>Prednisolona 20mg Holliday </descripcion><unidadMedida>Producto</unidadMedida><cantidad>6.00</cantidad><precioUnitario>0.9</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>5.4</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>5.4</baseImponible><valor>0</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Direccion">Cumbaya</campoAdicional><campoAdicional nombre="Telefono">0999849756</campoAdicional><campoAdicional nombre="Email">joselingchinchero@gmail.com</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature819852">
+<ds:SignedInfo Id="Signature-SignedInfo832804">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID514522" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature819852-SignedProperties445034">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>5kY3e0zkbiQfUaduTrVUByjS7Q8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate410878">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>NtAtILM7353VlB1i8diRRYfGP14=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-2280" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>8A2EU0OQ8BOEF1mqFF/I2fjZ03s=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue37667">
+JridijaOgPckp6uMWc2aXtDXstE7cH0pSof7cpbB8v5AYJyr0GtVAgsGtMmf3bx0OBTLLqbN3DWJ
+hhBHah+vvdJR6yecUXfBG8d1I98Qlx6iwS/SOZ3JGBIb0q/LQXzWbt5WHjGPCjP5LHJ29QtP78LV
+79NbcAp+fzNiECgQTTWuAqBWFA1BIFf1yIpsCwwqP+eDZdPs/0MEMuJ1zVkg/FqMKacx3G05MU2r
+52nfIhTjo9CuejFZme2+kkguXnEWYzO/p/st5WcgOTEbaYyDvnjM4hnPsQ55pqMn4nN9DJzjd2XV
+SrZJcNe5zOBRvv0k5RMudbIEjcib6IGWq0bpxA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate410878">
+<ds:X509Data>
+<ds:X509Certificate>
+MIII4zCCBsugAwIBAgIIUDvuDWdM6kQwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIyMTAyNjIzMTYwMFoXDTIzMTAyNjIzMTYwMFowgaAxCzAJBgNVBAYTAkVDMRcwFQYDVQQEDA5T
+QUxBWkFSIEFDVcORQTEXMBUGA1UEKgwORURJU09OIEdVU1RBVk8xGTAXBgNVBAUTEElEQ0VDLTE3
+MjQxNDEyNjAxJjAkBgNVBAMMHUVESVNPTiBHVVNUQVZPIFNBTEFaQVIgQUNVw5FBMRwwGgYDVQRh
+DBNUSU5FQy0xNzI0MTQxMjYwMDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAi+Fe
+YaDMghE7cOvO553CVt+Qa5Ekyrer1feaIA3JY3TAwUiP/ym3kKFaMdeSxJKpHWdcuz18N8nd1YsW
+BRj2n/5I3KKwH+5gThqOtDapKckbMgwZasi5bZ2ZBqB/Xt1MvsHBpT0E1y4+bWsouEH5xcveCt2y
+ihKKv+k4VcD/MPYVoHKtFtNxcDjGPaeqTJ9q5Agee8Bn9gmBZz0VZ0Ui78Xga7iaaL3ZjP3cMkqW
+kyGmv8pxmsfxSIfisultuhHBwTxozgB3tgMaR9+2bTK5hh8dsaKzo6V40Y9GchGYNKHSWGdptBy6
+4a3k+T0pPvsr3cy2KUG91u1YXtQMG49kjQIDAQABo4IEBTCCBAEwgdcGCCsGAQUFBwEBBIHKMIHH
+MFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNw
+X2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51
+YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUkhzj0/umHI0zD2A+7IWdSJ/T
+gCAwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCBmQYDVR0g
+BIGRMIGOMIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cudWFuYXRh
+Y2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEFBQcCAjA0DDJDRVJUSUZJQ0FETyBERSBQ
+RVJTT05BIE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpo
+dHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3Js
+MECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3Jk
+aW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQw
+ggF4BgNVHREEggFvMIIBa4EXanNhbGF6YXJAYXNlZ3JvdXBlYy5jb22gGwYLKwYBBAGC8TZmAwGg
+DAwKMTcyNDE0MTI2MKAfBgsrBgEEAYLxNmYDAqAQDA5FRElTT04gR1VTVEFWT6AYBgsrBgEEAYLx
+NmYDA6AJDAdTQUxBWkFSoBcGCysGAQQBgvE2ZgMEoAgMBkFDVcORQaAsBgsrBgEEAYLxNmYDB6Ad
+DBtTQU4gIElTSURSTyAjU04gWSBNQUdOT0xJQVOgHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5OTUy
+NDM1NTegFgYLKwYBBAGC8TZmAwmgBwwFUVVJVE+gHgYLKwYBBAGC8TZmAwugDwwNMTcyNDE0MTI2
+MDAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6ApBgsrBgEEAYLxNmYDMqAaDBhQRVJTT05BIE5BVFVS
+QUwgTyBGSVNJQ0GgGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEA
+NRm3J4vt7zLeud/LYeY/8qSsc8vM8YcNvuJcaeSvcOqf57IXPX82LA0HtuFa8toarZEPpcmZS1OC
+h6th8BdSOjpBrSmDZaVXtgMqIlTqmMJ/TAnoJCRehzSS4QrHhjacoecOovRl58bmQHemK6djXw1T
+9KqQcRb/96iOWK5T/UCQxQa0ManVZ3qGwvUbq2ymIgK6unOVaTS/IAReoxwrKn47QmC3hG5/aVbY
+g9C1Q64w2LvMLiyoLT8NMpYoceNyPLPJy108M4Hn8676/ZxVARqFuhWyrzuXkHoGdIDc5QcELa6W
+Cn3Ssrcchc4suP1VG5m9+CgoDVjME2FjZmprsUET1tgVGQXyf6UcN4IRy9h1ECqkehjl2jfc/AtQ
++yn001IVz1ZUCQmf67Ml1EtLPP5DOpKB6sr5l4CJ4dtRs+8E9Qj03ixwMZ3T5nUEgt0QluXXcO1D
+0hSlezPL4Jk2rwNemI6f5vJLVJhi7DvZisQurmm1RR7kWRm/rs+47ZnPWkOM1DyYF7nCyfW9X13G
+Vmt6OEcIgNrjCmyzmBX8WRSeREVc5t6x6PP88Pvhng7sRvjbs0pKHQ4kuARA+asNG0Jzick37e7+
+1795zFsoD+zlWix9mCl/YblxtNX7E2LFHshKB9ZI52fUrRw8CkBhZGuf7kAuuIanO9OSWME8hO8=
+
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+i+FeYaDMghE7cOvO553CVt+Qa5Ekyrer1feaIA3JY3TAwUiP/ym3kKFaMdeSxJKpHWdcuz18N8nd
+1YsWBRj2n/5I3KKwH+5gThqOtDapKckbMgwZasi5bZ2ZBqB/Xt1MvsHBpT0E1y4+bWsouEH5xcve
+Ct2yihKKv+k4VcD/MPYVoHKtFtNxcDjGPaeqTJ9q5Agee8Bn9gmBZz0VZ0Ui78Xga7iaaL3ZjP3c
+MkqWkyGmv8pxmsfxSIfisultuhHBwTxozgB3tgMaR9+2bTK5hh8dsaKzo6V40Y9GchGYNKHSWGdp
+tBy64a3k+T0pPvsr3cy2KUG91u1YXtQMG49kjQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature819852-Object286354"><etsi:QualifyingProperties Target="#Signature819852"><etsi:SignedProperties Id="Signature819852-SignedProperties445034"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-07-15T17:20:06-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>Cb6bTQdDXD8zjtmAV+EHEaR9MPU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>5781476287995243076</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-2280"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

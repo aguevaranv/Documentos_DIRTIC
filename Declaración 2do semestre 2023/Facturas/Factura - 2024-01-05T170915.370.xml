@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1211202301179206034600120100800003651195658032311</numeroAutorizacion>
+<fechaAutorizacion>2023-11-13T07:16:30-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>MEGA SANTAMARIA S.A.</razonSocial>
+        <nombreComercial>SUPERMERCADO SANTA MARIA</nombreComercial>
+        <ruc>1792060346001</ruc>
+        <claveAcceso>1211202301179206034600120100800003651195658032311</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>010</estab>
+        <ptoEmi>080</ptoEmi>
+        <secuencial>000365119</secuencial>
+        <dirMatriz>Iñaquito N38-17 y Villalengua</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>12/11/2023</fechaEmision>
+        <dirEstablecimiento>GARCIA MORENO S/N Y AV. GENERAL ENRIQUEZ</dirEstablecimiento>
+        <contribuyenteEspecial>1124</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>GUEVARA VALDIVIEZO ANGEL UVALDO</razonSocialComprador>
+        <identificacionComprador>1706479373</identificacionComprador>
+        <totalSinImpuestos>75.07</totalSinImpuestos>
+        <totalDescuento>4.41</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>10.82</baseImponible>
+                <tarifa>0</tarifa>
+                <valor>0</valor>
+                <valorDevolucionIva>0</valorDevolucionIva>
+            </totalImpuesto>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>2</codigoPorcentaje>
+                <baseImponible>64.25</baseImponible>
+                <tarifa>12</tarifa>
+                <valor>7.71</valor>
+                <valorDevolucionIva>0</valorDevolucionIva>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>82.78</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>82.78</total>
+                <plazo>0</plazo>
+                <unidadTiempo>DIAS</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>492</codigoPrincipal>
+            <descripcion>NESTL GALLETA Z</descripcion>
+            <cantidad>4.995</cantidad>
+            <precioUnitario>2.9011</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>14.49</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="2.9011" valor="2.9011"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>14.49</baseImponible>
+                    <valor>1.74</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>20052</codigoPrincipal>
+            <descripcion>ARROCILLO KG.</descripcion>
+            <cantidad>5.095</cantidad>
+            <precioUnitario>1.01</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>5.15</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="1.0100" valor="1.0100"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>5.15</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>78601109</codigoPrincipal>
+            <descripcion>LARK CIGARRILLO</descripcion>
+            <cantidad>2</cantidad>
+            <precioUnitario>5.3571</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>10.71</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="5.3571" valor="5.3571"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>10.71</baseImponible>
+                    <valor>1.29</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>7702025126774</codigoPrincipal>
+            <descripcion>DUCAL GALL 360G</descripcion>
+            <cantidad>12</cantidad>
+            <precioUnitario>2.3571</precioUnitario>
+            <descuento>3.39</descuento>
+            <precioTotalSinImpuesto>24.9</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="2.0746" valor="2.0746"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>24.9</baseImponible>
+                    <valor>2.99</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>7861008510228</codigoPrincipal>
+            <descripcion>CONFI CAR DUR 2</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>8.9286</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>8.93</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="8.9286" valor="8.9286"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>8.93</baseImponible>
+                    <valor>1.07</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>7861057500027</codigoPrincipal>
+            <descripcion>CRIS- SAL DE ME</descripcion>
+            <cantidad>2</cantidad>
+            <precioUnitario>0.83</precioUnitario>
+            <descuento>0.17</descuento>
+            <precioTotalSinImpuesto>1.49</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="0.7450" valor="0.7450"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>1.49</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>7861078400061</codigoPrincipal>
+            <descripcion>ECUAG CARAMELO</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>1.6071</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>1.61</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="1.6071" valor="1.6071"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>1.61</baseImponible>
+                    <valor>0.19</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>7862101404599</codigoPrincipal>
+            <descripcion>CONDI CANELA  E</descripcion>
+            <cantidad>2</cantidad>
+            <precioUnitario>2.09</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>4.18</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="2.0900" valor="2.0900"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>4.18</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>7862122702902</codigoPrincipal>
+            <descripcion>CARAM LECMIE 33</descripcion>
+            <cantidad>2</cantidad>
+            <precioUnitario>2.2321</precioUnitario>
+            <descuento>0.85</descuento>
+            <precioTotalSinImpuesto>3.61</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="1.8071" valor="1.8071"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>3.61</baseImponible>
+                    <valor>0.43</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Total Canastas:">0</campoAdicional>
+        <campoAdicional nombre="FACTURA Nro:">010080000365119</campoAdicional>
+        <campoAdicional nombre="DEDUCIBLES:">ALIMENTACION 62,75</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature335473"><ds:SignedInfo Id="Signature-SignedInfo909502"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod><ds:Reference Id="SignedPropertiesID1009135" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature335473-SignedProperties973728"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>BLiwUByFi4lw3aIuHKNRSerYAUk=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate1628561"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>G0eCvJFdlPYY3N6q+FIbDzVHThU=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-236008" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>iiRF+lvdr5Q31tz2AONCgrVmJ7k=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue871404">BGT4RWbn8H7KvB+5asqrBkqBtj1tfNpM3TlzwdM1k1UctVq1KYNxyG1bxpLdpXLBQnSGdJgkxQBwqhrnoQxiJ2aXp8D66hucqBC3LwT+D4TS+5mOaLzQ2hTwp8YXmPmE2feT/CbwmPXvCsUoT8LBCuBhvh4QOK5ThcDxesilaLnTSDoOXVyn6FsnaeW+fK8gFg6rT9PkACzxiceJ0z7T6Q0rfY7w2qORiPokY2yd80R4DGH39wlhkSBkSnKsUgs2VPkGEq8XnY0m57fXvLXyyevp19xbF4+/S+5VXDtbzT83Cou0ES66d8wneeul34A4TKZHI+s2we1zBGn4m7Lgbg==</ds:SignatureValue><ds:KeyInfo Id="Certificate1628561"><ds:X509Data><ds:X509Certificate>MIIL9TCCCd2gAwIBAgIEZHEGLDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMTA4MDUxMzAzNTlaFw0yNjA4MDUxMzAzNTlaMIGSMRswGQYDVQQDDBJBTkEgTFVDSUEgVEVORVpBQ0ExFTATBgNVBAUTDDA1MDgyMTA4MTM1NDEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCVLsaP2bSHNKD8IqzVVY/GLz4APJNfg8aYK3pNiS14VfdtBHjokHoousqejeA52WPElxgLK7PMX583uT2P/mwf4ysX5nlPZWSOh6iZa5CmXo7/MB4dzCOSQ/HBK+11JjUC0SOsamLmLT0Q+txIygEK7nKmeBqDJZopi22oxZSHFqBRoiaYCEHhSgND2WvWXtvZEl+EeH/tS7JK5wAGu73aorxh5T+HYMQy1vz1dItDjjgkkz+ChgFG1CTpVUOawCuGEaDursANrtyl6/uxUFuVGK02Iz7mOg5On75DxWxUgF4Zs/ysvQErRLTA0L0JrkiC8KR0EwKIPaMtqC65SmuNAgMBAAGjggdIMIIHRDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxpc3Q/YmFzZTArBgNVHREEJDAigSBhbmEudGVuZXphY2FAbWVnYS1zYW50YW1hcmlhLmNvbTCCARIGA1UdIASCAQkwggEFMGAGCisGAQQBgqZyAgowUjBQBggrBgEFBQcCAjBEHkIAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAATQBpAGUAbQBiAHIAbwAgAGQAZQAgAEUAbQBwAHIAZQBzAGEwgaAGCisGAQQBgqZyAgQwgZEwgY4GCCsGAQUFBwIBFoGBaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBNaWVtYnJvIGRlIEVtcHJlc2EucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBR1IMT6hqRa2sc/tKc991SEy37DbzArBgNVHRAEJDAigA8yMDIxMDgwNTEzMDM1OVqBDzIwMjYwODA1MTMwMzU5WjALBgNVHQ8EBAMCBeAwIQYKKwYBBAGCpnIDBQQTDBFDT05UQURPUkEgR0VORVJBTDAaBgorBgEEAYKmcgMBBAwMCjExMDMxNzA2ODIwFQYKKwYBBAGCpnIDCQQHDAVRVUlUTzARBgorBgEEAYKmcgMiBAMMAS4wLQYKKwYBBAGCpnIDBwQfDB1JTkFRVUlUTyBOMzgtMTcgWSBWSUxMQUxFTkdVQTAZBgorBgEEAYKmcgMCBAsMCUFOQSBMVUNJQTAfBgorBgEEAYKmcgMgBBEMDzAwMjAwMTAwMDIyNjk1NjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGAYKKwYBBAGCpnIDAwQKDAhURU5FWkFDQTAkBgorBgEEAYKmcgMKBBYMFE1FR0EgU0FOVEFNQVJJQSBTLkEuMB0GCisGAQQBgqZyAwsEDwwNMTc5MjA2MDM0NjAwMTASBgorBgEEAYKmcgMdBAQMAk5vMBEGCisGAQQBgqZyAwQEAwwBLjAcBgorBgEEAYKmcgMIBA4MDDU5Mzk5MTkwMDE1NjANBgkqhkiG9w0BAQsFAAOCAgEASxGxszsWcl7N6wfbDUcItEhHVCUQkDp/Lf1C0WESMr6CWQHplscGC2UM/5xFItGqthdHGI0rsdlPlXAQIxonLyKtX99VLp/oxTVR4EWiGaWCt02+VLY4PU1YYXxTab7qUCd4nMTSS+yDwQ6jo4MmrWxYLCZypp+4edvLb9Cx/jjMr5r2BZrHuerzEXXoPxap0mXfq01slTpOLT0XoO+zzXiTLwSXpq10quEtvSgb6gkk6FT6x+qqSYVU3yoImQNJMTGXoeFjdFCV0i2Mn08ongXdPgV9lNngErZdzZF9fl+bfclwcamsmEcuGUmMPDGKMx2OZhHImY+2/NwjXBPQ2JhdQcv7cwlky2hyLhDnnobRb5JxqXx2SgOuO59lLVjGByfY0i0nCGX2eOMQ3h/etSGwAWld8GXfC9tBMse3H41qTJR5iFp1vMf2VS0sUe+/FfriwnaMJKMkM7MIKy8DlCuSEKbnf3GlaI9gFgR1YL4CJ0ZERy08q/ICGBOCEqIxUV1IwZ7p6fVh+74NUKHNDloB82ZcTOeDw7RYH5DLFH+JRY1P8e11BImsNReLbOt9R94YN9Fe+8/s2xiQKQRmG1DpNBWZcMjPvpld6tAdYIfPq41y21RACpLYcq2mI5//ZdFpAHyDRDF6YnKeMO0xlkFC3VynxAGYg+UopUfQv4g=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>
+lS7Gj9m0hzSg/CKs1VWPxi8+ADyTX4PGmCt6TYkteFX3bQR46JB6KLrKno3gOdljxJcYCyuzzF+fN7k9j/5sH+MrF+Z5T2VkjoeomWuQpl6O/zAeHcwjkkPxwSvtdSY1AtEjrGpi5i09EPrcSMoBCu5ypngagyWaKYttqMWUhxagUaImmAhB4UoDQ9lr1l7b2RJfhHh/7UuySucABru92qK8YeU/h2DEMtb89XSLQ444JJM/goYBRtQk6VVDmsArhhGg7q7ADa7cpev7sVBblRitNiM+5joOTp++Q8VsVIBeGbP8rL0BK0S0wNC9Ca5IgvCkdBMCiD2jLaguuUprjQ==
+</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature335473-Object495603"><etsi:QualifyingProperties Target="#Signature335473"><etsi:SignedProperties Id="Signature335473-SignedProperties973728"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-11-13T07:16:01-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>wbyVmxK2Eim0tjaVQ6zjAIkzd+0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1685128748</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-236008"><etsi:Description>Contenido Comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

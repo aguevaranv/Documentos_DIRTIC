@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1512202301060223021100120010010000010931234567819</numeroAutorizacion>
+<fechaAutorizacion>2023-12-15T13:31:44-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0">  <infoTributaria>    <ambiente>2</ambiente>    <tipoEmision>1</tipoEmision>    <razonSocial> GUEVARA VALDIVIESO EMILIO SALVADOR</razonSocial>    <nombreComercial> GUEVARA VALDIVIESO EMILIO SALVADOR</nombreComercial>    <ruc>0602230211001</ruc>    <claveAcceso>1512202301060223021100120010010000010931234567819</claveAcceso>    <codDoc>01</codDoc>    <estab>001</estab>    <ptoEmi>001</ptoEmi>    <secuencial>000001093</secuencial>    <dirMatriz>Sangolqui Pasaje Riofrio Lote 2 Gonzalez Suarez</dirMatriz>    <contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe>  </infoTributaria>  <infoFactura>    <fechaEmision>15/12/2023</fechaEmision>    <dirEstablecimiento>Sangolqui Pasaje Riofrio Lote 2 Gonzalez Suarez</dirEstablecimiento>    <obligadoContabilidad>NO</obligadoContabilidad>    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>    <razonSocialComprador>GUEVARA VALDIVIEZO ANGEL UVALDO</razonSocialComprador>    <identificacionComprador>1706479373001</identificacionComprador>    <direccionComprador>AV. GENERAL ENRIQUEZ 331 Y SUCRE</direccionComprador>    <totalSinImpuestos>9.75</totalSinImpuestos>    <totalDescuento>0</totalDescuento>    <totalConImpuestos>      <totalImpuesto>        <codigo>2</codigo>        <codigoPorcentaje>0</codigoPorcentaje>        <baseImponible>9.75</baseImponible>        <tarifa>0</tarifa>        <valor>0</valor>      </totalImpuesto>    </totalConImpuestos>    <propina>0.000000</propina>    <importeTotal>9.75</importeTotal>    <moneda>DOLAR</moneda>    <pagos>      <pago>        <formaPago>01</formaPago>        <total>9.75</total>        <plazo>1</plazo>        <unidadTiempo>DIAS</unidadTiempo>      </pago>    </pagos>  </infoFactura>  <detalles>    <detalle>      <codigoPrincipal>3</codigoPrincipal>      <codigoAuxiliar>0</codigoAuxiliar>      <descripcion>SERVICIO DE REPARACION DE CALZADO</descripcion>      <cantidad>1</cantidad>      <precioUnitario>9.75</precioUnitario>      <descuento>0</descuento>      <precioTotalSinImpuesto>9.75</precioTotalSinImpuesto>      <impuestos>        <impuesto>          <codigo>2</codigo>          <codigoPorcentaje>0</codigoPorcentaje>          <tarifa>0</tarifa>          <baseImponible>9.75</baseImponible>          <valor>0</valor>        </impuesto>      </impuestos>    </detalle>  </detalles>  <infoAdicional>    <campoAdicional nombre="email">SIN CORREO</campoAdicional>    <campoAdicional nombre="telefono"> - </campoAdicional>    <campoAdicional nombre="direccion">AV. GENERAL ENRIQUEZ 331 Y SUCRE</campoAdicional>  </infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature123456">
+<ds:SignedInfo Id="Signature-SignedInfo123456">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID123456" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature123456-SignedProperties123456">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>AWJGxAgAYZfbd6wJsaTGSA9RNB0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate123456">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>X/kProtKeRsRJEaPXXs2N5ba8Jo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-123456" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>6UUiFCLMcDoriS+WmRzCwlIaDRE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue123456">
+DDndPkabdxNw3a4BnKZONZzUzxLoMypz2SD/mPyj/Qmli4TwfLOaQeQ0aGBf2WddmOWo/+8bYIE4
+3uK3Xb9mvfesimad5FiJ3X0j79vfTPeN2haW9o5jGrXn8JZ373je0km77RwmhktNmmsWqD9z3ZfA
+1yRvjI/FbsTSdkqe3cIgkIvUPEzogi+iLPdjPZKUtVpobGA/pBG0B5XXvc8I/GaCNxsiXO1tL+Y/
+tdVM2wkH4IB1R2KP+8mZ2cxWXDoFvAS/svNoEBii4GzlPkUE9vdC4WtiuWLBI353BLktjzovKFEV
+a1nIX8nxdjgUnCtAyiINEDIGGNI02fSxxo15Sw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate123456">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJQzCCByugAwIBAgIIN97fJrkf6tkwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMTExNjIwMzAwMFoXDTI0MTExNTIwMzAwMFowgaoxCzAJBgNVBAYTAkVDMRswGQYDVQQEDBJH
+VUVWQVJBIFZBTERJVklFU08xGDAWBgNVBCoMD0VNSUxJTyBTQUxWQURPUjEZMBcGA1UEBRMQSURD
+RUMtMDYwMjIzMDIxMTErMCkGA1UEAwwiRU1JTElPIFNBTFZBRE9SIEdVRVZBUkEgVkFMRElWSUVT
+TzEcMBoGA1UEYQwTVElORUMtMDYwMjIzMDIxMTAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAIrszZB+DaknwxM/sVjaII/8EhxWlSEQ9eGZXmdPzJ4Wc/7tJD5kAgDnirvvHtWa03K9
+MYYLv1a0upC6/tXWSVzUdmZ0/A0xH96HtpwzxS/SGSbG3bYEKDL2DfO7uqQbkv1jFaVP8AxSl12o
++X+vOcSx7QDWlsAgjqILYj+B27ZtKLL+RMYTmptcefhPe08QXMUySQFBVvKdPX6Rhjjit6N5xdw+
+xQO5N+LeRbPOWSP5SH3cfK2NFChceGmWHWfMtwz7MZ0F/1w529lq1PQzdtuFiGltpxdrXb0KsQuO
+IzPcmBNb29eoz+FbtOU7ZS62NsQZjyyjm1POy+t7jcYGq7UCAwEAAaOCBFswggRXMBsGCysGAQQB
+gvE2ZgMBBAwMCjA2MDIyMzAyMTEwHgYLKwYBBAGC8TZmAwsEDwwNMDYwMjIzMDIxMTAwMTCB1wYI
+KwYBBQUHAQEEgcowgccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1Ymxp
+Yy9kb3dubG9hZC90c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGG
+Kmh0dHA6Ly9vY3NwMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYq
+aHR0cDovL29jc3AyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBSxjJ68
+A5iWIWZZAPPuuiW8uc+f3DAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDh
+EbJ0knP9MIGZBgNVHSAEgZEwgY4wgYsGDCsGAQQBgvE2ZgIBATB7MDcGCCsGAQUFBwIBFitodHRw
+czovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL3BraS9kcGMtZWMvMEAGCCsGAQUFBwICMDQMMkNF
+UlRJRklDQURPIERFIFBFUlNPTkEgTkFUVVJBTCBPIEZJU0lDQSBFTiBBUkNISVZPMIGPBgNVHR8E
+gYcwgYQwQKA+oDyGOmh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJz
+dWJvcmRpbmFkYS5jcmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtp
+L2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUF
+BwMCBggrBgEFBQcDBDCCAZEGA1UdEQSCAYgwggGEgRRkbm4ucGF1bEBob3RtYWlsLmNvbaAbBgsr
+BgEEAYLxNmYDAaAMDAowNjAyMjMwMjExoCAGCysGAQQBgvE2ZgMCoBEMD0VNSUxJTyBTQUxWQURP
+UqAYBgsrBgEEAYLxNmYDA6AJDAdHVUVWQVJBoBsGCysGAQQBgvE2ZgMEoAwMClZBTERJVklFU0+g
+QwYLKwYBBAGC8TZmAwegNAwyU0FOR09MUVVJICBQQVNBSkUgUklPRlJJTyBMT1RFIDIgWSBHT05a
+QUxFWiBTVUFSRVqgHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5NjA1MDMyMDWgFgYLKwYBBAGC8TZm
+AwmgBwwFUVVJVE+gHgYLKwYBBAGC8TZmAwugDwwNMDYwMjIzMDIxMTAwMaATBgsrBgEEAYLxNmYD
+DKAEDAJFQ6ApBgsrBgEEAYLxNmYDMqAaDBhQRVJTT05BIE5BVFVSQUwgTyBGSVNJQ0GgGAYLKwYB
+BAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEAo7TMFw9jWNDlQUh9xF6NoSjq
+oWffab8XYEfEBDCcUueyKuCNBNVjsudEiqwgnbT6W3x91s5BoSazJK6jyUpIvAFkJ1Wx9tjrbng5
+pzfo6/JNGZ9BnnblFBTkzFtylSv3u3gc1Bg6nSgL+AE9Cg9Pr3tdYaxcDDGUTBj1swMBFN4lyZoQ
+wFsP+ixR8tH4gqlEv6RPmYF0dSWF77xiYw2hS6udyoOX0OuKhNS7mv7kbcN6uOGbfbVX5ogmt9NF
+wzpxmWhyWB5ZV1n0TFB6/wpgBa3FuQADaA8kl3itkzjpVyJ8HAmdiUD1aEwISlq4VejKcvfIQBTY
+R/B0uqNo9vScgA6GKwP1CUWiKKv3Dsna9CqkLhac50jdPUH7YussIVKk962MNtcWBxGLf8L6VPHA
+kOMlZuZC3G1TURp1FV4+6HBZBiZ5flldaMTkeiz5ZDwvtW2Ik1I71/DUkatIo4UQXGT+/fg8zFPP
+41b5girAIfbuK6ne4UOdM+itedUKCOdVj5yPGGLqIpakso8I3BTXXoV0+DZ1hJ+QVtZX79FoGYZO
+3OzsRed8dYJtwTyI8av/Uwcu23q7B0RRSV9sqEyZbz+z1UyEgEsEhlWDD4CIVNIh4iHZCAlWPpaF
+rlEQ4vzgnZHAN4pVhc2+A32Uq2MaYEfpxuf9HCaiY3gjGwfQ9Ks=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+iuzNkH4NqSfDEz+xWNogj/wSHFaVIRD14ZleZ0/MnhZz/u0kPmQCAOeKu+8e1ZrTcr0xhgu/VrS6
+kLr+1dZJXNR2ZnT8DTEf3oe2nDPFL9IZJsbdtgQoMvYN87u6pBuS/WMVpU/wDFKXXaj5f685xLHt
+ANaWwCCOogtiP4Hbtm0osv5ExhOam1x5+E97TxBcxTJJAUFW8p09fpGGOOK3o3nF3D7FA7k34t5F
+s85ZI/lIfdx8rY0UKFx4aZYdZ8y3DPsxnQX/XDnb2WrU9DN224WIaW2nF2tdvQqxC44jM9yYE1vb
+16jP4Vu05TtlLrY2xBmPLKObU87L63uNxgartQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature123456-Object123456"><etsi:QualifyingProperties Target="#Signature123456"><etsi:SignedProperties Id="Signature123456-SignedProperties123456"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-12-15T13:31:42-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>fITGKX7NGkWPL1CuM4T1RRdnB+I=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=VATES-A66721499,CN = UANATACA CA2 2016, OU = TSP-UANATACA, O = UANATACA S.A.,L = Barcelona (see current address at www.uanataca.com/address),C = ES</ds:X509IssuerName><ds:X509SerialNumber>4025900474323430105</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-123456"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

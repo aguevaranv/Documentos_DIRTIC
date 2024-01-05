@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2211202301179171577200128250030000031935658032319</numeroAutorizacion>
+<fechaAutorizacion>2023-11-25T01:30:42-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>Econofarm S.A.</razonSocial>
+        <nombreComercial>SANASANA FR - SAN JUAN DE CUMBAYA</nombreComercial>
+        <ruc>1791715772001</ruc>
+        <claveAcceso>2211202301179171577200128250030000031935658032319</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>825</estab>
+        <ptoEmi>003</ptoEmi>
+        <secuencial>000003193</secuencial>
+        <dirMatriz>AV. DE LOS SHYRIS S/N Y SECUNDARIA</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>22/11/2023</fechaEmision>
+        <dirEstablecimiento>JUAN LEON MERA S-640 Y JOAQUIN</dirEstablecimiento>
+        <contribuyenteEspecial>393</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>ANGEL UVALDO GUEVARA VALDIVIEZO</razonSocialComprador>
+        <identificacionComprador>1706479373</identificacionComprador>
+        <totalSinImpuestos>3.86</totalSinImpuestos>
+        <totalDescuento>0</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>3.86</baseImponible>
+                <tarifa>0</tarifa>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>3.86</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>3.86</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>215891</codigoPrincipal>
+            <descripcion>PEDIALYTE MAX 60 MEQ MANZANA 500 ML</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>3.86</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>3.86</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>3.86</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="DIRECCION">SP SN</campoAdicional>
+        <campoAdicional nombre="DESCUENTO">0.68</campoAdicional>
+        <campoAdicional nombre="DEDUCIBLE MEDICINAS">3.86</campoAdicional>
+        <campoAdicional nombre="DOCUMENTO INTERNO">201918302</campoAdicional>
+        <campoAdicional nombre="EMAIL">gpf@gpf.com</campoAdicional>
+        <campoAdicional nombre="FOLIO">w62pyq7h9</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature992124"><ds:SignedInfo Id="Signature-SignedInfo385405"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod><ds:Reference Id="SignedPropertiesID835665" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature992124-SignedProperties856235"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>LBN/poi9lq6uimY4FrVg0LZdIrU=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate1705767"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>cut0QhYoIDiHLlThcPla3NG2JHk=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-622528" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>IhwvqKpbeqv0j+XQl/kXqE2Afks=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue829557">pMaRK9uihHILBF7kOuQevdQWitDPPKoyIlJ54V4XQqhraR++27jyAvqdKE9BN+/pC99gF5kQSyGR7W5SOoWy59I5Tu6Y+nstVRKNr8T1cvQ8xbVOYvhyqL8pMqhD3t9xDFTFQ6PuvqzdHOfgfHmxAnnWOKsRGJ8bySx6hUe0VHPi6OOlDetxu2BF57sCTvcCQW2gKnjOOrS2Qw34+IW5YF0k0QVgn+RLt44L9+K5U2jkvgfnf+gaXAXEHpONPEGFfzm1IMbbWmdKYN4V0JVqedRJAReCq6usN8CSSv3TDEKdL4l++j+5sh+4lYBxs6uKjbi2LjL2vAtCC6iABHwWQg==</ds:SignatureValue><ds:KeyInfo Id="Certificate1705767"><ds:X509Data><ds:X509Certificate>MIIMFjCCCf6gAwIBAgIEJ+qb1TANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzA2MDYxNjE2MzhaFw0yNTA2MDUxNjE2MzhaMIGdMSYwJAYDVQQDDB1NSUdVRUwgQU5HRUwgQ0VMRURPTiBHT05aQUxFWjEVMBMGA1UEBRMMMDYwNjIzMTEyNjA4MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAK5JasLK3qyG0hVGpvIoTfXXks3HcEMH0MPGCCPwVDIwOt5G4WXreK6yYAMbedxIdmMxuXCizOX4S7R6rk31TMQqUhhNPkfGMXeFEcxgyLjVqr9s+hTKEuB064FaCWwy8ng+sU0bFxJwmLnK3ndxT+WdMAQsMu19BkSnPHlY3oJhohc5Y+8npT6XzcYs+ehp9XnpASVmlkv2p6NqNdKWpRLRWjmo+qnsOZ5kWrQjpTvp0kLHJaC3qhmPV7Fz6IgfHFHafNg6ZddOhXs4mF30WVZkWQygofwVkaEddCKDErgNFAWHwNnjhicOf/olkmHN2bMWDkt7B5qJ5Py+G7SW/9kCAwEAAaOCB14wggdaMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMDIGA1UdEQQrMCmBJ2dfcmVwcmVzZW50YW50ZWxlZ2FsQGNvcnBvcmFjaW9uZ3BmLmNvbTCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBQdjPUlFIJV/U/Na/+PsULnKrbzIzArBgNVHRAEJDAigA8yMDIzMDYwNjE2MTYzOFqBDzIwMjUwNjA1MTYxNjM4WjALBgNVHQ8EBAMCBeAwJAYKKwYBBAGCpnIDBQQWDBRQUkVTSURFTlRFIEVKRUNVVElWTzAaBgorBgEEAYKmcgMBBAwMCjE3NTk3MDk4MzMwGgYKKwYBBAGCpnIDCQQMDApSVU1JTklBSFVJMBEGCisGAQQBgqZyAyIEAwwBLjAwBgorBgEEAYKmcgMHBCIMIEFWIERFIExPUyBTSFlSSVMgU04gWSBTRUNVTkRBUklBMBwGCisGAQQBgqZyAwIEDgwMTUlHVUVMIEFOR0VMMB8GCisGAQQBgqZyAyAEEQwPMDAxMDE5MDAwMTQxOTg4MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAXBgorBgEEAYKmcgMDBAkMB0NFTEVET04wHgYKKwYBBAGCpnIDCgQQDA5FQ09OT0ZBUk0gUy5BLjAdBgorBgEEAYKmcgMLBA8MDTE3OTE3MTU3NzIwMDEwEgYKKwYBBAGCpnIDHQQEDAJObzAYBgorBgEEAYKmcgMEBAoMCEdPTlpBTEVaMBoGCisGAQQBgqZyAwgEDAwKMDkyMzgyOTgwMDANBgkqhkiG9w0BAQsFAAOCAgEAKGVuMqLnxr417k9U9Aqj9pSjuPDOP2mr2XwbwpYu6bLdKl8mQUBnjq5CMV4bude+wy2j6sbWKb6Wkzx/i8bsfTIeQaCCg9Kl3VCwS55mSOVsRyHNTvNOrPI8dABGv9jXmt+RJtPVor8esf6dfTWnO0mxfFSs63zv8l/i1BfEUwF78IG9Ha+jlFrBvliTImRAkvhjhRyvoD7x3z2BZkv49/RETlV1Sqi62fHC9vUbJxT4ktMTNxJWh0Av9WYGsBzYSuZYHGGal90Zp9eHd7Xm4WOtsRoOwdo3qDb4si2QuEkDUArt1mnQEIoTMhUX1keSKJxrvsngl+FIXMZThgczEmY1u7h/jSMNoYleXjLAx/jcr2OVxe9VABXOLzHGy/YvTSQAU57qSvTDsrKFda4+9OerG6QFZ57XCU/h9YHOC+0IWhBg1I2L5HJldQAsxpthO2LUb1U7hVnr64lGhs7j7gbEfUgFuRxkoac2O/rLZqM2xFqHwbVnFPcXnUtdbL6Ll8veTRCFq99/kgAYtouF+wsB8K+WHW2nH4rgyEcBPdxgvRc2Rke1C3zwZtL6sImzWd5ooxAO2MWrhcvB766NYst2Y3gOjYEqWiWfuAfBrgd2cI04SWyryzsl3ycOF1sdwwDh+tkJ/LvzQd5ZarU450BH8AmVuBi8UaToToCF0Do=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>
+rklqwsrerIbSFUam8ihN9deSzcdwQwfQw8YII/BUMjA63kbhZet4rrJgAxt53Eh2YzG5cKLM5fhLtHquTfVMxCpSGE0+R8Yxd4URzGDIuNWqv2z6FMoS4HTrgVoJbDLyeD6xTRsXEnCYucred3FP5Z0wBCwy7X0GRKc8eVjegmGiFzlj7yelPpfNxiz56Gn1eekBJWaWS/ano2o10palEtFaOaj6qew5nmRatCOlO+nSQscloLeqGY9XsXPoiB8cUdp82Dpl106FeziYXfRZVmRZDKCh/BWRoR10IoMSuA0UBYfA2eOGJw5/+iWSYc3ZsxYOS3sHmonk/L4btJb/2Q==
+</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature992124-Object199065"><etsi:QualifyingProperties Target="#Signature992124"><etsi:SignedProperties Id="Signature992124-SignedProperties856235"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-11-25T01:30:42-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>7LhLverADWNId1J0Bd3jutO4b7Q=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>669686741</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-622528"><etsi:Description>Contenido Comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2711202301171881500200120033110000118730000000116</numeroAutorizacion>
+<fechaAutorizacion>2023-11-28T10:44:07-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>PEREZ FLORES SANTIAGO JAVIER</razonSocial>
+        <nombreComercial>PEREZ FLORES SANTIAGO JAVIER</nombreComercial>
+        <ruc>1718815002001</ruc>
+        <claveAcceso>2711202301171881500200120033110000118730000000116</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>003</estab>
+        <ptoEmi>311</ptoEmi>
+        <secuencial>000011873</secuencial>
+        <dirMatriz>MIRAVALLE 1 EUGENIO ESPEJO S N Y OSWALDO GUAYASAMIN</dirMatriz>        
+<agenteRetencion>1</agenteRetencion>
+        </infoTributaria>
+        <infoFactura>
+        <fechaEmision>27/11/2023</fechaEmision>
+        <dirEstablecimiento>MIRAVALLE CUMBAYA</dirEstablecimiento>        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>ANGEL GUEVARA VALDIIVIESO</razonSocialComprador>
+        <identificacionComprador>1706479373001</identificacionComprador>
+        <direccionComprador>SAN JUAN BAJO</direccionComprador>
+        <totalSinImpuestos>113.77</totalSinImpuestos>
+        <totalDescuento>5.99</totalDescuento>
+        <totalConImpuestos> 
+                    <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>2</codigoPorcentaje>
+                <baseImponible>113.77</baseImponible>
+                <valor>13.65</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>127.42</importeTotal>
+        <moneda>DOLAR</moneda>
+        
+        <pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>127.42</total>
+   </pago>         </pagos>
+         </infoFactura>
+         <detalles>
+        <detalle>
+            <codigoPrincipal>00000904</codigoPrincipal>
+            <codigoAuxiliar>00000904</codigoAuxiliar>
+            <descripcion>INTACO BONDEX PREMIUM 1 - 40KG</descripcion>
+            <cantidad>6.000000</cantidad>
+            <precioUnitario>19.851300</precioUnitario>
+            <descuento>5.96</descuento>
+            <precioTotalSinImpuesto>113.15</precioTotalSinImpuesto>
+             
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12.00</tarifa>
+                    <baseImponible>113.15</baseImponible>
+                    <valor>13.58</valor>
+                 </impuesto>
+          </impuestos>
+        </detalle> 
+        <detalle>
+            <codigoPrincipal>00001116</codigoPrincipal>
+            <codigoAuxiliar>00001116</codigoAuxiliar>
+            <descripcion>FANDELI LIJA AGUA  150 799592000542</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>0.350000</precioUnitario>
+            <descuento>0.02</descuento>
+            <precioTotalSinImpuesto>0.33</precioTotalSinImpuesto>
+             
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12.00</tarifa>
+                    <baseImponible>0.33</baseImponible>
+                    <valor>0.04</valor>
+                 </impuesto>
+          </impuestos>
+        </detalle> 
+        <detalle>
+            <codigoPrincipal>00001148</codigoPrincipal>
+            <codigoAuxiliar>00001148</codigoAuxiliar>
+            <descripcion>FANDELI LIJA AGUA  240 799592000382</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>0.296600</precioUnitario>
+            <descuento>0.01</descuento>
+            <precioTotalSinImpuesto>0.28</precioTotalSinImpuesto>
+             
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12.00</tarifa>
+                    <baseImponible>0.28</baseImponible>
+                    <valor>0.03</valor>
+                 </impuesto>
+          </impuestos>
+        </detalle> 
+    </detalles>    <infoAdicional>
+        <campoAdicional nombre="eMail">auguevarav@gmail.com</campoAdicional>
+        <campoAdicional nombre="Sistema">FenixPRO</campoAdicional>
+        <campoAdicional nombre="Vendedor">VENDEDOR FENIK 3</campoAdicional>
+        <campoAdicional nombre="Telefono">987596599</campoAdicional>
+        <campoAdicional nombre="Correo">contabilidad.fenik@gmail.com</campoAdicional>
+        <campoAdicional nombre="Forma Pago">SIN UTILIZACION DEL SISTEMA FINANCIERO USD-127.42</campoAdicional>
+        <campoAdicional nombre="Plazo">0 DIAS</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature282262"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="Reference-ID-153670" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>0BlJI0JD4KZqaJ35tKUe1/Q8UvM=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate128371"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>J4yl6Gg4gPsrl/Sa1ghDEIh/xt8=</ds:DigestValue></ds:Reference><ds:Reference Id="SignedPropertiesID450280" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature282262-SignedProperties949645"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>40eEtAaTR7TNT7H1I6ii7En6J5Q=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue240111">hW+FxM/QZzMtyO+HAajcgnaie6Yb+DYuvwqx/gj1rsHF2h0briv593RSBcmkz07hQveMr9B9lQKkQ5xhAdXwz3xHB+D2g8aHsSGMraq0xn8ijQq4z2Z8q3HNDpNun5Bu0aM9/Ed4/Cln8pSHqMh+tPvxu/7N43tK/Og+fTfOixXEJJqC5DxK1/eUungiMyeLqQTzveeLNwkrVHok+zalQugpI8Uz5jdgvufuiUzR5gKA2rIrA7MoOHKKBoP1P43H5bvJKswuHuobOYBE4TgGlP3ptF49dNLb3U2Ne/I6+S0ia+NY6QV+iZguKU+TGq1rX4jClwQdBgfJareg1bi9QQ==</ds:SignatureValue><ds:KeyInfo Id="Certificate128371"><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>ozXTdYqXNp0xJ4RknFXbZRYypAjbN4X5kwncDBhOE86ACCTZiEKK0L3QlyYE+r7plwOAdpieYCke5sJGFkd1VMAHMIPKmnPm8OraaFhsb0UwQPKsBwWnLwdmYWcmKBzxs8GfL5dhI670r1MBxSwWJsVUeadx9SKb7jvflp5jIPsgcAPWKgpxpJNVWn5w5oa4NMZrLEd1aAHVkS0n0RPCrAAm69/mhMnvTnBNzw0KEwNYitwsIisVjU+8NOCzTTlwPpP7X+lJKNbGrxxyr0CQRGL/Vcw/xfJnHU6J/rz4CXU5BOgZ2Ysv02hPUZMmDrQqd7J6KpPLhaux6Q8wFvN6OQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature282262-Object862574"><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature282262"><etsi:SignedProperties Id="Signature282262-SignedProperties949645"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-11-28T10:44:06-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>sEfzeqzkAph1Xo7m8yp8QXjoKNI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>L=Guayaquil, CN=Datil Autoridad de Certificacion Subordinada, S=Guayas, OU=Entidad de certificacion de informacion, O=Datilmedia S.A., C=EC</ds:X509IssuerName><ds:X509SerialNumber>60579680575083132802183043233457962575</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-153670"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

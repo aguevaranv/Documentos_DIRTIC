@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0612202301179122175300120013190000190466661850718</numeroAutorizacion>
+<fechaAutorizacion>2023-12-07T10:33:12-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>HOSPITAL DE LOS VALLES S.A. HODEVALLES</razonSocial>
+		<nombreComercial>HOSPITAL DE LOS VALLES S.A. </nombreComercial>
+		<ruc>1791221753001</ruc>
+		<claveAcceso>0612202301179122175300120013190000190466661850718</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>319</ptoEmi>
+		<secuencial>000019046</secuencial>
+		<dirMatriz>AV. INTEROCEANICA KM. 12 1/2 S/N y AV. FLORENCIA</dirMatriz>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>06/12/2023</fechaEmision>
+		<dirEstablecimiento>AV. INTEROCEANICA KM. 12 1/2 S/N y AV. FLORENCIA</dirEstablecimiento>
+		<contribuyenteEspecial>571</contribuyenteEspecial>
+		<obligadoContabilidad>SI</obligadoContabilidad>
+		<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		<razonSocialComprador>GUEVARA VALDIVIEZO ANGEL</razonSocialComprador>
+		<identificacionComprador>1706479373</identificacionComprador>
+		<totalSinImpuestos>        13.60</totalSinImpuestos>
+		<totalDescuento>         0.00</totalDescuento>
+		<totalConImpuestos>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<baseImponible>        13.60</baseImponible>
+				<valor>         0.00</valor>
+			</totalImpuesto>
+		</totalConImpuestos>
+		<propina>         0.00</propina>
+		<importeTotal>        13.60</importeTotal>
+		<moneda>DOLAR</moneda>
+		<pagos>
+			<pago>
+				<formaPago>01</formaPago>
+				<total>        13.60</total>
+			</pago>
+		</pagos>
+	</infoFactura>
+	<detalles>
+		<detalle>
+			<codigoPrincipal>081737</codigoPrincipal>
+			<descripcion>OXCARBAZEPINA TABLETA REC 300MG  TRILEPTAL  NOSI</descripcion>
+			<cantidad>20</cantidad>
+			<precioUnitario>         0.68</precioUnitario>
+			<descuento>         0.00</descuento>
+			<precioTotalSinImpuesto>        13.60</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0</tarifa>
+					<baseImponible>        13.60</baseImponible>
+					<valor>         0.00</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+	</detalles>
+	<infoAdicional>
+		<campoAdicional nombre="CAJA: ">EFARP-NSARAVIA</campoAdicional>
+		<campoAdicional nombre="FORMAS DE PAGO: ">CC CONTADO CXC 13 6</campoAdicional>
+		<campoAdicional nombre="PACIENTE: ">NHCL:17165001 ADM:4 PRF:28944410115</campoAdicional>
+		<campoAdicional nombre="NOMBRE: ">GUEVARA VALDIVIEZO ANGEL</campoAdicional>
+		<campoAdicional nombre="PLAN CONVENIO: ">PLN 0 PLAN NORMAL</campoAdicional>
+		<campoAdicional nombre=" ">Devolucion de Productos hasta 3 dias despues de la fecha de compra</campoAdicional>
+		<campoAdicional nombre=" ">Art. 45 y 71 de la Ley Organica de Defensa del Consumidor</campoAdicional>
+		<campoAdicional nombre=" ">Cambio de Facturas hasta 8 dias despues de la emision de la factura electronica</campoAdicional>
+		<campoAdicional nombre=" ">Codigo de Comercio. Registro Oficial 497 de Mayo 2019</campoAdicional>
+	</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature202479">
+<ds:SignedInfo Id="Signature-SignedInfo862275">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+<ds:Reference Id="SignedPropertiesID182937" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature202479-SignedProperties403016">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+<ds:DigestValue>ZfFBHWt8isu588SupkpKwvXJvaQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1338487">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+<ds:DigestValue>ZoAx+kkRukeZKVX3mx36hR+sZ8k=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-658353" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+<ds:DigestValue>RyhkuFp5kRg+N52D4IYuRV+TXLs=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue65664">
+eEqRMJGF1w9rj5lgANqhdVzDiXcdt3gNgfDri+b489MwhjuvIPFri3OljxX7dCSs9vwV0Hf/wFTe
+NK1Q5r6hz3iiZIOfFTltE1VKsAI+pAafgO9iu8FU6lH7UPJIWF+mF+9owq01vcqx8LAV/LseoGCZ
+5PdnhQtFCmP9J0kekmV2ISMlrPwK2rhULHw1B06gL98oIo5yPJDAE8bGf8O+4eRSKnH/Gws7E7Lc
+//STJ9qsBFzO9NRIi8l4hbnzu/CWw5DjHOqgri17R06CHJKuUjsljcsSmwlNd6X7ltd9qhzpd1R9
+W0kC2bg9hpPXfN7EBUD0dxo58d0FuZ83PdJ7Tg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1338487">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMKzCCChOgAwIBAgIETQdJwTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzAzMjAxMzExMDlaFw0yNTAzMTkxMzExMDlaMIGfMSgw
+JgYDVQQDDB9WRVJPTklDQSBQQVVMSU5BIEJBUVVFUk8gT1NPUklPMRUwEwYDVQQFEwwyMDAzMjMw
+ODIwNDkxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEd
+MBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAgvwInDyLlPaO1BBkpZi1O2aYHd+A8JR7BN/CgmdsqyfsUorLFMus
+VOpZarCig4mwoALJyxYS1kPG6hcIGwQDbMbkCZEDjeqO+9hd/JZppsAWh2+Bbu+MFDJGkpIWP6PM
+rtfh9IHH8silEwJvbozEpwfIFLbqq7US1dxZs+nxL1GZdAhK2QhoHjmeq7GY1iZCAFOtGty12vie
+ltFuLQuOV911jYxO4pKVE448RqsmOJbZRQJIgkLrUkgsT5wWoyEV9ZuPr1mzyT8R+qAX77kMNDIC
+nQBu2xpdp4JBBEMOrGmKuE8+EUMkZNSvwXx+QGB59+y7zsm7mF5m6mErZ3BGbwIDAQABo4IHcTCC
+B20wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEF
+BQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9l
+amJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6
+Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25M
+aXN0P2Jhc2UwKwYDVR0RBCQwIoEgdmJhcXVlcm9AaG9zcGl0YWxkZWxvc3ZhbGxlcy5jb20wggES
+BgNVHSAEggEJMIIBBTBgBgorBgEEAYKmcgIKMFIwUAYIKwYBBQUHAgIwRB5CAEMAZQByAHQAaQBm
+AGkAYwBhAGQAbwAgAGQAZQAgAE0AaQBlAG0AYgByAG8AIABkAGUAIABFAG0AcAByAGUAcwBhMIGg
+BgorBgEEAYKmcgIEMIGRMIGOBggrBgEFBQcCARaBgWh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Q
+b2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gTWllbWJybyBkZSBFbXByZXNhLnBkZjCCAqIGA1UdHwSC
+ApkwggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1
+YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJ
+RklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJ
+RklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQsw
+CQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5l
+Yy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9
+RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBT
+LkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRw
+czovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIv
+d2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUxoS1uW8m
+MmaFFMZRK9AL0ItuPmwwKwYDVR0QBCQwIoAPMjAyMzAzMjAxMzExMDlagQ8yMDI1MDMxOTEzMTEw
+OVowCwYDVR0PBAQDAgXgMCQGCisGAQQBgqZyAwUEFgwUSkVGRSBERSBDT05UQUJJTElEQUQwGgYK
+KwYBBAGCpnIDAQQMDAoxNzExNjE2MTY3MBUGCisGAQQBgqZyAwkEBwwFUVVJVE8wEQYKKwYBBAGC
+pnIDIgQDDAEuMDkGCisGAQQBgqZyAwcEKwwpQVYgSU5URVJPQ0VBTklDQSBLTSAxMiAxIDIgWSBB
+ViBGTE9SRU5DSUEwIAYKKwYBBAGCpnIDAgQSDBBWRVJPTklDQSBQQVVMSU5BMB8GCisGAQQBgqZy
+AyAEEQwPMDAyMDAxMDAwNTg3Njc2MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwE
+CQwHRUNVQURPUjAXBgorBgEEAYKmcgMDBAkMB0JBUVVFUk8wNQYKKwYBBAGCpnIDCgQnDCVIT1NQ
+SVRBTCBERSBMT1MgVkFMTEVTIFMgQSBIT0RFVkFMTEVTMB0GCisGAQQBgqZyAwsEDwwNMTc5MTIy
+MTc1MzAwMTASBgorBgEEAYKmcgMdBAQMAk5vMBYGCisGAQQBgqZyAwQECAwGT1NPUklPMBoGCisG
+AQQBgqZyAwgEDAwKMDk4NDA2Nzg4MjANBgkqhkiG9w0BAQsFAAOCAgEAOXTzMlJA1g/8nI2u1sVf
+88Z3IR1AIcZbEmK4ImH22uR6kKNX0O/Ae7SpWhszLqL+W0Exxe+kcIvjZQFozkMecmJebidvWQbd
+CprI8WGoqXEEIUFzCF4+0iIy9TTbLf0Clzgd9M0yJXNnnFJScGwCaAcqL6veu+DsD1bcKMZWoGPL
+XIvQCZi81lnjTiJrvVdqVZtCUs80UFSiqjiCtYCOTkteUuIAFcvaqdrTRU3QgEGaTiunXzlP8jQW
+Zpz1gBYY+WmQpZNVOyeVpq00goyOuQZQKCamhADGZIEMT7b6NwjS6xplerw9GVQcyCqcCIdk3JfC
+6p02sTs9dgiCFLSP/z5rmWGkm3ODIKn8ia8dAEy0jMu0KtLDUUx7VUH6QGAd6niwZ3pgI9EXm1GJ
+aQM/1jujl17UHh0ididP+h3SBQNpKuxX8faZk2kFw/M6QZjdo/rgFdkFQHseOATis/fCsvaRYhlZ
+YT8VBovuGRTkFUuCWDe3o/vHaQAEfgAtxRCBmWrTwPjRUhxR5XSZELPg7ZrhDd1T6AruZy4v/ZZS
+vIq79h9GJPRXSAY1JqOdbCJNBVbSolCeLpzedYzV1FJVUUGZVCV+QbbDJQ/QGbdCO6eIZ1Qyb4kg
+zW8GE5Y7eTOB8lCu5KfHBkfeR/cXRzWQk9mp2Ur3/5q5tfraPtIeYrM=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+gvwInDyLlPaO1BBkpZi1O2aYHd+A8JR7BN/CgmdsqyfsUorLFMusVOpZarCig4mwoALJyxYS1kPG
+6hcIGwQDbMbkCZEDjeqO+9hd/JZppsAWh2+Bbu+MFDJGkpIWP6PMrtfh9IHH8silEwJvbozEpwfI
+FLbqq7US1dxZs+nxL1GZdAhK2QhoHjmeq7GY1iZCAFOtGty12vieltFuLQuOV911jYxO4pKVE448
+RqsmOJbZRQJIgkLrUkgsT5wWoyEV9ZuPr1mzyT8R+qAX77kMNDICnQBu2xpdp4JBBEMOrGmKuE8+
+EUMkZNSvwXx+QGB59+y7zsm7mF5m6mErZ3BGbw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature202479-Object667595"><etsi:QualifyingProperties Target="#Signature202479"><etsi:SignedProperties Id="Signature202479-SignedProperties403016"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-12-07T10:32:44-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>nr53CK80fWNDwtprEOBik1ZjhPU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1292323265</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-658353"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

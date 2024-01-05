@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0108202301172191651600120010010000012193744532515</numeroAutorizacion>
+<fechaAutorizacion>2023-08-01T09:40:36-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>CAMPOS RAMIREZ ESTEBAN</razonSocial>
+	    <nombreComercial>CAMPOS RAMIREZ ESTEBAN</nombreComercial>
+	    <ruc>1721916516001</ruc>
+	    <claveAcceso>0108202301172191651600120010010000012193744532515</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>001</ptoEmi>
+	    <secuencial>000001219</secuencial>
+	    <dirMatriz>ORION Número: CS23 Intersección: AV. GALAXIAS Conjunto: VILLA MILANO</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>01/08/2023</fechaEmision>
+		
+			<dirEstablecimiento>ORION Número: CS23 Intersección: AV. GALAXIAS Conjunto: VILLA MILANO</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>ANGEL GUEVARA</razonSocialComprador>
+	    <identificacionComprador>1706479373</identificacionComprador>
+		<direccionComprador>SANGOLQUI</direccionComprador>
+	    
+	    <totalSinImpuestos>32.50000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>2</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>32.50</baseImponible>
+				<valor>3.90000</valor>
+			</totalImpuesto>
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>36.40000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>36.40</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>001-041</codigoPrincipal>
+		<codigoAuxiliar>001-041</codigoAuxiliar>
+      	<descripcion>Medidor chorro múltiple 1/2" Younio, L=190MM, visor 45°, R-160 pre-equipado</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>28.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>28.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>28.00000</baseImponible>
+          <valor>3.36</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>002-001</codigoPrincipal>
+		<codigoAuxiliar>002-001</codigoAuxiliar>
+      	<descripcion>Válvula corte antifraude BR H-H 1/2"</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>4.500000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.50</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>4.50000</baseImponible>
+          <valor>0.54</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">PAGO DE CONTADO.  UNA VEZ ENTREGADO Y/O FACTURADO EL MATERIAL, NO SE ACEPTAN DEVOLUCIONES. (SERIE 2215057167)</campoAdicional>
+    		
+    	
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature694880">
+<ds:SignedInfo Id="Signature-SignedInfo331840">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID846330" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature694880-SignedProperties545281">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>oRS/a8YJSXY9HJ7k7lXMGoGc9Qg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1651134">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>HH557RtKIoFzZC86SYBHIOGtZyo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-562357" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>PsS77nxWfzriLpVJ0VKXwSANlQA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue725448">
+D0aD29bOOpeps7RZXGrij89jHjwI4LWV/CgdtJ/twURr5Qcr/YwgIiv5TKPRBkFIEIpwjkoW9cj4
+QR2Z8Q68LWZ1XPHg/CPvyGDnC/6wQg9jLOkSlXncMAeGP4ZQQMYYTjFpgUKlkgM8//PlWKe9eHVq
+4cN5SGGguDN2oikefksU4untr+meE/9V9Fu5kbDDGq8BmsOF6nSDRDPEnrnhvQnx+mAzY4XjxOza
+GB4MGORf38TihYNou5jGIOCq1Lv+X9mnzlXWCgFz5XLPoHBCKHkgOnXt27X0j1dti/WaUaQrbEB3
+2xoWCUDC40Y9ZwmHaZe98SDzpWxD5EYiOixViw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1651134">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJKDCCBxCgAwIBAgIIXCCvC804LGswDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMDEyNDE3MjYwMFoXDTI1MDEyMzE3MjYwMFowgZIxCzAJBgNVBAYTAkVDMRcwFQYDVQQEDA5D
+QU1QT1MgUkFNSVJFWjEQMA4GA1UEKgwHRVNURUJBTjEZMBcGA1UEBRMQSURDRUMtMTcyMTkxNjUx
+NjEfMB0GA1UEAwwWRVNURUJBTiBDQU1QT1MgUkFNSVJFWjEcMBoGA1UEYQwTVElORUMtMTcyMTkx
+NjUxNjAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIGbezmfGdJOk77Y6qTI0Hmt
+NyUttgm9RwF05VOgO/iMicR0Q7mlKMPYcA4pZq7j1vMj7GUCN4MmYN9bcB7MITKgkDJKurgPl9oK
+PNkq6iDovZKFLkuRSxFTvlnl7VkFfKY+2x+h9BG4ei4I1giWnROyX9MmMqijHB/D6+wFsFRH5klR
+PRi7lrYDNyXRGJmId1RHVgj6x/BRLkPt5FqviqJm1v6/ImGsWVx/qxyg2Af0ABLFzcFNzlI6pTBX
+fXSIQ0NrA4kgD8oTgcaxZTmNqD9K6Uxkn3wytiNqY3733JfGTFGVmWpvxnNUUI+4sNprtSPIwB5c
+OSTFsd3T0ekVsncCAwEAAaOCBFgwggRUMBsGCysGAQQBgvE2ZgMBBAwMCjE3MjE5MTY1MTYwHgYL
+KwYBBAGC8TZmAwsEDwwNMTcyMTkxNjUxNjAwMTCB1wYIKwYBBQUHAQEEgcowgccwVQYIKwYBBQUH
+MAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3dubG9hZC90c3BfY2VydGlmaWNh
+dGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMS51YW5hdGFjYS5j
+b20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AyLnVhbmF0YWNhLmNv
+bS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBQXtTqj+tBt+WoROYZRmKtCDXKclzAMBgNVHRMB
+Af8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9MIGZBgNVHSAEgZEwgY4wgYsG
+DCsGAQQBgvE2ZgIBATB7MDcGCCsGAQUFBwIBFitodHRwczovL3d3dy51YW5hdGFjYS5jb20vcHVi
+bGljL3BraS9kcGMtZWMvMEAGCCsGAQUFBwICMDQMMkNFUlRJRklDQURPIERFIFBFUlNPTkEgTkFU
+VVJBTCBPIEZJU0lDQSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+oDyGOmh0dHA6Ly9jcmwx
+LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwQKA+oDyGOmh0
+dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmww
+DgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAY4GA1UdEQSC
+AYUwggGBgR5ub3RpZmljYWNpb25lc2Zpcm1hc0BzaWlnby5jb22gGwYLKwYBBAGC8TZmAwGgDAwK
+MTcyMTkxNjUxNqAYBgsrBgEEAYLxNmYDAqAJDAdFU1RFQkFOoBcGCysGAQQBgvE2ZgMDoAgMBkNB
+TVBPU6AYBgsrBgEEAYLxNmYDBKAJDAdSQU1JUkVaoEIGCysGAQQBgvE2ZgMHoDMMMU9SSU9OIFkg
+QVYuIEdBTEFYSUFTXCwgQ09OSlVOVE8gVklMTEEgTUlMQU5PIENTMjOgHwYLKwYBBAGC8TZmAwig
+EAwOMDA1OTM5Njc4NTIwMDagFgYLKwYBBAGC8TZmAwmgBwwFUVVJVE+gHgYLKwYBBAGC8TZmAwug
+DwwNMTcyMTkxNjUxNjAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6ApBgsrBgEEAYLxNmYDMqAaDBhQ
+RVJTT05BIE5BVFVSQUwgTyBGSVNJQ0GgGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG
+9w0BAQsFAAOCAgEAfq1OBCf9+UXvXsAgX7OIVbmmzJE47eiRL/FTsFTR1i96VaoifA+3xn+uIkEJ
+ac/royEf+FtCFyd2G0BGffrrF1h+9QY+GOZftPA1gMM1VTL3BkG8PHARY1WEZlRJg8u87pQ78tWp
+Syz6/ETD6pYLkzhkC2e/JkkH7QEFcJ0HubHoyCIS39ti7K5PMk5BQJgTi5WQlIALQc6QoVo5R5rb
+tpPj1tzgb9zuEJr7n7Ku64UwyaiHSR5OjO3Z3qmduqzQvMqmGzBHTIRlZovxr71ssnZbWzarUmk1
+5uMRKrI+apNtwueR2nu+dAxEw8WxXFMaGyR0LdCP0fsodIZnuAeqbkBhsQMi4K8rNX/ShFmuKvvK
+fjVdn7Zk0vCm0Davdte3oYI5xi7OeBtS18UmkfQqxG1QGhodtrgOx9UODqoL+zgU1MRZ7f97RLPB
+Q08g8/H6tj7oolgFCgY1AATdDh9HDslIcSmLmkQrQlPY6iRlK5LTBE+kjLXpp3I5btdrRFdde9mF
+XFpI/xH0Lt9hgIxgHFB7VAZaUVeq+4X26z1jGicZMDC0A6KKvdoerDP3fV97p00aZYGJWhEp9IyU
+RqR6PxWB6RI0kO6DTsy8Skfb04vo/Tl1h3h8lea+QxJjKBUE/UswFITSseC+RzRzYidEGCXIbVAi
+iD3KdAYlILDAdhA=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+gZt7OZ8Z0k6TvtjqpMjQea03JS22Cb1HAXTlU6A7+IyJxHRDuaUow9hwDilmruPW8yPsZQI3gyZg
+31twHswhMqCQMkq6uA+X2go82SrqIOi9koUuS5FLEVO+WeXtWQV8pj7bH6H0Ebh6LgjWCJadE7Jf
+0yYyqKMcH8Pr7AWwVEfmSVE9GLuWtgM3JdEYmYh3VEdWCPrH8FEuQ+3kWq+KombW/r8iYaxZXH+r
+HKDYB/QAEsXNwU3OUjqlMFd9dIhDQ2sDiSAPyhOBxrFlOY2oP0rpTGSffDK2I2pjfvfcl8ZMUZWZ
+am/Gc1RQj7iw2mu1I8jAHlw5JMWx3dPR6RWydw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature694880-Object614935"><etsi:QualifyingProperties Target="#Signature694880"><etsi:SignedProperties Id="Signature694880-SignedProperties545281"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-08-01T09:40:30-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>GO9Dc8mqdP9Yb9fSmSdXJDGCbVg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>6638498315966622827</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+
